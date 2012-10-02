@@ -1,0 +1,206 @@
+[1] "segovia - 1"
+  -   
+  -   
+[1] "segovia - 2"
+  -   
+  -   
+[1] "segovia - 3"
+clc.BD_incorrect_version_telegram_channel  -  Incorrect version of telegram in the BD %2% Channel %3% connected to CLC %1%. 
+clc.BD_status_MISSING  -  BD %2% Channel %3% connected to CLC %1% has changed to MISSING. 
+clc.CPU_status_DOWN  -  CPU %2% of CLC %1% is FAILED. 
+clc.Fatal_error_system_down  -  CLC %1% down by fatal error on file "%2%" line %3%. 
+clc.IM_CLC_connection_status_DOWN  -  CRITICAL error between CLC %1% and IM %2%. 
+clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO  -  The status connection between CLC %1% and NCEC %2% of %3% is UP (subchannel A DOWN and subchannel B DOWN). 
+clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP  -  The status connection between CLC %1% and NCEC %2% of %3% is UP (subchannel A DOWN and subchannel B UP). 
+clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO  -  The status connection between CLC %1% and NCEC %2% of %3% is UP (subchannel A UP and subchannel B DOWN). 
+clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO  -  The status connection between CLC %1% and NCEC %2% of %3% is DOWN (subchannel A DOWN and subchannel B DOWN). 
+clc.NCEC_status_ALIVE_chann_BROKEN  -  The CLC %1% has a neighbour CEC %2% (%3%) with status ALIVE, and the channel status is BROKEN. 
+clc.NCEC_status_NOT_ALIVE_chann_ACTIVE  -  The CLC %1% has a neighbour CEC %2% (%3%) with status NOT ALIVE, and the channel status is ACTIVE. 
+clc.NCEC_status_NOT_ALIVE_chann_BROKEN  -  The CLC %1% has a neighbour CEC %2% (%3%) with status NOT ALIVE, and the channel status is BROKEN. 
+node.unit.network_adapter_DOWN  -  %2% Network device/s FAILED on %1%. 
+[1] "segovia - 4"
+clc.SAMCLC_CLC_connection_status_DOWN  -  SAMCLC %1% connection with CLC %2% is FAILED. 
+ence.status.PCE_ENCE_communication_DOWN  -  %1% connection with %2% is FAILED. 
+node.node_DOWN  -  %1% is NOT available. 
+node.unit.monitor_detected_unit_DOWN  -  %1% connection with %2% is FAILED. 
+node.unit.unit_DOWN  -  %1% is NOT available. 
+pce.status.PCE_CM_communication_DOWN  -  CM connection with %1% is FAILED. 
+rbc.status.RBC_FAILED  -  La conexi�n con %1% est� en FALLO. 
+[1] "segovia - 5"
+  -   
+  -   
+[1] "sevilla - 1"
+ 
+saml.status.DS_1_5  -  %1% %2%, sin datos en orden 
+saml.status.DS_7_20  -  Telegrama recibido:Canal A iniciado 
+saml.status.DS_7_21  -  Telegrama recibido:Canal B iniciado 
+saml.status.DS_7_63  -  Comunicacion con IM servidor %1% establecida 
+saml.status.DS_7_7  -  El mando %1% rechazado 
+
+[1] "sevilla - 2"
+
+saml.status.DS_10_0  -  %1% %2%, L�mpara verde fundida 
+saml.status.DS_10_12  -  %1% %2%, L�mpara amarilla fundida 
+saml.status.DS_10_24  -  %1% %2%, L�mpara roja fundida 
+saml.status.DS_10_44  -  %1% %2%, L�mpara blanca fundida 
+saml.status.DS_10_52  -  %1% %2%, L�mpara indicadora 1 fundida 
+saml.status.DS_10_56  -  %1% %2%, L�mpara indicadora 2 fundida 
+saml.status.DS_10_60  -  %1% %2%, L�mpara indicadora 3 fundida 
+saml.status.DS_6_2  -  %1% %2%, sin energ�a disponible para movimiento 
+[1] "sevilla - 3"
+ 
+saml.status.DS_1_5  -  %1% %2%, sin datos en orden 
+saml.status.DS_3_10  -  %1% %2%, Ocupaci�n intempestiva 
+saml.status.DS_3_12  -  %1% %2%, Escape material 
+saml.status.DS_3_14  -  %1% %2%, Esc. material colateral 
+saml.status.DS_3_44  -  Subcanal %1% de %2% caido 
+saml.status.DS_3_46  -  Canal de %1% caido 
+saml.status.DS_6_0  -  %1% %2%, falta de comprobaci� 
+saml.status.DS_6_8  -  %1% %2%, no alcanza posici�n final 
+saml.status.DS_7_22  -  Canal comunicaciones CTC caido 
+saml.status.DS_7_27  -  Red 1 desconectada %1% 
+saml.status.DS_7_29  -  Red 2 desconectada %1% 
+saml.status.DS_7_39  -  Red 2 no presente %1% 
+saml.status.DS_7_66  -  Canal A comunicaciones CTC caido 
+saml.status.DS_7_67  -  Canal A comunicaciones CTC activado 
+saml.status.DS_7_68  -  Canal B comunicaciones CTC caido 
+saml.status.DS_7_69  -  Canal B comunicaciones CTC activado 
+[1] "sevilla - 4"  
+SAMEL_CM_communication_DOWN  -  Conexi�n en FALLO entre %1% y CM. 
+saml.status.DS_10_4  -  %1% %2%, sin datos 
+saml.status.DS_1_4  -  %1% %2%, sin datos 
+saml.status.DS_3_4  -  %1% %2%, sin datos 
+saml.status.DS_7_25  -  Energ�a averiada %1% 
+saml.status.DS_7_41  -  SAI averiado %1% 
+saml.status.DS_7_8  -  Canal de comunicaciones con IM %1% caido 
+[1] "sevilla - 5"
+saml.status.DS_7_12  -  Conexion realizada en port servidor %1% 
+saml.status.DS_7_62  -  Intentando la conexion con el servidor %1% 
+saml.status.DS_7_81  -  DOBLE OM: %1% estado %2% 
+
+[1] "camas - 1"
+saml.status.DS_7_20  -  Telegrama recibido:Canal A iniciado 
+saml.status.DS_7_21  -  Telegrama recibido:Canal B iniciado 
+saml.status.DS_7_32  -  El cliente diagnosis se ha desconectado 
+saml.status.DS_7_5  -  Elemento de proyeccion %1%, no definido 
+saml.status.DS_7_63  -  Comunicacion con IM servidor %1% establecida 
+saml.status.DS_7_7  -  El mando %1% rechazado 
+[1] "camas - 2"
+saml.status.DS_10_0  -  %1% %2%, L�mpara verde fundida 
+saml.status.DS_10_12  -  %1% %2%, L�mpara amarilla fundida 
+saml.status.DS_10_24  -  %1% %2%, L�mpara roja fundida 
+[1] "camas - 3"
+saml.status.DS_3_10  -  %1% %2%, Ocupaci�n intempestiva 
+saml.status.DS_3_12  -  %1% %2%, Escape material 
+saml.status.DS_3_14  -  %1% %2%, Esc. material colateral 
+saml.status.DS_3_44  -  Subcanal %1% de %2% caido 
+saml.status.DS_3_46  -  Canal de %1% caido 
+saml.status.DS_6_0  -  %1% %2%, falta de comprobaci� 
+saml.status.DS_6_8  -  %1% %2%, no alcanza posici�n final 
+saml.status.DS_7_22  -  Canal comunicaciones CTC caido 
+saml.status.DS_7_27  -  Red 1 desconectada %1% 
+saml.status.DS_7_29  -  Red 2 desconectada %1% 
+saml.status.DS_7_39  -  Red 2 no presente %1% 
+saml.status.DS_7_66  -  Canal A comunicaciones CTC caido 
+saml.status.DS_7_67  -  Canal A comunicaciones CTC activado 
+saml.status.DS_7_68  -  Canal B comunicaciones CTC caido 
+saml.status.DS_7_69  -  Canal B comunicaciones CTC activado 
+[1] "camas - 4"
+SAMEL_CM_communication_DOWN  -  Conexi�n en FALLO entre %1% y CM. 
+saml.status.DS_1_4  -  %1% %2%, sin datos 
+saml.status.DS_3_4  -  %1% %2%, sin datos 
+saml.status.DS_3_42  -  CPU %1% del IM caida 
+saml.status.DS_7_25  -  Energ�a averiada %1% 
+saml.status.DS_7_41  -  SAI averiado %1% 
+saml.status.DS_7_8  -  Canal de comunicaciones con IM %1% caido 
+[1] "camas - 5"
+saml.status.DS_7_10  -  Servidor escuchando en puerto %1% 
+saml.status.DS_7_12  -  Conexion realizada en port servidor %1% 
+saml.status.DS_7_62  -  Intentando la conexion con el servidor %1% 
+saml.status.DS_7_81  -  DOBLE OM: %1% estado %2% 
+
+
+
+[1] "antequera - 1"
+saml.status.connection_operator_connected  -  Operador %1% conectado. 
+saml.status.printer_file_printing  -  Imprimiendo fichero %1%... 
+saml.status.printer_inactive  -  Impresora inactiva. 
+saml.status.printer_not_available  -  Impresora no disponible. 
+[1] "antequera - 2"
+saml.status.channel_A_CS_down  -  Canal de comunicaciones A con %1%, ca�do. 
+saml.status.channel_A_CS_unknown  -  Canal de comunicaciones A con %1%, en estado desconocido. 
+saml.status.channel_A_down  -  Canal de comunicaciones A con IM, ca�do. 
+saml.status.channel_A_PCI_1_down  -  Canal de comunicaciones A con PCI-E 1, ca�do. 
+saml.status.channel_A_PCI_2_down  -  Canal de comunicaciones A con PCI-E 2, ca�do. 
+saml.status.channel_A_PCI_RJU_down  -  Canal de comunicaciones A (PCI-RJu), ca�do. 
+saml.status.channel_A_PCI_SAM_down  -  Canal de comunicaciones A (PCI-SAM), ca�do. 
+saml.status.channel_B_CS_down  -  Canal de comunicaciones B con %1%, ca�do. 
+saml.status.channel_B_CS_unknown  -  Canal de comunicaciones B con %1%, en estado desconocido. 
+saml.status.channel_B_down  -  Canal de comunicaciones B con IM, ca�do. 
+saml.status.channel_B_PCI_1_down  -  Canal de comunicaciones B con PCI-E 1, ca�do. 
+saml.status.channel_B_PCI_2_down  -  Canal de comunicaciones B con PCI-E 2, ca�do. 
+saml.status.channel_B_PCI_RJU_down  -  Canal de comunicaciones B (PCI-RJu), ca�do. 
+saml.status.channel_B_PCI_SAM_down  -  Canal de comunicaciones B (PCI-SAM), ca�do. 
+saml.status.channel_down_2  -  Canal %1% con el %2%%3% ca�do. 
+[1] "antequera - 3"
+saml.status.channel_CS_down  -  Canal de comunicaciones con %1% ca�do. 
+saml.status.channel_CS_unknown  -  Canal de comunicaciones con %1% en estado desconocido. 
+saml.status.channel_down  -  Canal de comunicaciones con el %1%%2% ca�do. 
+saml.status.channel_IM_down  -  Canal de comunicaciones con el IM ca�do. 
+saml.status.channel_PCI_1_down  -  Canal de comunicaciones con PCI-E 1 ca�do. 
+saml.status.channel_PCI_2_down  -  Canal de comunicaciones con PCI-E 2 ca�do. 
+saml.status.channel_PCI_RJU_down  -  Canal de comunicaciones PCI-RJu ca�do. 
+saml.status.channel_PCI_SAM_down  -  Canal de comunicaciones PCI-SAM ca�do. 
+saml.status.channel_PLO_down  -  Canal de comunicaciones con PLO ca�do. 
+saml.status.channel_PLO_RJU_down  -  Canal de comunicaciones PLO-RJu inactivo. 
+saml.status.CI_data_nok  -  %1%, sin datos. 
+saml.status.energy_48V_battery_nok  -  %1%, fallo en bater�a de 48V CC. 
+saml.status.energy_48V_rect_nok  -  %1%, fallo en rectificador de 48V CC. 
+saml.status.energy_connection_rack_general_failure  -  %1%, fallo general en armario de conexi�n/distribuci� 
+saml.status.energy_generator_fuel_level_low  -  %1%, nivel bajo de combustible en el generador de energ�a. 
+saml.status.energy_generator_general_failure  -  %1%, fallo general del generador de energ�a. 
+saml.status.energy_generator_running  -  %1%, generador de energ�a en funcionamiento. 
+saml.status.energy_net1_disconnected  -  %1%, red 1 desconectada. 
+saml.status.energy_net1_not_present  -  %1%, red 1 no presente. 
+saml.status.energy_net2_disconnected  -  %1%, red 2 desconectada. 
+saml.status.energy_net2_not_present  -  %1%, red 2 no presente. 
+saml.status.energy_net3_disconnected  -  %1%, red 3 desconectada. 
+saml.status.energy_net3_not_present  -  %1%, red 3 no presente. 
+saml.status.energy_PT_failure  -  %1%, falta de tensi�n en agujas. 
+saml.status.energy_SAI_line1_nok  -  %1%, aver�a SAI de l�nea 1. 
+saml.status.energy_SAI_line2_nok  -  %1%, fallo en SAI de l�nea 2. 
+saml.status.energy_SAI_nok  -  %1%, SAI averiado. 
+saml.status.energy_SAI_PT_nok  -  %1%, fallo de SAI de agujas. 
+saml.status.energy_SAI_ST_nok  -  %1%, aver�a SAI Se�alizaci�n y Telecomunicaciones. 
+saml.status.energy_switch_rack_general_failure  -  %1%, fallo general en armario de conmutaci� 
+saml.status.MS_alarm_RE  -  Alarma RE - Se�al %1% 
+saml.status.MS_alarm_SE_blue_lamp_fused  -  Alarma SE - Se�al %1% Foco azul Fundido. 
+saml.status.MS_alarm_SE_green_lamp_fused_2  -  Alarma SE - Se�al %1% Foco verde Fundido. 
+saml.status.MS_alarm_SE_indication_lamp_1_fused  -  Alarma SE - Se�al %1%, l�mpara indicadora 1 fundida. 
+saml.status.MS_alarm_SE_red_lamp_fused_1  -  Alarma SE - Se�al %1% Foco rojo Fundido. 
+saml.status.MS_alarm_SE_white_lamp_1_fused  -  Alarma SE - Se�al %1% Foco blanco 1 fundido. 
+saml.status.MS_alarm_SE_white_lamp_2_fused  -  Alarma SE - Se�al %1% Foco blanco 2 fundido. 
+saml.status.MS_alarm_SE_white_lamp_fused  -  Alarma SE - Se�al %1% Foco blanco Fundido. 
+saml.status.MS_alarm_SE_yellow_lamp_fused_2  -  Alarma SE - Se�al %1% Foco amarillo Fundido. 
+saml.status.MS_data_nok  -  Se�al %1%, sin datos. 
+saml.status.PT_no_energy_to_move  -  Aguja %1% sin energia disponible para movimiento. 
+saml.status.PT_sensor_failure  -  Sensor de rueda de aguja %1% en fallo. 
+[1] "antequera - 4"
+SAMEL_CM_communication_DOWN  -  Conexi�n en FALLO entre %1% y CM. 
+saml.status.alarm_EL_breakdown  -  Alarma EL - Aver�a %1% - Activa. 
+saml.status.alarm_EL_failure  -  Alarma EL - Fallo %1% - Activo. 
+saml.status.GC_without_supervision  -  Falta de comprobaci�n en cambiador %1%. 
+saml.status.IM_down  -  CPU %1% de IM ca�da. 
+saml.status.LI_alarm_EM_active_1  -  Alarma EM - %1% - Activa. 
+saml.status.LI_alarm_EM_active_2  -  Alarma EM - %1% - Activa. 
+saml.status.PT_alarm_AG_supervision_nok  -  Alarma AG - Aguja %1% - Sin comprobaci� 
+saml.status.PT_alarm_MA_supervision_nok  -  Alarma MA - Aguja %1% - Sin comprobaci� 
+saml.status.PT_alarm_trailed  -  Alarma  Aguja - %1% - Talonada. 
+saml.status.PT_data_nok  -  Aguja %1%, sin datos. 
+saml.status.TM_alarm_OV  -  Alarma OV - Circuito de v�a %1% 
+saml.status.TM_data_nok  -  %1%, sin datos. 
+saml.status.TS_alarm_OV  -  Alarma OV - Circuito de v�a %1% 
+saml.status.TS_data_nok  -  Circuito de v�a %1%, sin datos. 
+[1] "antequera - 5"
+  -   
+  -   

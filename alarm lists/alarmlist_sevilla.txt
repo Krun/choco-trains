@@ -1,0 +1,44 @@
+################
+Sevilla
+################
+
+ERRORCATEGORY 1
+ 
+Conexi�n en FALLO entre %1% y CM. 
+%1% %2%, L�mpara verde fundida 
+%1% %2%, L�mpara amarilla fundida 
+%1% %2%, L�mpara roja fundida 
+%1% %2%, sin datos 
+%1% %2%, L�mpara blanca fundida 
+%1% %2%, L�mpara indicadora 1 fundida 
+%1% %2%, L�mpara indicadora 2 fundida 
+%1% %2%, L�mpara indicadora 3 fundida 
+%1% %2%, sin datos 
+%1% %2%, sin datos en orden 
+%1% %2%, Ocupaci�n intempestiva 
+%1% %2%, Escape material 
+%1% %2%, Esc. material colateral 
+%1% %2%, sin datos 
+Subcanal %1% de %2% caido 
+Canal de %1% caido 
+%1% %2%, falta de comprobaci� 
+%1% %2%, sin energ�a disponible para movimiento 
+%1% %2%, no alcanza posici�n final 
+Conexion realizada en port servidor %1% 
+Telegrama recibido:Canal A iniciado 
+Telegrama recibido:Canal B iniciado 
+Canal comunicaciones CTC caido 
+Energ�a averiada %1% 
+Red 1 desconectada %1% 
+Red 2 desconectada %1% 
+Red 2 no presente %1% 
+SAI averiado %1% 
+Intentando la conexion con el servidor %1% 
+Comunicacion con IM servidor %1% establecida 
+Canal A comunicaciones CTC caido 
+Canal A comunicaciones CTC activado 
+Canal B comunicaciones CTC caido 
+Canal B comunicaciones CTC activado 
+El mando %1% rechazado 
+Canal de comunicaciones con IM %1% caido 
+DOBLE OM: %1% estado %2% 

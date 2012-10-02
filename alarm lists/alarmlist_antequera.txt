@@ -1,0 +1,90 @@
+################
+Antequera
+################
+ERRORCATEGORY 1
+Operador %1% conectado. 
+Imprimiendo fichero %1%... 
+Impresora inactiva. 
+Impresora no disponible. 
+
+ERRORCATEGORY 2
+Canal de comunicaciones A con %1%, ca�do. 
+Canal de comunicaciones A con %1%, en estado desconocido. 
+Canal de comunicaciones A con IM, ca�do. 
+Canal de comunicaciones A con PCI-E 1, ca�do. 
+Canal de comunicaciones A con PCI-E 2, ca�do. 
+Canal de comunicaciones A (PCI-RJu), ca�do. 
+Canal de comunicaciones A (PCI-SAM), ca�do. 
+Canal de comunicaciones B con %1%, ca�do. 
+Canal de comunicaciones B con %1%, en estado desconocido. 
+Canal de comunicaciones B con IM, ca�do. 
+Canal de comunicaciones B con PCI-E 1, ca�do. 
+Canal de comunicaciones B con PCI-E 2, ca�do. 
+Canal de comunicaciones B (PCI-RJu), ca�do. 
+Canal de comunicaciones B (PCI-SAM), ca�do. 
+Canal %1% con el %2%%3% ca�do. 
+
+ERRORCATEGORY 3
+Canal de comunicaciones con %1% ca�do. 
+Canal de comunicaciones con %1% en estado desconocido. 
+Canal de comunicaciones con el %1%%2% ca�do. 
+Canal de comunicaciones con el IM ca�do. 
+Canal de comunicaciones con PCI-E 1 ca�do. 
+Canal de comunicaciones con PCI-E 2 ca�do. 
+Canal de comunicaciones PCI-RJu ca�do. 
+Canal de comunicaciones PCI-SAM ca�do. 
+Canal de comunicaciones con PLO ca�do. 
+Canal de comunicaciones PLO-RJu inactivo. 
+%1%, sin datos. 
+%1%, fallo en bater�a de 48V CC. 
+%1%, fallo en rectificador de 48V CC. 
+%1%, fallo general en armario de conexi�n/distribuci� 
+%1%, nivel bajo de combustible en el generador de energ�a. 
+%1%, fallo general del generador de energ�a. 
+%1%, generador de energ�a en funcionamiento. 
+%1%, red 1 desconectada. 
+%1%, red 1 no presente. 
+%1%, red 2 desconectada. 
+%1%, red 2 no presente. 
+%1%, red 3 desconectada. 
+%1%, red 3 no presente. 
+%1%, falta de tensi�n en agujas. 
+%1%, aver�a SAI de l�nea 1. 
+%1%, fallo en SAI de l�nea 2. 
+%1%, SAI averiado. 
+%1%, fallo de SAI de agujas. 
+%1%, aver�a SAI Se�alizaci�n y Telecomunicaciones. 
+%1%, fallo general en armario de conmutaci� 
+Alarma RE - Se�al %1% 
+Alarma SE - Se�al %1% Foco azul Fundido. 
+Alarma SE - Se�al %1% Foco verde Fundido. 
+Alarma SE - Se�al %1%, l�mpara indicadora 1 fundida. 
+Alarma SE - Se�al %1% Foco rojo Fundido. 
+Alarma SE - Se�al %1% Foco blanco 1 fundido. 
+Alarma SE - Se�al %1% Foco blanco 2 fundido. 
+Alarma SE - Se�al %1% Foco blanco Fundido. 
+Alarma SE - Se�al %1% Foco amarillo Fundido. 
+Se�al %1%, sin datos. 
+Aguja %1% sin energia disponible para movimiento. 
+Sensor de rueda de aguja %1% en fallo. 
+
+ERRORCATEGORY 4
+Conexi�n en FALLO entre %1% y CM. 
+Alarma EL - Aver�a %1% - Activa. 
+Alarma EL - Fallo %1% - Activo. 
+Falta de comprobaci�n en cambiador %1%. 
+CPU %1% de IM ca�da. 
+Alarma EM - %1% - Activa. 
+Alarma EM - %1% - Activa. 
+Alarma AG - Aguja %1% - Sin comprobaci� 
+Alarma MA - Aguja %1% - Sin comprobaci� 
+Alarma  Aguja - %1% - Talonada. 
+Aguja %1%, sin datos. 
+Alarma OV - Circuito de v�a %1% 
+%1%, sin datos. 
+Alarma OV - Circuito de v�a %1% 
+Circuito de v�a %1%, sin datos. 
+
+ERRORCATEGORY 5
+ 
+ 

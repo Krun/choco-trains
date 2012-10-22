@@ -11,7 +11,7 @@ f_antequera$eventID <- as.factor(antequera$DVNS_ERRORTIME)
 f_antequera$eventID <- strptime(f_antequera$eventID, "%Y-%m-%d %H:%M:%S")
 f_antequera$eventID <- as.numeric(f_antequera$eventID)
 f_antequera$eventID <- f_antequera$eventID - min(f_antequera$eventID)
-f_antequera$eventID <- as.numeric(f_antequera$eventID) %/% (60*60) #Pasamos de segundos a horas.
+f_antequera$eventID <- as.numeric(f_antequera$eventID) %/% (60*60*24) #Pasamos de segundos a dias.
 f_antequera$eventID <- as.factor(f_antequera$eventID)
 
 f_antequera <- f_antequera[order(f_antequera$sequenceID, f_antequera$eventID), ]

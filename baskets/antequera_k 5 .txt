@@ -1,0 +1,124 @@
+1 1 1 SAMEL_CM_communication_DOWN 
+1 2 1 SAMEL_CM_communication_DOWN 
+1 3 1 SAMEL_CM_communication_DOWN 
+1 4 1 SAMEL_CM_communication_DOWN 
+1 5 1 SAMEL_CM_communication_DOWN 
+1 6 1 SAMEL_CM_communication_DOWN 
+1 7 1 SAMEL_CM_communication_DOWN 
+1 8 1 SAMEL_CM_communication_DOWN 
+1 9 1 SAMEL_CM_communication_DOWN 
+1 10 1 SAMEL_CM_communication_DOWN 
+2 5 1 saml.status.alarm_EL_breakdown 
+3 3 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+3 4 1 saml.status.TS_alarm_OV 
+3 5 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+3 6 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+3 7 1 saml.status.TM_alarm_OV 
+4 1 1 SAMEL_CM_communication_DOWN 
+4 2 1 SAMEL_CM_communication_DOWN 
+4 3 1 SAMEL_CM_communication_DOWN 
+4 4 1 SAMEL_CM_communication_DOWN 
+4 5 1 SAMEL_CM_communication_DOWN 
+4 6 1 SAMEL_CM_communication_DOWN 
+4 7 1 SAMEL_CM_communication_DOWN 
+4 8 1 SAMEL_CM_communication_DOWN 
+4 9 1 SAMEL_CM_communication_DOWN 
+4 10 1 SAMEL_CM_communication_DOWN 
+5 7 1 saml.status.PT_alarm_MA_supervision_nok 
+6 5 1 saml.status.alarm_EL_breakdown 
+7 3 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+7 4 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+7 5 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+7 6 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+7 7 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+8 1 1 SAMEL_CM_communication_DOWN 
+8 2 1 SAMEL_CM_communication_DOWN 
+8 3 1 SAMEL_CM_communication_DOWN 
+8 4 1 SAMEL_CM_communication_DOWN 
+8 5 1 SAMEL_CM_communication_DOWN 
+8 6 1 SAMEL_CM_communication_DOWN 
+8 7 1 SAMEL_CM_communication_DOWN 
+8 8 1 SAMEL_CM_communication_DOWN 
+8 9 1 SAMEL_CM_communication_DOWN 
+8 10 1 SAMEL_CM_communication_DOWN 
+9 5 1 saml.status.PT_alarm_AG_supervision_nok 
+10 3 2 saml.status.alarm_EL_breakdown saml.status.alarm_EL_failure 
+11 3 1 saml.status.TS_alarm_OV 
+11 6 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+12 1 1 SAMEL_CM_communication_DOWN 
+12 2 1 SAMEL_CM_communication_DOWN 
+12 3 1 SAMEL_CM_communication_DOWN 
+12 4 1 SAMEL_CM_communication_DOWN 
+12 5 1 SAMEL_CM_communication_DOWN 
+12 6 1 SAMEL_CM_communication_DOWN 
+12 7 1 SAMEL_CM_communication_DOWN 
+12 8 1 SAMEL_CM_communication_DOWN 
+12 9 1 SAMEL_CM_communication_DOWN 
+12 10 1 SAMEL_CM_communication_DOWN 
+13 3 1 saml.status.PT_alarm_MA_supervision_nok 
+13 4 1 saml.status.PT_alarm_MA_supervision_nok 
+13 5 1 saml.status.TS_data_nok 
+13 6 1 saml.status.PT_alarm_MA_supervision_nok 
+14 2 1 saml.status.alarm_EL_breakdown 
+14 5 3 saml.status.alarm_EL_failure saml.status.GC_without_supervision saml.status.alarm_EL_breakdown 
+14 7 1 saml.status.alarm_EL_breakdown 
+14 8 1 saml.status.alarm_EL_breakdown 
+15 1 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+15 2 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+15 3 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+15 4 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+15 5 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+15 6 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+15 7 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+15 10 1 saml.status.TM_alarm_OV 
+16 1 1 SAMEL_CM_communication_DOWN 
+16 2 1 SAMEL_CM_communication_DOWN 
+16 3 1 SAMEL_CM_communication_DOWN 
+16 4 1 SAMEL_CM_communication_DOWN 
+16 5 1 SAMEL_CM_communication_DOWN 
+16 6 1 SAMEL_CM_communication_DOWN 
+16 7 1 SAMEL_CM_communication_DOWN 
+16 8 1 SAMEL_CM_communication_DOWN 
+16 9 1 SAMEL_CM_communication_DOWN 
+16 10 1 SAMEL_CM_communication_DOWN 
+17 5 1 saml.status.alarm_EL_breakdown 
+18 1 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+18 3 1 saml.status.TS_alarm_OV 
+18 4 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+18 5 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+18 6 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+19 1 1 SAMEL_CM_communication_DOWN 
+19 2 1 SAMEL_CM_communication_DOWN 
+19 3 1 SAMEL_CM_communication_DOWN 
+19 4 1 SAMEL_CM_communication_DOWN 
+19 5 1 SAMEL_CM_communication_DOWN 
+19 6 1 SAMEL_CM_communication_DOWN 
+19 7 1 SAMEL_CM_communication_DOWN 
+19 8 1 SAMEL_CM_communication_DOWN 
+19 9 1 SAMEL_CM_communication_DOWN 
+19 10 1 SAMEL_CM_communication_DOWN 
+20 3 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+20 4 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+20 5 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+20 6 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+20 7 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+21 1 1 SAMEL_CM_communication_DOWN 
+21 2 1 SAMEL_CM_communication_DOWN 
+21 3 1 SAMEL_CM_communication_DOWN 
+21 4 1 SAMEL_CM_communication_DOWN 
+21 5 1 SAMEL_CM_communication_DOWN 
+21 6 1 SAMEL_CM_communication_DOWN 
+21 7 1 SAMEL_CM_communication_DOWN 
+21 8 1 SAMEL_CM_communication_DOWN 
+21 9 1 SAMEL_CM_communication_DOWN 
+21 10 1 SAMEL_CM_communication_DOWN 
+22 1 1 saml.status.TS_alarm_OV 
+22 2 1 saml.status.TS_alarm_OV 
+22 3 1 saml.status.TS_alarm_OV 
+22 4 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+22 5 1 saml.status.TS_alarm_OV 
+22 6 1 saml.status.TS_alarm_OV 
+22 7 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 8 1 saml.status.TS_alarm_OV 
+22 9 1 saml.status.TS_alarm_OV 
+22 10 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 

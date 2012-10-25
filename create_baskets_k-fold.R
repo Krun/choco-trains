@@ -4,11 +4,14 @@ bfile = "baskets/antequera_baskets" #sin extension
 n <- 10
 sptest <- split(target, factor(sort(rank(row.names(target))%%n)))
 
-create_k_basket_files <- function(target,name,k) {
+create_k_basket_files <- function(target,name,k,path="baskets/") {
   splits <- split(target, factor(sort(rank(row.names(target))%%k)))
   for (i in 1:length(splits)){
-    single_frame <- splits[[i]]
-    create_basket_file(single_frame,paste(name,i,".txt",sep=""))
+    test_set <- splits[[i]]
+    create_basket_file(test_set,paste(path,name,"_",i,"_test.txt",sep=""))
+    learning_set <- splits[-i]
+    learning_set <- do.call("rbind",learning_set)
+    create_basket_file(test_set,paste(path,name,"_",i,"_learn.txt",sep=""))
   }
 }
 

@@ -1,0 +1,287 @@
+1 1 1 SAMEL_CM_communication_DOWN 
+1 2 1 SAMEL_CM_communication_DOWN 
+1 3 1 SAMEL_CM_communication_DOWN 
+1 4 1 SAMEL_CM_communication_DOWN 
+1 5 1 SAMEL_CM_communication_DOWN 
+1 6 1 SAMEL_CM_communication_DOWN 
+1 7 1 SAMEL_CM_communication_DOWN 
+1 8 1 SAMEL_CM_communication_DOWN 
+1 9 1 SAMEL_CM_communication_DOWN 
+1 10 1 SAMEL_CM_communication_DOWN 
+1 11 1 SAMEL_CM_communication_DOWN 
+1 14 1 SAMEL_CM_communication_DOWN 
+1 15 1 SAMEL_CM_communication_DOWN 
+1 19 1 SAMEL_CM_communication_DOWN 
+2 4 1 saml.status.PT_alarm_MA_supervision_nok 
+2 9 2 saml.status.PT_alarm_MA_supervision_nok saml.status.PT_alarm_AG_supervision_nok 
+3 14 1 saml.status.alarm_EL_failure 
+4 1 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+4 2 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+4 3 1 saml.status.TM_alarm_OV 
+4 4 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+4 5 1 saml.status.TS_alarm_OV 
+4 6 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+4 8 1 saml.status.TS_alarm_OV 
+4 9 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+4 10 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+4 12 1 saml.status.TS_alarm_OV 
+4 14 1 saml.status.TS_alarm_OV 
+4 17 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+4 18 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+4 19 1 saml.status.TS_alarm_OV 
+4 20 1 saml.status.TS_alarm_OV 
+4 22 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+4 23 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+4 24 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+5 1 1 SAMEL_CM_communication_DOWN 
+5 2 1 SAMEL_CM_communication_DOWN 
+5 3 1 SAMEL_CM_communication_DOWN 
+5 4 1 SAMEL_CM_communication_DOWN 
+5 5 1 SAMEL_CM_communication_DOWN 
+5 6 1 SAMEL_CM_communication_DOWN 
+5 7 1 SAMEL_CM_communication_DOWN 
+5 8 1 SAMEL_CM_communication_DOWN 
+5 9 1 SAMEL_CM_communication_DOWN 
+5 10 1 SAMEL_CM_communication_DOWN 
+5 11 1 SAMEL_CM_communication_DOWN 
+5 14 1 SAMEL_CM_communication_DOWN 
+5 15 1 SAMEL_CM_communication_DOWN 
+5 18 1 SAMEL_CM_communication_DOWN 
+5 19 1 SAMEL_CM_communication_DOWN 
+6 8 1 saml.status.PT_alarm_MA_supervision_nok 
+6 9 3 saml.status.PT_alarm_MA_supervision_nok saml.status.PT_alarm_AG_supervision_nok saml.status.PT_data_nok 
+6 10 3 saml.status.PT_alarm_MA_supervision_nok saml.status.PT_alarm_AG_supervision_nok saml.status.PT_data_nok 
+6 24 1 saml.status.PT_alarm_MA_supervision_nok 
+7 6 1 saml.status.alarm_EL_breakdown 
+7 9 2 saml.status.alarm_EL_failure saml.status.alarm_EL_breakdown 
+7 10 2 saml.status.alarm_EL_breakdown saml.status.alarm_EL_failure 
+8 1 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+8 2 3 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+8 3 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+8 4 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+8 5 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+8 6 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+8 7 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+8 8 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+8 9 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+8 10 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+8 11 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+8 12 2 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+8 13 1 saml.status.TS_alarm_OV 
+8 15 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+8 16 1 saml.status.LI_alarm_EM_active_2 
+8 17 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+8 18 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+8 19 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+8 20 1 saml.status.TS_alarm_OV 
+8 22 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+8 23 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+8 24 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+8 25 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+9 1 1 SAMEL_CM_communication_DOWN 
+9 2 1 SAMEL_CM_communication_DOWN 
+9 3 1 SAMEL_CM_communication_DOWN 
+9 4 1 SAMEL_CM_communication_DOWN 
+9 5 1 SAMEL_CM_communication_DOWN 
+9 6 1 SAMEL_CM_communication_DOWN 
+9 7 1 SAMEL_CM_communication_DOWN 
+9 8 1 SAMEL_CM_communication_DOWN 
+9 9 1 SAMEL_CM_communication_DOWN 
+9 10 1 SAMEL_CM_communication_DOWN 
+9 11 1 SAMEL_CM_communication_DOWN 
+9 14 1 SAMEL_CM_communication_DOWN 
+9 15 1 SAMEL_CM_communication_DOWN 
+9 19 1 SAMEL_CM_communication_DOWN 
+10 1 1 saml.status.PT_alarm_AG_supervision_nok 
+10 5 1 saml.status.PT_alarm_MA_supervision_nok 
+10 20 1 saml.status.PT_alarm_AG_supervision_nok 
+11 1 1 saml.status.TS_alarm_OV 
+11 4 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+11 6 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+11 10 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+11 11 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+11 16 1 saml.status.TM_alarm_OV 
+11 17 1 saml.status.TM_alarm_OV 
+11 18 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+11 19 1 saml.status.TM_alarm_OV 
+11 20 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+11 21 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+11 22 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+11 23 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+11 24 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+12 1 1 SAMEL_CM_communication_DOWN 
+12 2 1 SAMEL_CM_communication_DOWN 
+12 3 1 SAMEL_CM_communication_DOWN 
+12 4 1 SAMEL_CM_communication_DOWN 
+12 5 1 SAMEL_CM_communication_DOWN 
+12 6 1 SAMEL_CM_communication_DOWN 
+12 7 1 SAMEL_CM_communication_DOWN 
+12 8 1 SAMEL_CM_communication_DOWN 
+12 9 1 SAMEL_CM_communication_DOWN 
+12 10 1 SAMEL_CM_communication_DOWN 
+12 11 1 SAMEL_CM_communication_DOWN 
+12 14 1 SAMEL_CM_communication_DOWN 
+12 15 1 SAMEL_CM_communication_DOWN 
+12 18 1 SAMEL_CM_communication_DOWN 
+12 19 1 SAMEL_CM_communication_DOWN 
+12 24 1 SAMEL_CM_communication_DOWN 
+13 1 1 saml.status.PT_alarm_MA_supervision_nok 
+13 2 1 saml.status.PT_alarm_MA_supervision_nok 
+13 3 1 saml.status.PT_alarm_MA_supervision_nok 
+13 4 1 saml.status.PT_alarm_MA_supervision_nok 
+13 5 1 saml.status.PT_alarm_MA_supervision_nok 
+13 9 1 saml.status.PT_alarm_MA_supervision_nok 
+13 11 1 saml.status.PT_alarm_MA_supervision_nok 
+13 12 1 saml.status.PT_alarm_MA_supervision_nok 
+13 16 1 saml.status.PT_alarm_MA_supervision_nok 
+13 17 2 saml.status.PT_alarm_MA_supervision_nok saml.status.PT_alarm_AG_supervision_nok 
+13 19 1 saml.status.PT_alarm_MA_supervision_nok 
+13 20 1 saml.status.PT_alarm_MA_supervision_nok 
+13 21 1 saml.status.PT_alarm_MA_supervision_nok 
+13 22 1 saml.status.PT_alarm_MA_supervision_nok 
+14 5 1 saml.status.GC_without_supervision 
+14 6 2 saml.status.alarm_EL_breakdown saml.status.GC_without_supervision 
+14 10 2 saml.status.alarm_EL_breakdown saml.status.GC_without_supervision 
+14 15 1 saml.status.alarm_EL_breakdown 
+14 22 1 saml.status.alarm_EL_breakdown 
+14 23 1 saml.status.alarm_EL_breakdown 
+14 24 1 saml.status.GC_without_supervision 
+15 9 2 saml.status.alarm_EL_breakdown saml.status.GC_without_supervision 
+16 1 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 2 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 3 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 4 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 5 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 6 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.IM_down 
+16 8 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 9 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 10 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 11 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 12 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 13 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+16 15 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 16 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 17 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 18 4 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 19 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 21 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+16 22 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 23 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 24 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 25 1 saml.status.TM_alarm_OV 
+17 1 1 SAMEL_CM_communication_DOWN 
+17 2 1 SAMEL_CM_communication_DOWN 
+17 3 1 SAMEL_CM_communication_DOWN 
+17 4 1 SAMEL_CM_communication_DOWN 
+17 5 1 SAMEL_CM_communication_DOWN 
+17 6 1 SAMEL_CM_communication_DOWN 
+17 7 1 SAMEL_CM_communication_DOWN 
+17 8 1 SAMEL_CM_communication_DOWN 
+17 9 1 SAMEL_CM_communication_DOWN 
+17 10 1 SAMEL_CM_communication_DOWN 
+17 11 1 SAMEL_CM_communication_DOWN 
+17 14 1 SAMEL_CM_communication_DOWN 
+17 15 1 SAMEL_CM_communication_DOWN 
+17 19 1 SAMEL_CM_communication_DOWN 
+18 6 1 saml.status.alarm_EL_breakdown 
+18 9 1 saml.status.alarm_EL_breakdown 
+18 10 1 saml.status.alarm_EL_breakdown 
+18 11 1 saml.status.alarm_EL_breakdown 
+19 1 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 2 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+19 3 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 4 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+19 5 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 6 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 8 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 9 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 10 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 11 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 12 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 15 1 saml.status.TS_alarm_OV 
+19 16 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 17 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 18 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 19 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+19 22 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+19 23 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+19 24 3 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+20 1 1 SAMEL_CM_communication_DOWN 
+20 2 1 SAMEL_CM_communication_DOWN 
+20 3 1 SAMEL_CM_communication_DOWN 
+20 4 1 SAMEL_CM_communication_DOWN 
+20 5 1 SAMEL_CM_communication_DOWN 
+20 6 1 SAMEL_CM_communication_DOWN 
+20 7 1 SAMEL_CM_communication_DOWN 
+20 8 1 SAMEL_CM_communication_DOWN 
+20 9 1 SAMEL_CM_communication_DOWN 
+20 10 1 SAMEL_CM_communication_DOWN 
+20 11 1 SAMEL_CM_communication_DOWN 
+20 14 1 SAMEL_CM_communication_DOWN 
+20 15 1 SAMEL_CM_communication_DOWN 
+20 19 1 SAMEL_CM_communication_DOWN 
+21 11 1 saml.status.alarm_EL_breakdown 
+21 12 1 saml.status.alarm_EL_breakdown 
+22 1 1 saml.status.TS_alarm_OV 
+22 2 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+22 3 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 4 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+22 5 1 saml.status.TS_alarm_OV 
+22 6 1 saml.status.TS_alarm_OV 
+22 10 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+22 11 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 12 1 saml.status.LI_alarm_EM_active_2 
+22 16 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 17 1 saml.status.TM_alarm_OV 
+22 18 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+22 19 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 24 1 saml.status.TS_alarm_OV 
+22 25 1 saml.status.TS_alarm_OV 
+23 1 1 SAMEL_CM_communication_DOWN 
+23 2 1 SAMEL_CM_communication_DOWN 
+23 3 1 SAMEL_CM_communication_DOWN 
+23 4 1 SAMEL_CM_communication_DOWN 
+23 5 1 SAMEL_CM_communication_DOWN 
+23 6 1 SAMEL_CM_communication_DOWN 
+23 7 1 SAMEL_CM_communication_DOWN 
+23 8 1 SAMEL_CM_communication_DOWN 
+23 9 1 SAMEL_CM_communication_DOWN 
+23 11 1 SAMEL_CM_communication_DOWN 
+23 12 1 SAMEL_CM_communication_DOWN 
+23 14 1 SAMEL_CM_communication_DOWN 
+23 15 1 SAMEL_CM_communication_DOWN 
+23 19 1 SAMEL_CM_communication_DOWN 
+24 12 1 saml.status.alarm_EL_breakdown 
+25 11 1 saml.status.alarm_EL_breakdown 
+26 1 1 saml.status.TS_alarm_OV 
+26 2 1 saml.status.TS_alarm_OV 
+26 3 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 4 1 saml.status.TS_alarm_OV 
+26 5 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 6 1 saml.status.TS_alarm_OV 
+26 7 1 saml.status.TS_alarm_OV 
+26 8 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 9 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 10 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 11 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+26 12 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+26 13 1 saml.status.TS_alarm_OV 
+26 14 1 saml.status.TS_alarm_OV 
+26 15 1 saml.status.TS_alarm_OV 
+26 16 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 17 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 18 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 19 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 20 1 saml.status.TS_alarm_OV 
+26 21 1 saml.status.TS_alarm_OV 
+26 22 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 23 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+26 24 1 saml.status.TS_alarm_OV 
+26 25 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+27 3 1 saml.status.PT_alarm_MA_supervision_nok 
+27 12 1 saml.status.PT_alarm_MA_supervision_nok 
+27 15 1 saml.status.PT_alarm_AG_supervision_nok 
+27 16 1 saml.status.PT_alarm_AG_supervision_nok 
+27 17 1 saml.status.PT_alarm_AG_supervision_nok 
+27 21 1 saml.status.PT_alarm_MA_supervision_nok 
+27 22 1 saml.status.PT_alarm_MA_supervision_nok 

@@ -11,7 +11,7 @@ create_k_basket_files <- function(target,name,k,path="baskets/") {
     create_basket_file(test_set,paste(path,name,"_",i,"_test.txt",sep=""))
     learning_set <- splits[-i]
     learning_set <- do.call("rbind",learning_set)
-    create_basket_file(test_set,paste(path,name,"_",i,"_learn.txt",sep=""))
+    create_basket_file(learning_set,paste(path,name,"_",i,"_learn.txt",sep=""))
   }
 }
 

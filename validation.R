@@ -1,16 +1,18 @@
+single_consequent <- function(rule) {
+  return (length(rule[[2]]) == 1)
+}
+
 precision <- function(antecedent,consequent,testset,winmax,winmin=1) {
-  for(i in 1:length(antecedent)){
-    testset$time <- as.numeric(testset$time)
-    testset$installation <- as.numeric(testset$installation)
-    triggers <-get_triggers(antecedent,testset)
-    success = 0;
-    for(i in 1:nrow(triggers)){
-      ins <- triggers[i,]$installation
-      tim <- triggers[i,]$time
-      valid <- subset(testset, time >= tim+winmin & time <= tim+winmax & installation == ins & event == consequent[[1]])
-      success = success + (nrow(valid) >= 1)
-    }
+  triggers <-get_triggers(antecedent,testset)
+  success = 0;
+  for(i in 1:nrow(triggers)){
+    ins <- triggers[i,]$installation
+    tim <- triggers[i,]$time
+    valid <- subset(testset, time >= tim+winmin & time <= tim+winmax & installation == ins & event == consequent[[1]])
+    success = success + (nrow(valid) >= 1)
   }
+  cat("triggers: ", nrow(triggers), "\n")
+  cat("success: ",success, "\n")
   return(success/nrow(triggers))
 }
 
@@ -20,12 +22,25 @@ recall <- function(antecedent, consequent, testset, winmax, winmin=1) {
   precision <- precision(antecedent,consequent,testset,winmax,winmin)
   valid_predictions <- precision * numtriggers
   numconsequent <- nrow(testset[testset$event == consequent[[1]], ])
+  
   recall <- valid_predictions/numconsequent
+  cat("cases: ",numconsequent,"\n")
+  cat("predicted: ",valid_predictions,"\n")
   return(recall)
 }
 
+get_consequents <- function(consequent,testset) {
+  consequents <- testset[testset$event == consequent[[1]]]
+  return(consequents)
+}
+
+
 get_triggers <- function(antecedent, testset) {
   triggers <- testset[testset$event == antecedent[[1]], ]
+  if (length(antecedent) == 1){
+    return(triggers)
+  }
+  #else, continue applying conditions to find triggers
   for(i in 2:length(antecedent)){
     triggersn <- testset[testset$event == antecedent[[i]], ]
     triggers <- merge(triggers, triggersn, by=c("time","installation"))
@@ -33,31 +48,6 @@ get_triggers <- function(antecedent, testset) {
   return(triggers)
 }
 
-
-
-
-rule = "<{saml.status.channel_A_CS_unknown,saml.status.channel_B_CS_unknown},{saml.status.channel_B_down}>"
-rule = processrule(rule)
-antecedent = rule[[1]]
-consequent = rule[[2]]
-winmax = 80
-winmin = 1
-testset = load_baskets(filename="baskets/antequera_1_test.txt")
-testset$time <- as.numeric(testset$time)
-testset$installation <- as.numeric(testset$installation)
-
-triggers <- testset[testset$event == antecedent[[1]], ]
-for(i in 2:length(antecedent)){
-  triggersn <- testset[testset$event == antecedent[[i]], ]
-  triggers <- merge(triggers, triggersn, by=c("time","installation"))
-}
-success = 0;
-for(i in 1:nrow(triggers)){
-  ins <- triggers[i,]$installation
-  tim <- triggers[i,]$time
-  valid <- subset(testset, time >= tim+winmin & time <= tim+winmax & installation == ins & event == consequent[[1]])
-  success = success + (nrow(valid) >= 1)
-}
 
 
 # success = 0;
@@ -72,18 +62,25 @@ for(i in 1:nrow(triggers)){
 
 
 processrule <- function(rule) {
-  #<{A,B},{C,D}>
-  splitrule <- strsplit(rule,"{", fixed=TRUE)[[1]]
-  antecedent <- strsplit(splitrule[[2]],"}", fixed=TRUE)[[1]][[1]]
-  antecedent <- strsplit(antecedent,",",fixed=TRUE)[[1]]
-  consequent <- strsplit(splitrule[[3]],"}", fixed=TRUE)[[1]][[1]]
-  consequent <- strsplit(consequent,",",fixed=TRUE)[[1]]
-  return(list(antecedent,consequent))
+  result = tryCatch({
+    splitrule <- strsplit(rule,"{", fixed=TRUE)[[1]]
+    antecedent <- strsplit(splitrule[[2]],"}", fixed=TRUE)[[1]][[1]]
+    antecedent <- strsplit(antecedent,",",fixed=TRUE)[[1]]
+    consequent <- strsplit(splitrule[[3]],"}", fixed=TRUE)[[1]][[1]]
+    consequent <- strsplit(consequent,",",fixed=TRUE)[[1]]
+    return(list(antecedent,consequent))
+  }, warning = function(w) {
+    return(c(c(),c()))
+  }, error = function(e) {
+    return(c(c(),c()))
+  }, finally = {
+    NULL
+  })
 }
 
 load_baskets <- function(filename) {
   con <- file(filename, "rt") 
-  conbaskets <- readLines(con, -1)
+  baskets <- readLines(con, -1)
   close(con)
   df <- NULL
   for(i in 1:length(baskets)){
@@ -95,5 +92,7 @@ load_baskets <- function(filename) {
       df <- rbind(df,data.frame(time = eventid, installation = sequenceid, event=line[[j]]))
     }
   }
+  df$time <- as.numeric(df$time)
+  df$installation <- as.numeric(df$installation)
   return(df)
 }

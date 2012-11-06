@@ -1,0 +1,1 @@
+sp.byelement <- split(antequera, antequera$ADDITIONAL_INFOS)

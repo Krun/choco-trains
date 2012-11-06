@@ -1,0 +1,10 @@
+<{saml.status.channel_CS_down},{saml.status.energy_switch_rack_general_failure}> 0.07142857 0.02857143 
+<{saml.status.channel_CS_unknown},{saml.status.energy_switch_rack_general_failure}> 0.04545455 0.08571429 
+<{saml.status.channel_CS_down,saml.status.energy_switch_rack_general_failure},{saml.status.energy_switch_rack_general_failure}> 0.07142857 0.02857143 
+<{saml.status.channel_CS_down,saml.status.channel_A_CS_down,saml.status.energy_switch_rack_general_failure},{saml.status.energy_switch_rack_general_failure}> 0.07142857 0.02857143 
+<{saml.status.channel_CS_down,saml.status.energy_switch_rack_general_failure,saml.status.channel_A_CS_unknown},{saml.status.energy_switch_rack_general_failure}> 0.07142857 0.02857143 
+<{saml.status.channel_CS_down,saml.status.channel_A_CS_down,saml.status.energy_switch_rack_general_failure,saml.status.channel_A_CS_unknown},{saml.status.energy_switch_rack_general_failure}> 0.07142857 0.02857143 
+<{saml.status.channel_CS_unknown,saml.status.energy_switch_rack_general_failure},{saml.status.energy_switch_rack_general_failure}> 0.04545455 0.08571429 
+<{saml.status.channel_CS_unknown,saml.status.energy_switch_rack_general_failure,saml.status.channel_A_CS_unknown},{saml.status.energy_switch_rack_general_failure}> 0.04545455 0.08571429 
+<{saml.status.channel_CS_unknown,saml.status.energy_generator_running,saml.status.energy_switch_rack_general_failure},{saml.status.energy_switch_rack_general_failure}> 0.04545455 0.08571429 
+<{saml.status.channel_CS_unknown,saml.status.energy_generator_running,saml.status.energy_switch_rack_general_failure,saml.status.channel_A_CS_unknown},{saml.status.energy_switch_rack_general_failure}> 0.04545455 0.08571429 

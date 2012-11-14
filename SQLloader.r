@@ -7,7 +7,7 @@ if(!exists("antequera")){
   antequera <- dbGetQuery(dbantequera,"select * from ER_ERRORS JOIN ERS_ERRORS_SAM_ENCE using(DVNI_ERRORNUMBER) JOIN IG_INSTALLATIONGENERAL using(DVNI_INSTALLATIONCODE) WHERE DVNI_ERRORCATEGORY != '-1'")
   dbDisconnect(dbantequera)
   rm(dbantequera)
-  write.table(antequera, file="Datos/antequera.csv",col.names=TRUE,sep=";")
+  write.table(antequera, file="Datos/current/antequera.csv",col.names=TRUE,sep=";")
 }
 
 # if(!exists("sevilla")){ 
@@ -15,7 +15,7 @@ if(!exists("antequera")){
 #   sevilla <- dbGetQuery(dbsevilla,"select * from ER_ERRORS JOIN ERS_ERRORS_SAM_ENCE using(DVNI_ERRORNUMBER) WHERE DVNI_ERRORCATEGORY != '-1'")
 #   dbDisconnect(dbsevilla)
 #   rm(dbsevilla)
-#   write.table(sevilla, file="Datos/sevilla.csv",col.names=TRUE,sep=";")
+   write.table(sevilla, file="Datos/current/sevilla.csv",col.names=TRUE,sep=";")
 #   
 # }
 # 
@@ -42,7 +42,7 @@ if(!exists("antequera")){
 #   segovia <- dbGetQuery(dbsegovia,"select * from ER_ERRORS JOIN ERH_ERRORS_HSL1 using(DVNI_ERRORNUMBER) WHERE DVNI_ERRORCATEGORY != '-1'")
 #   dbDisconnect(dbsegovia)
 #   rm(dbsegovia)
-#   write.table(segovia, file="Datos/segovia.csv",col.names=TRUE,sep=";")
+   write.table(segovia, file="Datos/current/segovia.csv",col.names=TRUE,sep=";")
 # }
 
 rm(drv)

@@ -1,17 +1,54 @@
-target <- antequera
-bfile = "baskets/antequera_baskets" #sin extension
-
-n <- 10
-sptest <- split(target, factor(sort(rank(row.names(target))%%n)))
-
 create_k_basket_files <- function(target,name,k,path="baskets/") {
-  splits <- split(target, factor(sort(rank(row.names(target))%%k)))
+  
+  prep <- data.frame(ERROR = target$ADDITIONAL_TEXT)
+  prep$ERROR <- as.factor(prep$ERROR)
+  
+  prep$sequenceID <- as.factor(target$DVNI_INSTALLATIONCODE)
+  prep$eventID <- as.factor(target$DVNS_ERRORTIME)
+  prep$eventID <- strptime(prep$eventID, "%Y-%m-%d %H:%M:%S")
+  prep$eventID <- as.numeric(prep$eventID)
+  prep <- prep[complete.cases(prep),]
+  prep$eventID <- prep$eventID - min(prep$eventID)
+  prep$eventID <- as.numeric(prep$eventID) %/% (60*60*24) #Pasamos de segundos a dias.
+  prep$eventID <- as.numeric(as.character(prep$eventID))
+  
+
+  prep <- prep[order(prep$eventID, prep$sequenceID), ]
+  prep <- prep[!duplicated(prep),]
+  rownames(prep) <- NULL
+  
+  prep$kIndex <- ((as.numeric(rownames(prep)) / max(as.numeric(rownames(prep))))*k ) %/% 1
+  
+  splits <- split(prep, prep$kIndex, drop=TRUE)
+  
   for (i in 1:length(splits)){
     test_set <- splits[[i]]
-    create_basket_file(test_set,paste(path,name,"_",i,"_test.txt",sep=""))
+    bfile <- paste(path,name,"_",i,"_test.txt",sep="")
+    write_basket_file(test_set,bfile)
     learning_set <- splits[-i]
     learning_set <- do.call("rbind",learning_set)
-    create_basket_file(learning_set,paste(path,name,"_",i,"_learn.txt",sep=""))
+    bfile <- paste(path,name,"_",i,"_learn.txt",sep="")
+    write_basket_file(learning_set,bfile)
+  }
+}
+
+write_basket_file <- function(target, bfile) {
+  
+  prep_split <- split(target, target$sequenceID, drop=TRUE) 
+  cat(file=bfile)
+  for(i in 1:length(prep_split)){
+    sameseq <- prep_split[[i]]
+    seqnum <- as.numeric(sameseq$sequenceID[1])
+    sameseq$sequenceID <- NULL
+    eventsplit <- split(sameseq, sameseq$eventID)
+    for (j in 1:length(eventsplit)){
+      time <- as.numeric(eventsplit[[j]]$eventID[1])
+      items <- as.character(eventsplit[[j]]$ERROR)
+      size <- length(items)
+      if(size > 0){
+        cat(file=bfile, seqnum, time, size, items, "\n", append=TRUE)
+      }
+    }
   }
 }
 
@@ -33,10 +70,6 @@ create_basket_file <-function(target, bfile) {
   prep <- prep[!duplicated(prep),]
   
   prep_split <- split(prep, prep$sequenceID) 
-  #http://r.789695.n4.nabble.com/transaction-object-how-to-coerce-this-data-td2402613.html
-  
-  options(max.print=5.5E8)
-  
   
   
   cat(file=bfile)
@@ -55,15 +88,3 @@ create_basket_file <-function(target, bfile) {
     }
   }
 }
-
-rm(bfile)
-rm(prep_split)
-rm(target)
-rm(prep)
-rm(size)
-rm(time)
-rm(items)
-rm(i)
-rm(j)
-rm(eventsplit)
-rm(seqnum)

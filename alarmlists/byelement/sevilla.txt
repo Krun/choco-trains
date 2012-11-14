@@ -1,0 +1,1235 @@
+Elemento   
+
+Canal A comunicaciones CTC activado --- samel --- imCpuAndCommunications
+Canal A comunicaciones CTC caido --- samel --- imCpuAndCommunications
+Canal B comunicaciones CTC activado --- samel --- imCpuAndCommunications
+Canal B comunicaciones CTC caido --- samel --- imCpuAndCommunications
+Canal comunicaciones CTC caido --- samel --- imCpuAndCommunications
+El cliente diagnosis se ha desconectado --- samel --- operationsDiagnosisCommunications
+Energía averiada %1% --- samel --- fieldElementFailure
+Red 1 desconectada %1% --- samel --- fieldElementFailure
+Red 2 desconectada %1% --- samel --- fieldElementFailure
+Red 2 no presente %1% --- samel --- fieldElementFailure
+SAI averiado %1% --- samel --- fieldElementFailure
+Telegrama recibido:Canal A iniciado --- samel --- imCpuAndCommunications
+Telegrama recibido:Canal B iniciado --- samel --- imCpuAndCommunications
+
+
+Elemento  ----- 
+
+Alarma general climatización --- energy --- internalDiagnosis
+Convertidor NO Disponible para motores trifásicos --- energy --- internalDiagnosis
+Fallo comunicación con armario general --- energy --- internalDiagnosis
+Fallo Comunicación con CTC --- energy --- internalDiagnosis
+Fallo Comunicación con la CM --- energy --- internalDiagnosis
+Fallo Comunicación con la Diagnosis de energía --- energy --- internalDiagnosis
+Fallo Conmutación de motores monofásicos --- energy --- internalDiagnosis
+Fallo de Aislamiento --- energy --- internalDiagnosis
+Fallo descargadores --- energy --- internalDiagnosis
+Fallo en Conmutación de Aire Acondicionado --- energy --- internalDiagnosis
+Fallo en Conmutación Principal --- energy --- internalDiagnosis
+Fallo sincronización horaria --- energy --- internalDiagnosis
+Fallo sondas de temperatura --- energy --- internalDiagnosis
+Fallo tensión en motores monofásicos --- energy --- internalDiagnosis
+La Red 1 NO está disponible --- energy --- internalDiagnosis
+La Red 2 NO está disponible --- energy --- internalDiagnosis
+Pre alarma en el Aislamiento --- energy --- internalDiagnosis
+Red 2 NO Disponible para motores trifásicos --- energy --- internalDiagnosis
+Temperatura en Armario de energía --- energy --- internalDiagnosis
+
+
+Elemento  1 
+
+Canal de comunicaciones con IM %1% caido --- samel --- imCpuAndCommunications
+Comunicacion con IM servidor %1% establecida --- samel --- imCpuAndCommunications
+CPU %1% del IM caida --- samel --- operatorInformation
+Intentando la conexion con el servidor %1% --- samel --- operatorInformation
+
+
+Elemento  --1-- 
+
+Avería comunicación Analizador Red-%1% --- energy --- internalDiagnosis
+Avería comunicación con SAI-%1% --- energy --- internalDiagnosis
+Conmutación principal forzado a red %1% --- energy --- internalDiagnosis
+Fallo de SAI-%1% --- energy --- internalDiagnosis
+Fallo maquina %1% de Aire Acondicionado --- energy --- internalDiagnosis
+
+
+Elemento  111 
+
+Conmutación inhibida en motores trifásicos --- energy --- internalDiagnosis
+
+
+Elemento  -12-- 
+
+Fallo redundancia %1% Vcc --- energy --- internalDiagnosis
+
+
+Elemento  2 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+Canal de comunicaciones con IM %1% caido --- samel --- imCpuAndCommunications
+Comunicacion con IM servidor %1% establecida --- samel --- imCpuAndCommunications
+Intentando la conexion con el servidor %1% --- samel --- operatorInformation
+
+
+Elemento  --2-- 
+
+Aire Acondicionado forzado a Red %1% --- energy --- internalDiagnosis
+Alarma general climatización --- energy --- internalDiagnosis
+Alarma temperatura %1% --- energy --- internalDiagnosis
+Avería comunicación Analizador Red-%1% --- energy --- internalDiagnosis
+Avería comunicación con SAI-%1% --- energy --- internalDiagnosis
+BPM conectado --- energy --- internalDiagnosis
+Conmutación principal forzado a red %1% --- energy --- internalDiagnosis
+Convertidor NO Disponible para motores trifásicos --- energy --- internalDiagnosis
+Fallo Baterías %1% Vcc --- energy --- internalDiagnosis
+Fallo comunicación con armario general --- energy --- internalDiagnosis
+Fallo Comunicación con CTC --- energy --- internalDiagnosis
+Fallo Comunicación con la CM --- energy --- internalDiagnosis
+Fallo Comunicación con la Diagnosis de energía --- energy --- internalDiagnosis
+Fallo Conmutación de motores monofásicos --- energy --- internalDiagnosis
+Fallo de Aislamiento --- energy --- internalDiagnosis
+Fallo de SAI-%1% --- energy --- internalDiagnosis
+Fallo descargadores --- energy --- internalDiagnosis
+Fallo en Conmutación de Aire Acondicionado --- energy --- internalDiagnosis
+Fallo maquina %1% de Aire Acondicionado --- energy --- internalDiagnosis
+Fallo redundancia %1% Vcc --- energy --- internalDiagnosis
+Fallo sincronización horaria --- energy --- internalDiagnosis
+Fallo sondas de temperatura --- energy --- internalDiagnosis
+Fallo tensión en motores monofásicos --- energy --- internalDiagnosis
+La Red 1 NO está disponible --- energy --- internalDiagnosis
+La Red 2 NO está disponible --- energy --- internalDiagnosis
+Motores monofásicos forzado a %1% --- energy --- internalDiagnosis
+Pre alarma en el Aislamiento --- energy --- internalDiagnosis
+Pre alarma temperatura %1% --- energy --- internalDiagnosis
+Red 2 NO Disponible para motores trifásicos --- energy --- internalDiagnosis
+Temperatura en Armario de energía --- energy --- internalDiagnosis
+
+
+Elemento  -24-- 
+
+Fallo Baterías %1% Vcc --- energy --- internalDiagnosis
+Fallo redundancia %1% Vcc --- energy --- internalDiagnosis
+
+
+Elemento  3 
+
+Conexion realizada en port servidor %1% --- samel --- operationsDiagnosisCommunications
+CPU %1% del IM caida --- samel --- operatorInformation
+Servidor escuchando en puerto %1% --- samel --- operationsDiagnosisCommunications
+
+
+Elemento  --4-- 
+
+Fallo maquina %1% de Aire Acondicionado --- energy --- internalDiagnosis
+
+
+Elemento  --5-- 
+
+Fallo maquina %1% de Aire Acondicionado --- energy --- internalDiagnosis
+
+
+Elemento  -60-- 
+
+Fallo redundancia %1% Vcc --- energy --- internalDiagnosis
+
+
+Elemento  A|EC 2 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC 5 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC 7 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  Aguja|1 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|10 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|101 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|103 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|105 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|107 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|12 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, sin energía disponible para movimiento --- samel --- operatorInformation
+
+
+Elemento  Aguja|121 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|123 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|125 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|127 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|129 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|14 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+%1% %2%, sin energía disponible para movimiento --- samel --- operatorInformation
+
+
+Elemento  Aguja|16 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|18 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  Aguja|2 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+%1% %2%, sin datos --- samel --- fieldElementFailure
+%1% %2%, sin energía disponible para movimiento --- samel --- operatorInformation
+
+
+Elemento  Aguja|3 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  Aguja|4 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+%1% %2%, sin energía disponible para movimiento --- samel --- operatorInformation
+
+
+Elemento  Aguja|6 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+%1% %2%, sin energía disponible para movimiento --- samel --- operatorInformation
+
+
+Elemento  Aguja|8 
+
+%1% %2%, falta de comprobación --- samel --- fieldElementAlarm
+%1% %2%, no alcanza posición final --- samel --- fieldElementFailure
+
+
+Elemento  A|IM Colateral 1 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM Colateral 11 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM Colateral 12 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC 7 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM Colateral 1 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM Colateral 11 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM Colateral 12 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  Bloqueo|AU 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|AZ 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Bloqueo|B1-1 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|B1-2 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|CR 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Bloqueo|CR1 
+
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|CR2 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|E1-M 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Bloqueo|SL 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+
+
+Elemento  Bloqueo|VO 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Bloqueo|VP 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CI|11/066 
+
+%1% %2%, sin datos en orden --- samel --- fieldElementFailure
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CI|CIPSF1 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CI|CIPSF2 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CI|CIPSF3 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CI|CIPSF4 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|1 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|3 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|43 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|45 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|5644A 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|5673B 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A1 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A10 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A101 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A103 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A105 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A117 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A121 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A123 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A127 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|A2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A4 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|A8 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|AE12 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|AE18 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|AE2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|AE4 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E1 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E'1 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E10 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E11 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E12 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E14 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E16 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E18 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E'2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E3 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E4 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E5 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E6 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E'6 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E7 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E'7 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|E8 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E'8 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E9 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|E'9 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  CONMT 
+
+Motores monofásicos forzado a %1% --- energy --- internalDiagnosis
+
+
+Elemento  DS_AU 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  DS_B1 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  DS_BZ 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  DS_CR 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  DS_SL 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  DS_VP 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  EN_AU 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  EN_B1 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  EN_CR 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  I,BZ,E1,S1/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,E2,S2/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,E2,S2/3 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,E2,VIA5 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,S1/1,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,S1/3A,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,S1/3,S1/3A 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,S1/5,S1/3A 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,BZ,S2/1,AZ 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  IM Colateral 1 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  IM Colateral 12 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  I,SL,E1,S1/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,SL,E2,S2/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,SL,S1/1,VP 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,SL,S2/1,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,SL,S2/2,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,E2,S2/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,S1/1,AU 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,S2/1,SL 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,BZ,S1/3A,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,SL,S1/1,VP 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,SL,S1/2,VP 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,SL,S2/1,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,VP,S1/1,AU 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,VP,S2/1,SL 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  OM 1| 
+
+DOBLE OM: %1% estado %2% --- samel --- imCpuAndCommunications
+
+
+Elemento  OM 2| 
+
+DOBLE OM: %1% estado %2% --- samel --- imCpuAndCommunications
+
+
+Elemento  Prueba|AAAAA 
+
+%1% %2%, sin datos en orden --- samel --- fieldElementFailure
+
+
+Elemento  R,VP,E1,S1/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  -SAI- 
+
+Motores monofásicos forzado a %1% --- energy --- internalDiagnosis
+
+
+Elemento  SAI_Test 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  Se�al|43 
+
+%1% %2%, Lámpara amarilla fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara verde fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|E14 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E16 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E20 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E24 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E28 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E3 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E'8 
+
+%1% %2%, Lámpara amarilla fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|IA101 
+
+%1% %2%, Lámpara indicadora 1 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|IA103 
+
+%1% %2%, Lámpara indicadora 1 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 3 fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|IA105 
+
+%1% %2%, Lámpara indicadora 1 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|IA107 
+
+%1% %2%, Lámpara indicadora 1 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 3 fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|IA121 
+
+%1% %2%, Lámpara indicadora 1 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara indicadora 3 fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|IA6 
+
+%1% %2%, Lámpara indicadora 2 fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|M7 
+
+%1% %2%, Lámpara blanca fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|R1 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+
+
+Elemento  ZON_1 
+
+Alarma temperatura %1% --- energy --- internalDiagnosis
+Pre alarma temperatura %1% --- energy --- internalDiagnosis
+
+
+Elemento  ZON_2 
+
+Alarma temperatura %1% --- energy --- internalDiagnosis
+Pre alarma temperatura %1% --- energy --- internalDiagnosis
+
+
+Elemento  11 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  132 
+
+Elemento de proyeccion %1%, no definido --- samel --- internalPloDiagnosis
+
+
+Elemento  256 
+
+Elemento de proyeccion %1%, no definido --- samel --- internalPloDiagnosis
+
+
+Elemento  424 
+
+Elemento de proyeccion %1%, no definido --- samel --- internalPloDiagnosis
+
+
+Elemento  |A1 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  |A2 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  A| 2 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC 1 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC 3 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC 6 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM Colateral 2 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM Colateral 3 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B| 11 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B| 2 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC 3 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC 5 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC 6 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC 8 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM Colateral 2 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM Colateral 3 
+
+Subcanal %1% de %2% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  Bloqueo|CM 
+
+%1% %2%, Escape material --- samel --- operatorInformation
+%1% %2%, Esc. material colateral --- samel --- operatorInformation
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Circuito de V�a|5 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  Circuito de V�a|CV-CV 
+
+%1% %2%, Ocupación intempestiva --- samel --- operatorInformation
+
+
+Elemento  EC 3 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  EC 5 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  EC 6 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  EC 7 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  Energ�a|EN 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  IM Colateral 2 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  IM Colateral 3 
+
+Canal de %1% caido --- samel --- imCpuAndCommunications
+
+
+Elemento  I,SL,E2,S2/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,E1,S1/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,E1,S1/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,E2,S2/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,S1/1,CM 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,S1/2,CM 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  I,VP,S2/2,SL 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,BZ,S1/3,S1/3A 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,SL,R1,S1/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,SL,S2/2,VO 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,VP,R1,S1/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,VP,R2,S2/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  M,VP,S1/1,CM 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  R,BZ,E2,VIA5 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  R,SL,E2,S2/1 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  R,SL,E2,S2/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  R,VP,E2,S2/2 
+
+El mando %1% rechazado --- samel --- other
+
+
+Elemento  Se�al|E'1 
+
+%1% %2%, Lámpara amarilla fundida --- samel --- fieldElementAlarm
+%1% %2%, Lámpara verde fundida --- samel --- fieldElementAlarm
+
+
+Elemento  Se�al|E2 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|E'2 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|R2 
+
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|S1/1 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|S1/2 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|S2/1 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+
+Elemento  Se�al|S2/2 
+
+%1% %2%, Lámpara roja fundida --- samel --- fieldElementAlarm
+%1% %2%, sin datos --- samel --- fieldElementFailure
+
+

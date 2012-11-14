@@ -7,6 +7,10 @@ if(!exists("antequera")){
   rm(antequera_1)
   rm(antequera_2)
 }
+
+if(!exists("antequera_elements")) {
+  antequera_elements <- read.csv("Datos/current/antequera_elements.csv", header= TRUE, sep=",")
+}
  
  if(!exists("segovia")) {
    segovia_1 <- read.csv("Datos/segovia_1.csv", header = TRUE, sep=";")

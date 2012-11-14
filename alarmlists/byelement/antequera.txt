@@ -1,0 +1,2601 @@
+Elemento   
+
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+%1%, red 3 no presente. --- samel --- fieldElementFailure
+%1%, SAI averiado. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Canal de comunicaciones A con IM, caído. --- samel --- imCpuAndCommunications
+Canal de comunicaciones A con PCI-E 1, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A con PCI-E 2, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A (PCI-RJu), caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A (PCI-SAM), caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con IM, caído. --- samel --- imCpuAndCommunications
+Canal de comunicaciones B con PCI-E 1, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con PCI-E 2, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B (PCI-RJu), caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B (PCI-SAM), caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con el IM caído. --- samel --- imCpuAndCommunications
+Canal de comunicaciones con PCI-E 1 caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con PCI-E 2 caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con PLO caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones PCI-RJu caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones PCI-SAM caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones PLO-RJu inactivo. --- samel --- operationsDiagnosisCommunications
+Impresora inactiva. --- samel --- internalPloDiagnosis
+Impresora no disponible. --- samel --- internalPloDiagnosis
+Operador %1% conectado. --- samel --- internalPloDiagnosis
+
+
+Elemento  1 
+
+CPU %1% de IM caída. --- samel --- imCpuAndCommunications
+
+
+Elemento  104 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  108 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  109 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  113 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  130 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  132 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  133 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  134 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  135 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  136 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  137 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  139 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  16 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  18 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  19 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  2 
+
+CPU %1% de IM caída. --- samel --- imCpuAndCommunications
+
+
+Elemento  20 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  21 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  22 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  23 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  25 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  3 
+
+CPU %1% de IM caída. --- samel --- imCpuAndCommunications
+
+
+Elemento  44 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  46 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  47 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  48 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  49 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  50 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  51 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  53 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  76 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  77 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  78 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  80 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  81 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  A1 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A10 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A11 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A12 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A13 
+
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A14 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A15 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A16 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A17 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A18 
+
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A18A 
+
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+
+
+Elemento  A19 
+
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A1CB 
+
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A2 
+
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A20 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A22 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A24 
+
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A2CB 
+
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  A3 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A4 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A5 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A6 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma AG - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A7 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A8 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  A9 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1%, sin datos. --- samel --- fieldElementFailure
+Aguja %1% sin energia disponible para movimiento. --- samel --- fieldElementFailure
+Alarma  Aguja - %1% - Talonada. --- samel --- fieldElementAlarm
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma MA - Aguja %1% - Sin comprobación --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Sensor de rueda de aguja %1% en fallo. --- samel --- fieldElementFailure
+
+
+Elemento  adm 
+
+Operador %1% conectado. --- samel --- internalPloDiagnosis
+
+
+Elemento  A|EC|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|10 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|11 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|12 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|13 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|14 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|17 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|3 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|7 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|8 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|EC|9 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|3 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|ECLZB|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|7 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  A|IM COL|8 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ALI-ANT 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  ALI-CAS 
+
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+%1%, red 3 no presente. --- samel --- fieldElementFailure
+%1%, SAI averiado. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  ALI_CTM 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  ALI-HUM 
+
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+%1%, red 3 desconectada. --- samel --- fieldElementFailure
+%1%, red 3 no presente. --- samel --- fieldElementFailure
+%1%, SAI averiado. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  ALI_LPR 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  ALI-LRO 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  Alimentaci�n HER 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  Alimentaci�n SNT 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  ALI-PGE 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  ALO1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  ALO2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  ANT1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  ANT2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  Antequera Santa Ana_System1_2007_07_03_00.TXT 
+
+Imprimiendo fichero %1%... --- samel --- internalPloDiagnosis
+
+
+Elemento  Antequera Santa Ana_System1_2007_10_01_22.TXT 
+
+Imprimiendo fichero %1%... --- samel --- internalPloDiagnosis
+
+
+Elemento  B|EC|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|10 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|11 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|12 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|13 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|14 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|17 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|3 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|7 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|8 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|EC|9 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|3 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|ECLZB|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|1 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|2 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|4 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|5 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|6 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|7 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  B|IM COL|8 
+
+Canal %1% con el %2%%3% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  BMA1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  BMA2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  CTC ANT 
+
+Canal de comunicaciones A con %1%, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% en estado desconocido. --- samel --- operationsDiagnosisCommunications
+
+
+Elemento  CTC ATO 
+
+Canal de comunicaciones A con %1%, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% en estado desconocido. --- samel --- operationsDiagnosisCommunications
+
+
+Elemento  E1 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E'1 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E2 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E'2 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E3 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  E'3 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  E4 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E'4 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E5 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E'5 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  E7 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1%, lámpara indicadora 1 fundida. --- samel --- fieldElementAlarm
+
+
+Elemento  E'7 
+
+Alarma SE - Señal %1% Foco amarillo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1%, lámpara indicadora 1 fundida. --- samel --- fieldElementAlarm
+
+
+Elemento  EC|1 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|10 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|11 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|12 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|13 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|14 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|17 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|2 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|3 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|4 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|5 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|6 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|7 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|8 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EC|9 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|1 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|2 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|3 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|4 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|5 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  ECLZB|6 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  EN-A 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, nivel bajo de combustible en el generador de energía. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  EN-B 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, nivel bajo de combustible en el generador de energía. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  EN-M 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  G1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  G2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  GRA1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  GRA2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  IA9 
+
+Alarma SE - Señal %1%, lámpara indicadora 1 fundida. --- samel --- fieldElementAlarm
+
+
+Elemento  I_CTM 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  I_LPR 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+
+
+Elemento  IM COL|1 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|2 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|4 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|5 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|6 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|7 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  IM COL|8 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  INT1 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Falta de comprobación en cambiador %1%. --- samel --- operatorInformation
+
+
+Elemento  INT2 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Falta de comprobación en cambiador %1%. --- samel --- operatorInformation
+
+
+Elemento  IR|1 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  LOS PRADOS_PLO-E_2010_04_13_02.TXT 
+
+Imprimiendo fichero %1%... --- samel --- internalPloDiagnosis
+
+
+Elemento  LPR1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  LPR2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  M1 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M10 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M11 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  M13 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M15 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M17 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M2 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  M3 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  M4 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M5 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M6 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M7 
+
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  M8 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  M9 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  MB 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  ML9 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  MLG1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  MLG2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  O1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  O2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  PGE1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  PGE2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  PMA1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  PMA2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  PRO ANT 
+
+Canal de comunicaciones A con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% en estado desconocido. --- samel --- operationsDiagnosisCommunications
+
+
+Elemento  PRO PGE 
+
+Canal de comunicaciones A con %1%, caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones A con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones B con %1%, en estado desconocido. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% caído. --- samel --- operationsDiagnosisCommunications
+Canal de comunicaciones con %1% en estado desconocido. --- samel --- operationsDiagnosisCommunications
+
+
+Elemento  PS ECI 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, nivel bajo de combustible en el generador de energía. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  PS PMA 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  R1 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  R2 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  R3 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco 2 fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  R4 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco 1 fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco 2 fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  R6 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+
+
+Elemento  RBC|1 
+
+Canal de comunicaciones con el %1%%2% caído. --- samel --- imCpuAndCommunications
+
+
+Elemento  S1/1 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S1/2 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S1/3 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S1/4 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  S1/5 
+
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco blanco Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  S1/6 
+
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S2/1 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S2/2 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco azul Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco verde Fundido. --- samel --- fieldElementAlarm
+Señal %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  S2/3 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S2/4 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  S2/4A 
+
+Alarma RE - Señal %1% --- samel --- fieldElementAlarm
+Alarma SE - Señal %1% Foco rojo Fundido. --- samel --- fieldElementAlarm
+
+
+Elemento  SAMEL_ALO 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_ANT 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_LPR 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_MLG 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_PGE 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_PMA 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SAMEL_SNT 
+
+Conexión en FALLO entre %1% y CM. --- samel --- communicationsAlarm
+
+
+Elemento  SNT1 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  SNT2 
+
+Alarma EL - Avería %1% - Activa. --- samel --- fieldElementAlarm
+Alarma EM - %1% - Activa. --- samel --- fieldElementAlarm
+
+
+Elemento  Tarjeta 2 FEC LZB 5 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  Tarjeta 3 FEC LZB 5 
+
+%1%, sin datos. --- samel --- fieldElementFailure
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  TEG 
+
+Operador %1% conectado. --- samel --- internalPloDiagnosis
+
+
+Elemento  V1 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1000 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1001 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1002 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1005 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1006 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1007 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1008 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1009 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1010 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1013 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1014A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1014B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1017A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1017B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1018 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1021 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1022 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1023 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1024 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1025 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1026 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1029 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1030 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1033 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1034 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1035 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1036 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1037 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1038 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1041 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1042 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1045 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1046 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1049 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1050 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1051 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1052 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1053 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1054 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1057 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1058 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1061 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1062 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1063 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1064 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1065 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1066 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1069 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1070 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1073 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1074 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1077 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1078 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1079 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1080 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1081 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1082 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1085 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1086 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1089 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1090 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1093 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1094 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1097 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1098 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1099 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1100 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1101 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1102 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1105 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1106 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1107 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1108 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1109 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1110 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1113 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1114A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1114B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1117A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1117B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1118 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1121 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1122 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1123 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1124 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1125 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1126 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1129 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1130A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1130B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1133A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1133B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1134 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1137 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1138 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1139 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1140 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1141 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1142 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1145 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1146A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1146B 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1149A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1149B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1150 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1153 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1154 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1155 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1156A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1156B 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1157A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1157B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V1A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V1B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V2 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V2A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V2B 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V3 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V3A 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V4 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V4A 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  V5 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  V6 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAM1 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  VAM11 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAM13 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  VAM15 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  VAM17 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAM2 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAM3 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+Circuito de vía %1%, sin datos. --- samel --- fieldElementFailure
+
+
+Elemento  VAM4 
+
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAM6 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VAMB 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE1 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE2 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE3 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE4 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE5 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE'5 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  VE7 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  VE'7 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+
+Elemento  VM10 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+Alarma OV - Circuito de vía %1% --- samel --- fieldElementAlarm
+
+
+Elemento  Alimentación HER 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  Alimentación SNT 
+
+%1%, avería SAI de línea 1. --- samel --- fieldElementFailure
+%1%, avería SAI Señalización y Telecomunicaciones. --- samel --- fieldElementFailure
+%1%, fallo de SAI de agujas. --- samel --- fieldElementFailure
+%1%, fallo en batería de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en rectificador de 48V CC. --- samel --- fieldElementFailure
+%1%, fallo en SAI de línea 2. --- samel --- fieldElementFailure
+%1%, fallo general del generador de energía. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conexión/distribución. --- samel --- fieldElementFailure
+%1%, fallo general en armario de conmutación. --- samel --- fieldElementFailure
+%1%, falta de tensión en agujas. --- samel --- fieldElementFailure
+%1%, generador de energía en funcionamiento. --- samel --- fieldElementFailure
+%1%, nivel bajo de combustible en el generador de energía. --- samel --- fieldElementFailure
+%1%, red 1 desconectada. --- samel --- fieldElementFailure
+%1%, red 1 no presente. --- samel --- fieldElementFailure
+%1%, red 2 desconectada. --- samel --- fieldElementFailure
+%1%, red 2 no presente. --- samel --- fieldElementFailure
+
+
+Elemento  La Marota_PLO-E_2012_06_28_05.TXT 
+
+Imprimiendo fichero %1%... --- samel --- internalPloDiagnosis
+
+
+Elemento  Tarjeta 2 FEC LZB 1 
+
+Alarma EL - Fallo %1% - Activo. --- samel --- fieldElementAlarm
+
+

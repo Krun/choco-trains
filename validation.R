@@ -37,12 +37,14 @@ get_consequents <- function(consequent,testset) {
 
 get_triggers <- function(antecedent, testset) {
   triggers <- testset[testset$event == antecedent[[1]], ]
+  triggers$event <- NULL
   if (length(antecedent) == 1){
     return(triggers)
   }
   #else, continue applying conditions to find triggers
   for(i in 2:length(antecedent)){
     triggersn <- testset[testset$event == antecedent[[i]], ]
+    triggersn$event <- NULL
     triggers <- merge(triggers, triggersn, by=c("time","installation"))
   }
   return(triggers)

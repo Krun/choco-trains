@@ -1,0 +1,2806 @@
+Elemento  CDC|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  CDC|1|1 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CDC|1|2 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CDC|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|2|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CDC|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  CDC|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  CDC|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  CDC|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  CDC|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CDC|NAS|NAS 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  CHA1|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|0|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|12|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|12|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CHA1|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|1|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|2|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CHA1|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|3|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CHA1|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|5|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|6|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|7|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|8|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA1|CHA|CHA 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  CHA1|westrace.c|309 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|0|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|1|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CHA2|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  CHA2|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|1|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|5|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|6|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|7|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|8|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA2|CHA|CHA 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  CHA2|westrace.c|309 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  CHA|CHA1 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  CHA|CHA2 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  CHA|MNO 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  COC|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|1|2 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  COC|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  COC|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|2|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  COC|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  COC|NAS|NAS 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  ENCE_CHA|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_GAC|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_HOR|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_NAS|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_OLM|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_SEG|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_SRE|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_TCA|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_VAD|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  ENCE_VAL|PCE_SEG 
+
+Conexión en FALLO entre %2% y %1%. --- ence --- CommProblem
+
+
+Elemento  FECR_SEG-1|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_CHA2-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_CHA2-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_SEG1-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_SEG1-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_SEG2-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-1|PCIR_SEG2-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_CHA2-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_CHA2-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_SEG1-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_SEG1-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_SEG2-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  FECR_SEG-2|PCIR_SEG2-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  GAC|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|1|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|1|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|1|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|17|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|2 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  GAC|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  GAC|21|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|2|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  GAC|24|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  GAC|2|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  GAC|32|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|33|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|3|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GAC|36|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|37|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|40|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|44|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GAC|GAC 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  GAC|GAC|GAC 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  GAC|westrace.c|309 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  GUD|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GUD|1|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|1|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|1|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  GUD|2|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|2|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  GUD|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  GUD|SRE|SRE 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  HOR|1|2 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  HOR|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  HOR|1|8 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  HOR|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  HOR|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  HOR|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  HOR|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  HOR|4|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  HOR|HOR 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  HOR|HOR|HOR 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  MNO|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|1|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  MNO|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  MNO|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  MNO|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  MNO|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|1|2 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  NAS|1|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  NAS|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|2|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  NAS|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|3|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  NAS|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  NAS|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  NAS|4|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  NAS|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  NAS|CDC 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  NAS|COC 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  NAS|interface1b.c|4043 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  NAS|NAS 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  NAS|NAS|NAS 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  NAS|SMR 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  OLM|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|1|1 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  OLM|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|16|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|17|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|17|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|1|8 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  OLM|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|20|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|21|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|21|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|2|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  OLM|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|24|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|28|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|32|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|3|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  OLM|33|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|36|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|37|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|40|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|4|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  OLM|44|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|48|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|49|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|52|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|53|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|56|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|56|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|57|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|57|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|5|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|7|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  OLM|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  OLM|OLM 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  OLM|OLM|OLM 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  PCE_SEG 
+
+Conexión en FALLO entre %1% y CM. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-1|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+
+
+Elemento  PCES_SEG-1|FECR_SEG-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-1|FECR_SEG-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-1|PCES_SEG-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-2|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+
+
+Elemento  PCES_SEG-2|FECR_SEG-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-2|FECR_SEG-2|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCES_SEG-2|PCES_SEG-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_CHA2-1|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_CHA2-1|SAMCLC_CHA-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2-1|SAMCLC_SRE-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2-1|SAMCLC_TCA-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2-2|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_CHA2-2|SAMCLC_CHA-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2-2|SAMCLC_SRE-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_CHA2-2|SAMCLC_TCA-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG1-1|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG1-1|SAMCLC_GAC-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1-1|SAMCLC_NAS-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1-1|SAMCLC_SEG-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1-2|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG1-2|SAMCLC_GAC-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1-2|SAMCLC_NAS-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG1-2|SAMCLC_SEG-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG2-1|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG2-1|SAMCLC_HOR-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-1|SAMCLC_OLM-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-1|SAMCLC_VAD-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-1|SAMCLC_VAL-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-2|  
+
+%2% FALLO/s de dispositivos de red en %1%. --- node --- equipmentAlarm
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  PCIR_SEG2-2|SAMCLC_HOR-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-2|SAMCLC_OLM-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-2|SAMCLC_VAD-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  PCIR_SEG2-2|SAMCLC_VAL-1|  
+
+Conexión en FALLO entre %1% y %2%. --- node --- communicationsAlarm
+
+
+Elemento  RBC_CHA1-1|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_CHA1-2|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_CHA1|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG1-1|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG1-2|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG1|PCE_SEG 
+
+El estado logico de %1% es no autorizado. --- rbc --- CommProblem
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG2-1|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG2-2|PCE_SEG 
+
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RBC_SEG2|PCE_SEG 
+
+El estado logico de %1% es no autorizado. --- rbc --- CommProblem
+La conexión con %1% está en FALLO. --- rbc --- CommProblem
+
+
+Elemento  RDU|VAL|VAL 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SAMCLC_CHA|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_GAC|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_HOR|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_NAS|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_OLM|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_SEG|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_SRE|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_TCA|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_VAD|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMCLC_VAL|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SAMPCE_SEG|  
+
+El %1% NO está disponible. --- node --- processingErrorAlarm
+
+
+Elemento  SEG1|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|1|4 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG1|1|6 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG1|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|16|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|17|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|17|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG1|2 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG1|2|4 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG1|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|24|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|2|5 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG1|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|3|6 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG1|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|5|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG1|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG1|interface1b.c|4043 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG1|SEG|SEG 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SEG2|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|1|4 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG2|1|5 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG2|1|6 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG2|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|16|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|17|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|17|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|2 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG2|2|4 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG2|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|24|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|3|6 
+
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es ACTIVO. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado ACTIVO, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El CLC %1% tiene al CEC colateral %2% (del %3%) con estado SIN CONEXIÓN, y el estado del canal es SIN CONEXIÓN. --- clc --- information
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SEG2|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG2|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|6|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG2|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SEG2|interface1b.c|4043 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG2|SEG|SEG 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SEG2|westrace.c|309 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  SEG|SEG1 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SEG|SEG2 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SMR|1|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SMR|16|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SMR|20|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SMR|2|3 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SMR|2|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SMR|24|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SMR|28|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SMR|NAS|NAS 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SRE1|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|0|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|1|4 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|1|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|1|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|2 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|2|5 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|2|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|3|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE1|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SRE1|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|8|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE1|SRE|SRE 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SRE2|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|0|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|1|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE2|1|7 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  SRE2|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|1|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SRE2|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  SRE2|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|7|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|8|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  SRE2|SRE|SRE 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SRE|GUD 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SRE|SRE1 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  SRE|SRE2 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  TCA|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  TCA|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|10|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|1|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|11|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|1|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|1|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|2 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|2|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|2|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|3 
+
+El estado de la CPU %2% del CLC %1% ha cambiado a INACTIVA. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|3|10 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|3|6 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  TCA|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|5|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  TCA|7|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|7|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|9|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|9|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  TCA|TCA 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  TCA|TCA|TCA 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  VAD|0|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|10|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|1|1 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  VAD|11|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|1|2 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  VAD|12|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|13|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|1|9 
+
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A ACTIVO y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B ACTIVO). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es ACTIVA (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+El estado de la conexión entre el CLC %1% y el NCEC %2% del %3% es SIN CONEXIÓN (subcanal A SIN CONEXIÓN y subcanal B SIN CONEXIÓN). --- clc --- environmentAlarm
+
+
+Elemento  VAD|1|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|2|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|2|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|3|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|3|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|4|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|4|B 
+
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|5|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|6|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+
+
+Elemento  VAD|8|A 
+
+La BD %2% Canal %3% conectada al CLC %1% está SIN CONEXIÓN. --- clc --- information
+Versión del telegrama incorrecta del canal %3% de la BD %2% conectada al CLC %1%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|interface1b.c|4043 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+
+Elemento  VAD|VAD 
+
+Conexión en FALLO entre SAMCLC %1% y CLC %2%. --- clc --- communicationsAlarm
+
+
+Elemento  VAD|VAD|VAD 
+
+Fallo CRÍTICO entre CLC %1% y ENCE %2%. --- clc --- communicationsAlarm
+
+
+Elemento  VAD|westrace.c|309 
+
+El CLC %1% se ha detenido por error grave en el fichero %2% línea %3%. --- clc --- equipmentAlarm
+
+

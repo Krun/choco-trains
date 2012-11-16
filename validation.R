@@ -1,3 +1,37 @@
+auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/") {
+  for (i in 1:k){
+    auto_validate(name,i,winmax,winmin,path)
+  }
+}
+
+auto_validate <- function(name, i, winmax=1, winmin=1, path="output/sequences/") {
+  
+  s <- read.csv(paste(path,name,"_",i,".txt", sep=""))
+  rules <- as.character(s$sequence)
+  testset = load_baskets(filename=paste("baskets/",name,"_",i,"_test.txt",sep=""))
+  
+  bfile = paste(path,name,"_eval_",i,".txt",sep="")
+  cat(file=bfile)
+  for (j in 1:length(rules)){
+    orgrule = rules[[j]]
+    rule = processrule(orgrule)
+    if (single_consequent(rule)){
+      cat("[Set",i,"] Rule",j,"is valid, evaluating\n")
+      antecedent = rule[[1]]
+      consequent = rule[[2]]
+      prec <- precision(antecedent, consequent, testset, winmax, winmin)
+      rec <- recall(antecedent, consequent, testset, winmax, winmin)
+      if(is.nan(prec) | prec < 0.5 | is.nan(rec)) {
+        next
+      }
+      cat("[Set",i,"] Rule",j,"is precise, writing to",bfile,"\n")
+      cat(file=bfile, orgrule, prec, rec, "\n", append=TRUE)
+    }
+  }
+  
+}
+
+
 single_consequent <- function(rule) {
   return (length(rule[[2]]) == 1)
 }
@@ -11,8 +45,6 @@ precision <- function(antecedent,consequent,testset,winmax,winmin=1) {
     valid <- subset(testset, time >= tim+winmin & time <= tim+winmax & installation == ins & event == consequent[[1]])
     success = success + (nrow(valid) >= 1)
   }
-  cat("triggers: ", nrow(triggers), "\n")
-  cat("success: ",success, "\n")
   return(success/nrow(triggers))
 }
 
@@ -24,8 +56,6 @@ recall <- function(antecedent, consequent, testset, winmax, winmin=1) {
   numconsequent <- nrow(testset[testset$event == consequent[[1]], ])
   
   recall <- valid_predictions/numconsequent
-  cat("cases: ",numconsequent,"\n")
-  cat("predicted: ",valid_predictions,"\n")
   return(recall)
 }
 

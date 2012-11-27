@@ -1,3 +1,43 @@
+k_average <- function(name, k, path="output/sequences/") {
+  i = 1
+  cat("Loading validation file",i,"\n")
+  av <- read.csv(paste(path,name,"_eval_",i,".txt", sep=""),sep=" ",header = FALSE)
+  colnames(av)<-c("rule",paste("precision",i,sep=""),paste("recall",i,sep=""),"r")
+  av$r <- NULL
+  for (i in 2:k) {
+    cat("Loading validation file",i,"\n")
+    s <- read.csv(paste(path,name,"_eval_",i,".txt", sep=""),sep=" ",header = FALSE)
+    colnames(s)<-c("rule",paste("precision",i,sep=""),paste("recall",i,sep=""),"r")
+    s$r <- NULL
+    av <- merge(av,s,by=c("rule"),all = TRUE)
+    cat("Merging validation file",i,"\n")
+  }
+  av[is.na(av)] <- 0
+  for (i in 1:k) {
+    j <- 2*i
+    av[,2] <- av[,2] + av[,j]
+    av[,3] <- av[,3] + av[,j+1]
+  }
+  av[,2] <- av[,2]/k
+  av[,3] <- av[,3]/k
+  
+  av <- av[,1:3]
+
+  colnames(av) <- c("rule","precision","recall")
+  
+  av <- av[order(av$precision),]
+  av <- av[nrow(av):1,]
+  rownames(av) <- NULL
+  
+  filenamer <- paste(path,name,"_meanperformance.txt",sep="")
+  
+  cat("Average performance data saved to",filenamer,"\n")
+  write.csv(av,file=filenamer)
+  
+  return(av)
+  
+}
+
 auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/") {
   for (i in 1:k){
     auto_validate(name,i,winmax,winmin,path)

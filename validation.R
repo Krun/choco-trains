@@ -6,11 +6,26 @@ k_average <- function(name, k, path="output/sequences/") {
   av$r <- NULL
   for (i in 2:k) {
     cat("Loading validation file",i,"\n")
-    s <- read.csv(paste(path,name,"_eval_",i,".txt", sep=""),sep=" ",header = FALSE)
-    colnames(s)<-c("rule",paste("precision",i,sep=""),paste("recall",i,sep=""),"r")
-    s$r <- NULL
-    av <- merge(av,s,by=c("rule"),all = TRUE)
-    cat("Merging validation file",i,"\n")
+    av = tryCatch({
+      s <- read.csv(paste(path,name,"_eval_",i,".txt", sep=""),sep=" ",header = FALSE)
+      colnames(s)<-c("rule",paste("precision",i,sep=""),paste("recall",i,sep=""),"r")
+      s$r <- NULL
+      cat("Merging validation file",i,"\n")
+      av <- merge(av,s,by=c("rule"),all = TRUE)
+    }, warning = function(w) {
+      cat("Failed\n")
+      cat(w)
+    }, error = function(e) {
+      #if file is empty or fails to read, we add columns of NA
+      cat("Nothing in file",i,"\n")
+      nxt <- length(av) +1
+      av[,nxt] = NA
+      colnames(av)[nxt] <- paste("precision",i,sep="")
+      nxt <- nxt +1
+      av[,nxt] = NA
+      colnames(av)[nxt] <- paste("recall",i,sep="")
+      return(av)
+    })
   }
   av[is.na(av)] <- 0
   for (i in 1:k) {
@@ -38,17 +53,20 @@ k_average <- function(name, k, path="output/sequences/") {
   
 }
 
-auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/") {
+auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/", path_in="baskets/", minprec = 0.5) {
+  cat("EXECUTING K-FOLD-CV FOR",name,"K=",k,"\n")
+  cat("winmin =",winmin,"\n")
+  cat("winmax =",winmax,"\n")
   for (i in 1:k){
-    auto_validate(name,i,winmax,winmin,path)
+    auto_validate(name,i,winmax,winmin,path,path_in,minprec)
   }
 }
 
-auto_validate <- function(name, i, winmax=1, winmin=1, path="output/sequences/") {
-  
+auto_validate <- function(name, i, winmax=1, winmin=1, path="output/sequences/", path_in="baskets/", minprec = 0.5) {
+  path_in <- paste(path_in,name,"/",sep="")
   s <- read.csv(paste(path,name,"_",i,".txt", sep=""))
   rules <- as.character(s$sequence)
-  testset = load_baskets(filename=paste("baskets/",name,"_",i,"_test.txt",sep=""))
+  testset = load_baskets(filename=paste(path_in,name,"_",i,"_test.txt",sep=""))
   
   bfile = paste(path,name,"_eval_",i,".txt",sep="")
   cat(file=bfile)
@@ -61,7 +79,7 @@ auto_validate <- function(name, i, winmax=1, winmin=1, path="output/sequences/")
       consequent = rule[[2]]
       prec <- precision(antecedent, consequent, testset, winmax, winmin)
       rec <- recall(antecedent, consequent, testset, winmax, winmin)
-      if(is.nan(prec) | prec < 0.5 | is.nan(rec)) {
+      if(is.nan(prec) | prec < minprec | is.nan(rec)) {
         next
       }
       cat("[Set",i,"] Rule",j,"is precise, writing to",bfile,"\n")

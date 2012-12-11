@@ -1,6 +1,6 @@
 library(plyr)
 
-extend <- function(target) {
+extend <- function(target, days=1) {
 
   prep <- data.frame(ERROR = factor(target$ADDITIONAL_TEXT))
   
@@ -11,8 +11,9 @@ extend <- function(target) {
   
   prep$eventID <- strptime(prep$eventID, "%Y-%m-%d %H:%M:%S")
   prep$eventID <- as.numeric(prep$eventID)
+  prep <- prep[complete.cases(prep),]
   prep$eventID <- prep$eventID - min(prep$eventID)
-  prep$eventID <- as.numeric(prep$eventID) %/% (60*60*24) #Pasamos de segundos a dias.
+  prep$eventID <- as.numeric(prep$eventID) %/% (60*60*24*days) #Pasamos de segundos a dias.
   prep$eventID <- as.factor(prep$eventID)
   
   
@@ -22,7 +23,7 @@ extend <- function(target) {
   
   maxday <- max(as.numeric(as.character(new$eventID)))
   
-  days <- 1:maxday
+  days <- 0:maxday
   seqs <- levels(factor(prep$sequenceID))
   allindexes = expand.grid(days, seqs)
   colnames(allindexes) <- c("eventID", "sequenceID")

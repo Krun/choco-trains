@@ -36,16 +36,9 @@ if(!exists("antequera_elements")) {
  if(!exists("camas")) {
  }
 
-if(!exists("segovia_new_2009")) {
-  segovia_new_2009 <- read.csv("Datos/segovia_new_2009.csv", header = TRUE, sep=";")
-}
-
 if(!exists("albacete")) {
   albacete <- read.csv("Datos/albacete.csv", header = TRUE, sep=";")
-}
-
-if(!exists("antequera_new")) {
-  antequera_new <- read.csv("Datos/antequera_new.csv", header = TRUE, sep=";")
+  names(albacete)[names(albacete)=="X.DVNI_INSTALLATIONCODE"] <- "DVNI_INSTALLATIONCODE"
 }
 
 #if(!exists("camas")) {

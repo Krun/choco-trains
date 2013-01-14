@@ -1,0 +1,221 @@
+2 6619 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+2 6623 10 saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_SAM_E_L_down 
+2 6624 9 saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+2 6625 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+2 6626 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+3 6619 1 saml.status.channel_PLO_RJU_down 
+4 6620 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_SAM_down 
+4 6621 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+4 6623 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+4 6626 1 saml.status.channel_B_PCI_SAM_down 
+5 6619 1 saml.status.channel_A_CS_down 
+5 6620 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_PCI_SAM_down 
+5 6621 3 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+5 6622 1 saml.status.channel_A_CS_down 
+5 6623 6 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+5 6625 1 saml.status.channel_B_CS_down 
+5 6626 2 saml.status.channel_B_CS_down saml.status.channel_B_PCI_SAM_down 
+5 6627 1 saml.status.channel_B_CS_down 
+5 6628 1 saml.status.channel_B_CS_down 
+5 6629 1 saml.status.channel_B_CS_down 
+6 6623 7 saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down 
+6 6629 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+10 6619 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+10 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+10 6621 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+10 6623 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+10 6627 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+10 6628 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+11 6619 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+11 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+11 6621 3 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+11 6623 5 saml.status.channel_A_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+11 6626 1 saml.status.channel_A_CS_down 
+11 6627 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+12 6623 9 saml.status.channel_PLO_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_SAM_E_L_down 
+17 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+17 6621 3 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+17 6623 9 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+17 6624 5 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_B_CS_unknown saml.status.channel_A_CS_down 
+17 6626 1 saml.status.channel_A_CS_down 
+17 6627 6 saml.status.channel_A_CS_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down 
+18 6619 1 saml.status.channel_A_CS_down 
+18 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+18 6621 5 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+18 6623 5 saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown 
+19 6620 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+19 6621 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+19 6622 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+19 6623 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down 
+19 6625 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+19 6626 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+19 6627 7 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down 
+23 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+23 6621 4 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+23 6623 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+23 6625 1 saml.status.channel_A_PCI_SAM_down 
+23 6626 1 saml.status.channel_A_PCI_SAM_down 
+25 6620 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_SAM_down 
+25 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+25 6622 2 saml.status.channel_A_PCI_SAM_down saml.status.channel_A_CS_down 
+25 6623 6 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+25 6625 2 saml.status.channel_B_CS_down saml.status.channel_A_PCI_SAM_down 
+25 6626 6 saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+25 6627 1 saml.status.channel_B_CS_down 
+26 6619 10 saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down saml.status.channel_SAM_E_L_down 
+26 6621 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+26 6623 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down 
+26 6624 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+29 6619 1 saml.status.channel_PLO_RJU_down 
+30 6619 4 saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+30 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+30 6621 3 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_SAM_down 
+30 6623 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+30 6627 4 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+31 6619 4 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_B_CS_down 
+31 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+31 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+31 6623 9 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+31 6624 1 saml.status.channel_B_CS_down 
+31 6626 1 saml.status.channel_B_CS_down 
+31 6627 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+32 6619 7 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down 
+32 6623 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down 
+32 6626 1 saml.status.channel_A_PCI_1_down 
+36 6625 1 saml.status.channel_PLO_RJU_down 
+37 6619 4 saml.status.channel_B_CS_down saml.status.channel_B_PCI_RJU_down saml.status.channel_A_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+37 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+37 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+37 6623 4 saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+37 6624 6 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down 
+37 6625 3 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+37 6626 2 saml.status.channel_A_CS_down saml.status.channel_A_PCI_SAM_down 
+38 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+38 6621 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+38 6623 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+38 6625 3 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+39 6619 1 saml.status.channel_B_SAM_E_L_down 
+39 6622 10 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_SAM_E_L_down 
+39 6623 10 saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down saml.status.channel_SAM_E_L_down 
+39 6624 10 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down 
+43 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+43 6621 4 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+43 6623 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+44 6620 4 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown 
+44 6621 5 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+44 6622 1 saml.status.channel_A_CS_down 
+44 6623 3 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+44 6624 6 saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_CS_down saml.status.channel_CS_down 
+44 6626 1 saml.status.channel_B_CS_down 
+44 6628 6 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down 
+45 6623 7 saml.status.channel_A_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down 
+45 6624 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+46 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+46 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down saml.status.channel_B_CS_down 
+46 6623 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+46 6624 1 saml.status.channel_B_CS_down 
+46 6625 1 saml.status.channel_B_CS_down 
+46 6626 1 saml.status.channel_B_CS_down 
+50 6619 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+50 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+50 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down 
+50 6622 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+50 6623 4 saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+51 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+51 6621 5 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+51 6622 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+51 6623 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+51 6624 1 saml.status.channel_A_CS_down 
+51 6625 1 saml.status.channel_A_CS_down 
+51 6626 1 saml.status.channel_A_CS_down 
+51 6628 1 saml.status.channel_A_CS_down 
+53 6621 1 saml.status.channel_PLO_RJU_down 
+54 6618 1 saml.status.channel_B_PCI_RJU_down 
+54 6619 2 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_SAM_down 
+54 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+54 6621 9 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_B_PCI_RJU_down saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_CS_unknown 
+54 6623 5 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+55 6618 2 saml.status.channel_A_CS_down saml.status.channel_A_CS_unknown 
+55 6619 1 saml.status.channel_A_CS_down 
+55 6620 4 saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown 
+55 6621 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_CS_down 
+55 6623 1 saml.status.channel_A_CS_down 
+55 6625 3 saml.status.channel_B_PCI_RJU_down saml.status.channel_A_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+56 6618 10 saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_SAM_down saml.status.channel_B_PCI_RJU_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+56 6619 3 saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown 
+56 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+56 6621 9 saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_PCI_RJU_down saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down 
+56 6623 5 saml.status.channel_A_CS_down saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+56 6624 6 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down 
+56 6625 1 saml.status.channel_B_CS_down 
+56 6626 1 saml.status.channel_B_CS_down 
+56 6627 1 saml.status.channel_B_CS_down 
+56 6628 1 saml.status.channel_B_CS_down 
+57 6618 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+57 6619 5 saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down 
+57 6621 7 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down 
+57 6623 7 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+58 6618 10 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down 
+58 6619 10 saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down 
+58 6622 10 saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+58 6623 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down 
+58 6626 3 saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+62 6618 6 saml.status.channel_A_CS_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+62 6619 1 saml.status.channel_A_CS_down 
+62 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+62 6621 6 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_CS_down 
+62 6622 1 saml.status.channel_A_CS_down 
+62 6623 1 saml.status.channel_A_CS_down 
+63 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+63 6621 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+63 6623 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+63 6624 1 saml.status.channel_B_CS_down 
+63 6625 1 saml.status.channel_B_CS_down 
+63 6626 1 saml.status.channel_B_CS_down 
+64 6618 10 saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+64 6619 10 saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down 
+64 6620 5 saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down saml.status.channel_A_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down 
+64 6621 10 saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_1_down saml.status.channel_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+64 6623 9 saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PLO_down saml.status.channel_B_PCI_1_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down saml.status.channel_A_PCI_1_down 
+64 6626 7 saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+64 6627 3 saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+64 6628 1 saml.status.channel_PLO_down 
+66 6618 1 saml.status.channel_B_SAM_E_L_down 
+66 6619 5 saml.status.channel_PLO_down saml.status.channel_B_PCI_2_down saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_SAM_E_L_down 
+66 6620 6 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_B_SAM_E_L_down 
+66 6622 9 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+66 6623 10 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_B_SAM_E_L_down 
+66 6625 1 saml.status.channel_B_SAM_E_L_down 
+66 6626 5 saml.status.channel_B_SAM_E_L_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_B_PCI_1_down saml.status.channel_B_PCI_2_down 
+66 6627 3 saml.status.channel_B_SAM_E_L_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+66 6628 1 saml.status.channel_B_SAM_E_L_down 
+68 6621 1 saml.status.channel_PLO_RJU_down 
+69 6620 5 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_SAM_down 
+69 6621 11 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_SAM_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_CS_down saml.status.channel_CS_unknown 
+69 6623 9 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+69 6626 6 saml.status.channel_A_CS_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down 
+69 6627 1 saml.status.channel_A_CS_down 
+70 6618 2 saml.status.channel_A_PCI_SAM_down saml.status.channel_A_CS_down 
+70 6619 1 saml.status.channel_A_CS_down 
+70 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+70 6621 10 saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_SAM_down saml.status.channel_B_PCI_RJU_down saml.status.channel_CS_unknown 
+70 6623 5 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_B_CS_down saml.status.channel_B_CS_unknown 
+70 6627 2 saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+71 6618 10 saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PCI_2_down 
+71 6619 10 saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down 
+71 6623 10 saml.status.channel_A_SAM_E_L_down saml.status.channel_B_SAM_E_L_down saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PCI_1_down saml.status.channel_SAM_E_L_down 
+71 6624 3 saml.status.channel_B_SAM_E_L_down saml.status.channel_A_SAM_E_L_down saml.status.channel_SAM_E_L_down 
+74 6619 1 saml.status.channel_PLO_RJU_down 
+75 6619 4 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_down 
+75 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+75 6621 1 saml.status.channel_A_CS_down 
+75 6623 5 saml.status.channel_B_PCI_RJU_down saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+75 6627 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_CS_down 
+76 6618 1 saml.status.channel_B_CS_down 
+76 6619 4 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_B_CS_down 
+76 6620 4 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down 
+76 6621 1 saml.status.channel_B_CS_down 
+76 6622 6 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_CS_down saml.status.channel_CS_down saml.status.channel_B_CS_down 
+76 6623 6 saml.status.channel_B_CS_down saml.status.channel_A_CS_unknown saml.status.channel_A_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+76 6626 1 saml.status.channel_A_CS_down 
+76 6627 1 saml.status.channel_A_CS_down 

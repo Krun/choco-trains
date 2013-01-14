@@ -1,0 +1,131 @@
+1 95 1 ence.status.PCE_ENCE_communication_DOWN 
+1 97 1 ence.status.PCE_ENCE_communication_DOWN 
+1 99 1 ence.status.PCE_ENCE_communication_DOWN 
+1 100 1 ence.status.PCE_ENCE_communication_DOWN 
+1 102 1 ence.status.PCE_ENCE_communication_DOWN 
+1 103 1 ence.status.PCE_ENCE_communication_DOWN 
+1 104 1 ence.status.PCE_ENCE_communication_DOWN 
+1 105 1 ence.status.PCE_ENCE_communication_DOWN 
+1 106 1 ence.status.PCE_ENCE_communication_DOWN 
+1 107 1 ence.status.PCE_ENCE_communication_DOWN 
+1 110 1 ence.status.PCE_ENCE_communication_DOWN 
+1 112 1 ence.status.PCE_ENCE_communication_DOWN 
+2 95 1 ence.status.PCE_ENCE_communication_DOWN 
+2 99 1 ence.status.PCE_ENCE_communication_DOWN 
+2 100 1 ence.status.PCE_ENCE_communication_DOWN 
+2 102 1 ence.status.PCE_ENCE_communication_DOWN 
+2 105 1 ence.status.PCE_ENCE_communication_DOWN 
+2 106 1 ence.status.PCE_ENCE_communication_DOWN 
+2 107 1 ence.status.PCE_ENCE_communication_DOWN 
+2 111 1 ence.status.PCE_ENCE_communication_DOWN 
+2 112 1 ence.status.PCE_ENCE_communication_DOWN 
+3 95 1 ence.status.PCE_ENCE_communication_DOWN 
+3 99 1 ence.status.PCE_ENCE_communication_DOWN 
+3 100 1 ence.status.PCE_ENCE_communication_DOWN 
+3 103 1 ence.status.PCE_ENCE_communication_DOWN 
+3 105 1 ence.status.PCE_ENCE_communication_DOWN 
+3 106 1 ence.status.PCE_ENCE_communication_DOWN 
+3 107 1 ence.status.PCE_ENCE_communication_DOWN 
+3 112 1 ence.status.PCE_ENCE_communication_DOWN 
+4 95 1 ence.status.PCE_ENCE_communication_DOWN 
+4 99 1 ence.status.PCE_ENCE_communication_DOWN 
+4 100 1 ence.status.PCE_ENCE_communication_DOWN 
+4 103 1 ence.status.PCE_ENCE_communication_DOWN 
+4 105 1 ence.status.PCE_ENCE_communication_DOWN 
+4 106 1 ence.status.PCE_ENCE_communication_DOWN 
+4 107 1 ence.status.PCE_ENCE_communication_DOWN 
+4 108 1 ence.status.PCE_ENCE_communication_DOWN 
+4 109 1 ence.status.PCE_ENCE_communication_DOWN 
+4 112 1 ence.status.PCE_ENCE_communication_DOWN 
+5 95 1 rbc.status.RBC_FAILED 
+5 99 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 100 1 rbc.status.RBC_FAILED 
+5 102 1 rbc.status.RBC_FAILED 
+5 103 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 104 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 105 1 rbc.status.RBC_FAILED 
+5 106 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 107 1 rbc.status.RBC_FAILED 
+5 110 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 111 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+5 112 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+6 95 1 ence.status.PCE_ENCE_communication_DOWN 
+6 97 1 ence.status.PCE_ENCE_communication_DOWN 
+6 98 1 ence.status.PCE_ENCE_communication_DOWN 
+6 99 1 ence.status.PCE_ENCE_communication_DOWN 
+6 100 1 ence.status.PCE_ENCE_communication_DOWN 
+6 103 1 ence.status.PCE_ENCE_communication_DOWN 
+6 105 1 ence.status.PCE_ENCE_communication_DOWN 
+6 106 1 ence.status.PCE_ENCE_communication_DOWN 
+6 107 1 ence.status.PCE_ENCE_communication_DOWN 
+6 108 1 ence.status.PCE_ENCE_communication_DOWN 
+6 112 1 ence.status.PCE_ENCE_communication_DOWN 
+7 95 1 ence.status.PCE_ENCE_communication_DOWN 
+7 99 1 ence.status.PCE_ENCE_communication_DOWN 
+7 100 1 ence.status.PCE_ENCE_communication_DOWN 
+7 102 1 ence.status.PCE_ENCE_communication_DOWN 
+7 103 1 ence.status.PCE_ENCE_communication_DOWN 
+7 105 1 ence.status.PCE_ENCE_communication_DOWN 
+7 106 1 ence.status.PCE_ENCE_communication_DOWN 
+7 107 1 ence.status.PCE_ENCE_communication_DOWN 
+7 112 1 ence.status.PCE_ENCE_communication_DOWN 
+8 95 1 ence.status.PCE_ENCE_communication_DOWN 
+8 99 1 ence.status.PCE_ENCE_communication_DOWN 
+8 100 1 ence.status.PCE_ENCE_communication_DOWN 
+8 102 1 ence.status.PCE_ENCE_communication_DOWN 
+8 103 1 ence.status.PCE_ENCE_communication_DOWN 
+8 105 1 ence.status.PCE_ENCE_communication_DOWN 
+8 106 1 ence.status.PCE_ENCE_communication_DOWN 
+8 107 1 ence.status.PCE_ENCE_communication_DOWN 
+8 110 1 ence.status.PCE_ENCE_communication_DOWN 
+8 112 1 ence.status.PCE_ENCE_communication_DOWN 
+9 94 1 ence.status.PCE_ENCE_communication_DOWN 
+9 95 1 ence.status.PCE_ENCE_communication_DOWN 
+9 97 1 ence.status.PCE_ENCE_communication_DOWN 
+9 99 1 ence.status.PCE_ENCE_communication_DOWN 
+9 100 1 ence.status.PCE_ENCE_communication_DOWN 
+9 101 1 ence.status.PCE_ENCE_communication_DOWN 
+9 103 1 ence.status.PCE_ENCE_communication_DOWN 
+9 104 1 ence.status.PCE_ENCE_communication_DOWN 
+9 105 1 ence.status.PCE_ENCE_communication_DOWN 
+9 106 1 ence.status.PCE_ENCE_communication_DOWN 
+9 107 1 ence.status.PCE_ENCE_communication_DOWN 
+9 111 1 ence.status.PCE_ENCE_communication_DOWN 
+9 112 1 ence.status.PCE_ENCE_communication_DOWN 
+10 95 1 rbc.status.RBC_FAILED 
+10 99 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 100 1 rbc.status.RBC_FAILED 
+10 102 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 103 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 104 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 105 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 106 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 107 1 rbc.status.RBC_FAILED 
+10 110 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 111 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+10 112 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+11 95 1 rbc.status.RBC_FAILED 
+11 99 1 rbc.status.RBC_FAILED 
+11 100 1 rbc.status.RBC_FAILED 
+11 102 1 rbc.status.RBC_FAILED 
+11 105 1 rbc.status.RBC_FAILED 
+11 106 1 rbc.status.RBC_FAILED 
+11 107 1 rbc.status.RBC_FAILED 
+11 112 1 rbc.status.RBC_FAILED 
+12 94 1 ence.status.PCE_ENCE_communication_DOWN 
+12 95 1 ence.status.PCE_ENCE_communication_DOWN 
+12 97 1 ence.status.PCE_ENCE_communication_DOWN 
+12 99 1 ence.status.PCE_ENCE_communication_DOWN 
+12 100 1 ence.status.PCE_ENCE_communication_DOWN 
+12 103 1 ence.status.PCE_ENCE_communication_DOWN 
+12 105 1 ence.status.PCE_ENCE_communication_DOWN 
+12 106 1 ence.status.PCE_ENCE_communication_DOWN 
+12 107 1 ence.status.PCE_ENCE_communication_DOWN 
+13 94 1 ence.status.PCE_ENCE_communication_DOWN 
+13 95 1 ence.status.PCE_ENCE_communication_DOWN 
+13 99 1 ence.status.PCE_ENCE_communication_DOWN 
+13 100 1 ence.status.PCE_ENCE_communication_DOWN 
+13 103 1 ence.status.PCE_ENCE_communication_DOWN 
+13 105 1 ence.status.PCE_ENCE_communication_DOWN 
+13 106 1 ence.status.PCE_ENCE_communication_DOWN 
+13 107 1 ence.status.PCE_ENCE_communication_DOWN 

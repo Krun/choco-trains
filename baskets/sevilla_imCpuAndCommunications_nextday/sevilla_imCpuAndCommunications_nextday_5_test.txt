@@ -1,0 +1,58 @@
+1 126 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 134 4 saml.status.DS_7_21 saml.status.DS_7_81 saml.status.DS_7_69 saml.status.DS_7_20 
+1 135 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 136 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+1 137 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+1 138 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 139 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 140 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 141 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 142 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 143 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 144 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+1 145 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 146 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 147 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 148 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+1 149 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 126 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 127 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 128 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+2 129 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 130 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 131 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 132 6 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_66 saml.status.DS_7_68 
+2 133 5 saml.status.DS_7_68 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 
+2 134 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+2 135 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 136 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+2 137 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+2 138 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 140 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 141 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 142 2 saml.status.DS_7_67 saml.status.DS_7_21 
+2 143 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 
+2 144 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 145 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+2 146 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+2 148 2 saml.status.DS_7_69 saml.status.DS_7_20 
+2 149 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 125 2 saml.status.DS_7_63 saml.status.DS_7_81 
+4 132 3 saml.status.DS_7_81 saml.status.DS_7_21 saml.status.DS_7_69 
+4 133 5 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_68 saml.status.DS_7_69 saml.status.DS_7_20 
+4 134 5 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_66 
+4 135 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 136 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+4 137 5 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_68 
+4 138 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 139 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 140 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+4 141 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 142 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 143 4 saml.status.DS_7_69 saml.status.DS_7_20 saml.status.DS_7_67 saml.status.DS_7_21 
+4 144 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 145 2 saml.status.DS_7_69 saml.status.DS_7_20 
+4 146 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 147 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 148 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 
+4 149 4 saml.status.DS_7_67 saml.status.DS_7_21 saml.status.DS_7_69 saml.status.DS_7_20 

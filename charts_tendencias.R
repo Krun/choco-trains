@@ -5,7 +5,8 @@ extended_o <- extend(target=antequera)
 
 
 extended_2010 <- extended_o[extended_o$eventID <140,]
-extended_2012 <- extended_o[extended_o$eventID >700,]
+extended_2012 <- extend(antequera_2)
+extended_2012 <- allindexes
 
 extended_albacete <- extend(target=albacete)
 extended_segovia <- extend(target=segovia)
@@ -24,7 +25,7 @@ graph_installation_error <- function(extended,name,path="graphs/tendencias/"){
   cols=rainbow(length(levels(as.factor(extended$sequenceID))), v=.8)
   cpath <- paste(path,name,sep="")
   dir.create(cpath, showWarnings = FALSE)
-  installations <- levels(as.factor(extended_o$sequenceID))
+  installations <- levels(as.factor(extended$sequenceID))
   for(j in 0:length(installations)) {
     if (j == 0) {
       extended_i <- extended

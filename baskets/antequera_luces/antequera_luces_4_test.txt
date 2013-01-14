@@ -1,0 +1,14 @@
+1 94 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+4 92 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+6 93 1 saml.status.MS_alarm_RE 
+7 91 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+7 92 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+7 93 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+10 91 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+12 91 2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_yellow_lamp_fused_2 
+18 91 1 saml.status.MS_alarm_RE 
+18 92 1 saml.status.MS_alarm_RE 
+19 90 4 saml.status.MS_alarm_SE_blue_lamp_fused saml.status.MS_alarm_SE_green_lamp_fused_2 saml.status.MS_alarm_SE_red_lamp_fused_1 saml.status.MS_alarm_SE_white_lamp_fused 
+19 91 3 saml.status.MS_alarm_SE_blue_lamp_fused saml.status.MS_alarm_SE_green_lamp_fused_2 saml.status.MS_alarm_SE_white_lamp_fused 
+19 92 4 saml.status.MS_data_nok saml.status.MS_alarm_SE_blue_lamp_fused saml.status.MS_alarm_SE_green_lamp_fused_2 saml.status.MS_alarm_SE_white_lamp_fused 
+19 94 1 saml.status.MS_alarm_SE_blue_lamp_fused 

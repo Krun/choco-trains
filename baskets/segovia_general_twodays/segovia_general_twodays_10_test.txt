@@ -1,0 +1,1314 @@
+1 1054 1 pce.status.PCE_CM_communication_DOWN 
+1 1061 1 pce.status.PCE_CM_communication_DOWN 
+1 1066 1 pce.status.PCE_CM_communication_DOWN 
+1 1166 1 pce.status.PCE_CM_communication_DOWN 
+1 1231 1 pce.status.PCE_CM_communication_DOWN 
+1 1251 1 pce.status.PCE_CM_communication_DOWN 
+1 1252 1 pce.status.PCE_CM_communication_DOWN 
+1 1256 1 pce.status.PCE_CM_communication_DOWN 
+1 1257 1 pce.status.PCE_CM_communication_DOWN 
+1 1258 1 pce.status.PCE_CM_communication_DOWN 
+1 1264 1 pce.status.PCE_CM_communication_DOWN 
+1 1277 1 pce.status.PCE_CM_communication_DOWN 
+1 1278 1 pce.status.PCE_CM_communication_DOWN 
+1 1294 1 pce.status.PCE_CM_communication_DOWN 
+1 1299 1 pce.status.PCE_CM_communication_DOWN 
+1 1300 1 pce.status.PCE_CM_communication_DOWN 
+1 1307 1 pce.status.PCE_CM_communication_DOWN 
+1 1310 1 pce.status.PCE_CM_communication_DOWN 
+1 1321 1 pce.status.PCE_CM_communication_DOWN 
+1 1343 1 pce.status.PCE_CM_communication_DOWN 
+2 888 1 ence.status.PCE_ENCE_communication_DOWN 
+2 894 1 ence.status.PCE_ENCE_communication_DOWN 
+2 997 1 ence.status.PCE_ENCE_communication_DOWN 
+2 998 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1034 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1076 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1090 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1091 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1097 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1105 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1112 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1158 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1185 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1186 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1187 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1221 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+2 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+3 888 1 ence.status.PCE_ENCE_communication_DOWN 
+3 892 1 ence.status.PCE_ENCE_communication_DOWN 
+3 997 1 ence.status.PCE_ENCE_communication_DOWN 
+3 998 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1073 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1146 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1147 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1152 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1153 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1154 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1185 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1193 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1202 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1230 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1234 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1263 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1330 1 ence.status.PCE_ENCE_communication_DOWN 
+3 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+4 888 1 ence.status.PCE_ENCE_communication_DOWN 
+4 997 1 ence.status.PCE_ENCE_communication_DOWN 
+4 998 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1021 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1026 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1095 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1111 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1203 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1230 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1236 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1316 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1319 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1320 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+4 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+5 890 1 clc.BD_status_MISSING 
+5 891 1 clc.BD_status_MISSING 
+5 999 1 clc.BD_status_MISSING 
+5 1108 3 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.BD_incorrect_version_telegram_channel 
+5 1178 1 clc.IM_CLC_connection_status_DOWN 
+5 1185 1 clc.IM_CLC_connection_status_DOWN 
+5 1192 1 clc.IM_CLC_connection_status_DOWN 
+5 1193 1 clc.IM_CLC_connection_status_DOWN 
+5 1194 1 clc.IM_CLC_connection_status_DOWN 
+5 1195 1 clc.IM_CLC_connection_status_DOWN 
+5 1196 1 clc.IM_CLC_connection_status_DOWN 
+5 1200 1 clc.IM_CLC_connection_status_DOWN 
+5 1201 1 clc.IM_CLC_connection_status_DOWN 
+5 1211 1 clc.BD_status_MISSING 
+5 1214 1 clc.BD_status_MISSING 
+5 1252 5 clc.BD_status_MISSING clc.Fatal_error_system_down clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+5 1293 1 clc.SAMCLC_CLC_connection_status_DOWN 
+5 1294 1 clc.SAMCLC_CLC_connection_status_DOWN 
+6 1108 4 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_status_MISSING clc.BD_incorrect_version_telegram_channel 
+6 1109 1 clc.BD_status_MISSING 
+6 1178 1 clc.IM_CLC_connection_status_DOWN 
+6 1185 1 clc.IM_CLC_connection_status_DOWN 
+6 1192 1 clc.IM_CLC_connection_status_DOWN 
+6 1193 1 clc.IM_CLC_connection_status_DOWN 
+6 1194 1 clc.IM_CLC_connection_status_DOWN 
+6 1195 1 clc.IM_CLC_connection_status_DOWN 
+6 1196 1 clc.IM_CLC_connection_status_DOWN 
+6 1197 1 clc.BD_status_MISSING 
+6 1200 1 clc.IM_CLC_connection_status_DOWN 
+6 1201 1 clc.IM_CLC_connection_status_DOWN 
+6 1216 1 clc.BD_status_MISSING 
+6 1245 1 clc.BD_status_MISSING 
+6 1250 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+6 1293 1 clc.SAMCLC_CLC_connection_status_DOWN 
+7 893 1 clc.IM_CLC_connection_status_DOWN 
+7 997 1 clc.BD_status_MISSING 
+7 1039 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+7 1151 1 clc.IM_CLC_connection_status_DOWN 
+7 1152 1 clc.IM_CLC_connection_status_DOWN 
+7 1179 1 clc.IM_CLC_connection_status_DOWN 
+7 1265 1 clc.IM_CLC_connection_status_DOWN 
+7 1298 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+8 893 1 clc.IM_CLC_connection_status_DOWN 
+8 989 1 clc.BD_status_MISSING 
+8 1013 1 clc.BD_status_MISSING 
+8 1151 1 clc.IM_CLC_connection_status_DOWN 
+8 1152 1 clc.IM_CLC_connection_status_DOWN 
+8 1179 1 clc.IM_CLC_connection_status_DOWN 
+8 1195 1 clc.BD_status_MISSING 
+8 1199 3 clc.CPU_status_DOWN clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN 
+8 1231 1 clc.BD_status_MISSING 
+8 1265 1 clc.IM_CLC_connection_status_DOWN 
+8 1274 1 clc.BD_status_MISSING 
+8 1281 3 clc.CPU_status_DOWN clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN 
+8 1282 1 clc.BD_status_MISSING 
+9 891 1 clc.IM_CLC_connection_status_DOWN 
+9 894 1 clc.IM_CLC_connection_status_DOWN 
+9 1034 1 clc.IM_CLC_connection_status_DOWN 
+9 1076 1 clc.IM_CLC_connection_status_DOWN 
+9 1112 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+9 1185 1 clc.IM_CLC_connection_status_DOWN 
+9 1195 3 clc.CPU_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+9 1285 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+9 1308 1 clc.BD_status_MISSING 
+9 1327 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+10 894 1 clc.IM_CLC_connection_status_DOWN 
+10 1034 1 clc.IM_CLC_connection_status_DOWN 
+10 1076 1 clc.IM_CLC_connection_status_DOWN 
+10 1185 1 clc.IM_CLC_connection_status_DOWN 
+10 1304 1 clc.BD_status_MISSING 
+11 894 1 clc.IM_CLC_connection_status_DOWN 
+11 991 1 clc.BD_status_MISSING 
+11 992 1 clc.BD_status_MISSING 
+11 993 2 clc.BD_status_MISSING clc.BD_incorrect_version_telegram_channel 
+11 994 1 clc.BD_status_MISSING 
+11 996 1 clc.BD_status_MISSING 
+11 997 1 clc.BD_status_MISSING 
+11 1034 1 clc.IM_CLC_connection_status_DOWN 
+11 1076 1 clc.IM_CLC_connection_status_DOWN 
+11 1185 1 clc.IM_CLC_connection_status_DOWN 
+11 1195 1 clc.BD_status_MISSING 
+11 1203 1 clc.BD_status_MISSING 
+11 1210 1 clc.BD_status_MISSING 
+11 1211 1 clc.BD_status_MISSING 
+11 1215 1 clc.BD_status_MISSING 
+11 1216 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+11 1222 1 clc.BD_status_MISSING 
+11 1223 1 clc.BD_status_MISSING 
+11 1228 1 clc.BD_status_MISSING 
+11 1229 1 clc.BD_status_MISSING 
+11 1244 3 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.Fatal_error_system_down 
+11 1245 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+11 1258 1 clc.BD_status_MISSING 
+12 891 1 clc.SAMCLC_CLC_connection_status_DOWN 
+12 892 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+12 893 1 clc.SAMCLC_CLC_connection_status_DOWN 
+12 894 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+12 1034 1 clc.IM_CLC_connection_status_DOWN 
+12 1076 1 clc.IM_CLC_connection_status_DOWN 
+12 1128 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+12 1166 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+12 1175 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+12 1176 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+12 1185 1 clc.IM_CLC_connection_status_DOWN 
+12 1230 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+12 1243 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+14 988 1 clc.BD_status_MISSING 
+14 989 1 clc.BD_status_MISSING 
+14 990 1 clc.BD_status_MISSING 
+14 992 1 clc.SAMCLC_CLC_connection_status_DOWN 
+14 993 1 clc.BD_status_MISSING 
+14 994 1 clc.BD_status_MISSING 
+14 995 1 clc.BD_status_MISSING 
+14 996 1 clc.BD_status_MISSING 
+14 997 1 clc.BD_status_MISSING 
+14 1095 1 clc.IM_CLC_connection_status_DOWN 
+14 1167 1 clc.BD_status_MISSING 
+14 1203 1 clc.IM_CLC_connection_status_DOWN 
+15 890 1 node.unit.monitor_detected_unit_DOWN 
+15 992 1 node.unit.monitor_detected_unit_DOWN 
+15 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+15 1011 1 node.node_DOWN 
+15 1012 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+15 1014 1 node.unit.monitor_detected_unit_DOWN 
+15 1033 1 node.unit.monitor_detected_unit_DOWN 
+15 1039 1 node.unit.monitor_detected_unit_DOWN 
+15 1057 1 node.unit.monitor_detected_unit_DOWN 
+15 1060 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+15 1062 1 node.unit.monitor_detected_unit_DOWN 
+15 1064 1 node.unit.monitor_detected_unit_DOWN 
+15 1068 1 node.unit.monitor_detected_unit_DOWN 
+15 1071 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1112 1 node.unit.monitor_detected_unit_DOWN 
+15 1128 1 node.unit.monitor_detected_unit_DOWN 
+15 1159 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1179 1 node.unit.monitor_detected_unit_DOWN 
+15 1180 1 node.unit.monitor_detected_unit_DOWN 
+15 1192 1 node.unit.monitor_detected_unit_DOWN 
+15 1214 1 node.unit.monitor_detected_unit_DOWN 
+15 1226 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1251 1 node.unit.monitor_detected_unit_DOWN 
+15 1266 1 node.unit.monitor_detected_unit_DOWN 
+15 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1287 1 node.unit.monitor_detected_unit_DOWN 
+15 1292 1 node.unit.monitor_detected_unit_DOWN 
+15 1293 1 node.unit.monitor_detected_unit_DOWN 
+15 1294 1 node.unit.monitor_detected_unit_DOWN 
+15 1312 1 node.unit.monitor_detected_unit_DOWN 
+15 1320 1 node.unit.monitor_detected_unit_DOWN 
+15 1321 1 node.node_DOWN 
+15 1325 1 node.unit.monitor_detected_unit_DOWN 
+15 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1333 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1340 1 node.unit.monitor_detected_unit_DOWN 
+15 1341 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 1343 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 890 1 node.unit.monitor_detected_unit_DOWN 
+16 1010 1 node.node_DOWN 
+16 1012 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+16 1057 1 node.unit.monitor_detected_unit_DOWN 
+16 1060 1 node.unit.monitor_detected_unit_DOWN 
+16 1062 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1064 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1067 1 node.node_DOWN 
+16 1068 1 node.unit.monitor_detected_unit_DOWN 
+16 1069 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1071 1 node.unit.monitor_detected_unit_DOWN 
+16 1104 1 node.unit.monitor_detected_unit_DOWN 
+16 1112 1 node.unit.monitor_detected_unit_DOWN 
+16 1139 1 node.unit.monitor_detected_unit_DOWN 
+16 1159 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1180 1 node.unit.monitor_detected_unit_DOWN 
+16 1192 1 node.unit.monitor_detected_unit_DOWN 
+16 1226 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1279 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1285 1 node.unit.monitor_detected_unit_DOWN 
+16 1293 1 node.unit.monitor_detected_unit_DOWN 
+16 1294 1 node.unit.monitor_detected_unit_DOWN 
+16 1298 1 node.unit.monitor_detected_unit_DOWN 
+16 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1312 1 node.unit.monitor_detected_unit_DOWN 
+16 1327 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1341 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 1343 1 node.unit.monitor_detected_unit_DOWN 
+17 890 1 node.unit.monitor_detected_unit_DOWN 
+17 892 1 node.unit.monitor_detected_unit_DOWN 
+17 893 1 node.unit.monitor_detected_unit_DOWN 
+17 1006 1 node.unit.monitor_detected_unit_DOWN 
+17 1012 1 node.node_DOWN 
+17 1040 1 node.unit.monitor_detected_unit_DOWN 
+17 1057 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1059 1 node.unit.monitor_detected_unit_DOWN 
+17 1060 1 node.unit.monitor_detected_unit_DOWN 
+17 1062 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1064 1 node.unit.monitor_detected_unit_DOWN 
+17 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1068 1 node.unit.monitor_detected_unit_DOWN 
+17 1069 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1071 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1072 1 node.unit.monitor_detected_unit_DOWN 
+17 1104 1 node.unit.monitor_detected_unit_DOWN 
+17 1105 1 node.unit.monitor_detected_unit_DOWN 
+17 1112 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1159 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1180 1 node.unit.monitor_detected_unit_DOWN 
+17 1186 1 node.unit.monitor_detected_unit_DOWN 
+17 1192 1 node.unit.monitor_detected_unit_DOWN 
+17 1226 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1251 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1277 1 node.unit.monitor_detected_unit_DOWN 
+17 1278 1 node.unit.monitor_detected_unit_DOWN 
+17 1279 1 node.unit.monitor_detected_unit_DOWN 
+17 1285 1 node.unit.monitor_detected_unit_DOWN 
+17 1293 1 node.unit.monitor_detected_unit_DOWN 
+17 1294 1 node.unit.monitor_detected_unit_DOWN 
+17 1298 1 node.unit.monitor_detected_unit_DOWN 
+17 1312 1 node.unit.monitor_detected_unit_DOWN 
+17 1320 1 node.unit.monitor_detected_unit_DOWN 
+17 1327 1 node.unit.monitor_detected_unit_DOWN 
+17 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1333 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1341 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 1343 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 891 1 node.unit.monitor_detected_unit_DOWN 
+18 998 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 999 1 node.unit.monitor_detected_unit_DOWN 
+18 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1012 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1054 1 node.node_DOWN 
+18 1055 1 node.unit.monitor_detected_unit_DOWN 
+18 1060 1 node.node_DOWN 
+18 1061 1 node.node_DOWN 
+18 1062 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1064 1 node.node_DOWN 
+18 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1067 1 node.node_DOWN 
+18 1068 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1069 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1118 1 node.node_DOWN 
+18 1127 1 node.unit.monitor_detected_unit_DOWN 
+18 1130 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1166 1 node.node_DOWN 
+18 1167 1 node.unit.monitor_detected_unit_DOWN 
+18 1173 1 node.node_DOWN 
+18 1174 1 node.node_DOWN 
+18 1179 1 node.node_DOWN 
+18 1192 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1231 1 node.node_DOWN 
+18 1236 1 node.unit.monitor_detected_unit_DOWN 
+18 1250 1 node.node_DOWN 
+18 1251 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1252 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1253 1 node.unit.monitor_detected_unit_DOWN 
+18 1256 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1257 1 node.node_DOWN 
+18 1258 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1277 1 node.node_DOWN 
+18 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1279 1 node.node_DOWN 
+18 1288 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1291 1 node.unit.monitor_detected_unit_DOWN 
+18 1293 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1294 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1299 1 node.node_DOWN 
+18 1300 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1306 1 node.node_DOWN 
+18 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1310 1 node.node_DOWN 
+18 1311 1 node.unit.monitor_detected_unit_DOWN 
+18 1321 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1327 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1329 1 node.unit.monitor_detected_unit_DOWN 
+18 1332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 1333 1 node.unit.monitor_detected_unit_DOWN 
+18 1343 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+19 992 1 node.unit.monitor_detected_unit_DOWN 
+19 1011 1 node.unit.monitor_detected_unit_DOWN 
+19 1012 1 node.unit.monitor_detected_unit_DOWN 
+19 1016 1 node.unit.monitor_detected_unit_DOWN 
+19 1054 1 node.node_DOWN 
+19 1055 1 node.unit.monitor_detected_unit_DOWN 
+19 1060 1 node.node_DOWN 
+19 1061 1 node.node_DOWN 
+19 1062 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+19 1112 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+19 1166 1 node.unit.monitor_detected_unit_DOWN 
+19 1236 1 node.unit.monitor_detected_unit_DOWN 
+19 1278 1 node.unit.monitor_detected_unit_DOWN 
+19 1285 1 node.unit.monitor_detected_unit_DOWN 
+19 1294 1 node.unit.monitor_detected_unit_DOWN 
+19 1312 1 node.unit.monitor_detected_unit_DOWN 
+19 1327 1 node.unit.monitor_detected_unit_DOWN 
+20 997 1 node.unit.monitor_detected_unit_DOWN 
+20 998 1 node.unit.monitor_detected_unit_DOWN 
+20 1010 1 node.unit.monitor_detected_unit_DOWN 
+20 1011 1 node.unit.monitor_detected_unit_DOWN 
+20 1012 1 node.unit.monitor_detected_unit_DOWN 
+20 1040 1 node.unit.monitor_detected_unit_DOWN 
+20 1060 1 node.unit.monitor_detected_unit_DOWN 
+20 1061 1 node.unit.monitor_detected_unit_DOWN 
+20 1064 1 node.unit.monitor_detected_unit_DOWN 
+20 1065 1 node.unit.monitor_detected_unit_DOWN 
+20 1066 1 node.unit.network_adapter_DOWN 
+20 1067 1 node.unit.monitor_detected_unit_DOWN 
+20 1069 1 node.unit.monitor_detected_unit_DOWN 
+20 1173 1 node.unit.monitor_detected_unit_DOWN 
+20 1174 1 node.unit.monitor_detected_unit_DOWN 
+20 1179 1 node.unit.monitor_detected_unit_DOWN 
+20 1231 1 node.unit.monitor_detected_unit_DOWN 
+20 1250 1 node.unit.monitor_detected_unit_DOWN 
+20 1251 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+20 1252 1 node.unit.monitor_detected_unit_DOWN 
+20 1256 1 node.unit.monitor_detected_unit_DOWN 
+20 1257 1 node.unit.monitor_detected_unit_DOWN 
+20 1258 1 node.unit.monitor_detected_unit_DOWN 
+20 1264 1 node.unit.monitor_detected_unit_DOWN 
+20 1277 1 node.unit.monitor_detected_unit_DOWN 
+20 1278 1 node.unit.monitor_detected_unit_DOWN 
+20 1279 1 node.unit.monitor_detected_unit_DOWN 
+20 1294 1 node.unit.monitor_detected_unit_DOWN 
+20 1300 1 node.unit.monitor_detected_unit_DOWN 
+20 1306 1 node.unit.monitor_detected_unit_DOWN 
+20 1307 1 node.unit.monitor_detected_unit_DOWN 
+20 1311 1 node.unit.monitor_detected_unit_DOWN 
+20 1321 1 node.unit.monitor_detected_unit_DOWN 
+20 1343 1 node.unit.monitor_detected_unit_DOWN 
+21 887 1 ence.status.PCE_ENCE_communication_DOWN 
+21 997 1 ence.status.PCE_ENCE_communication_DOWN 
+21 998 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1000 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1028 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1089 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1096 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1097 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1104 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1121 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1139 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1182 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+21 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+22 890 1 rbc.status.RBC_FAILED 
+22 997 1 rbc.status.RBC_FAILED 
+22 998 1 rbc.status.RBC_FAILED 
+22 1010 1 rbc.status.RBC_FAILED 
+22 1011 1 rbc.status.RBC_FAILED 
+22 1012 1 rbc.status.RBC_FAILED 
+22 1036 1 rbc.status.RBC_FAILED 
+22 1038 1 rbc.status.RBC_FAILED 
+22 1054 1 rbc.status.RBC_FAILED 
+22 1060 1 rbc.status.RBC_FAILED 
+22 1062 1 rbc.status.RBC_FAILED 
+22 1064 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+22 1066 1 rbc.status.RBC_FAILED 
+22 1067 1 rbc.status.RBC_FAILED 
+22 1068 1 rbc.status.RBC_FAILED 
+22 1069 1 rbc.status.RBC_FAILED 
+22 1071 1 rbc.status.RBC_FAILED 
+22 1118 1 rbc.status.RBC_FAILED 
+22 1159 1 rbc.status.RBC_FAILED 
+22 1166 1 rbc.status.RBC_FAILED 
+22 1173 1 rbc.status.RBC_FAILED 
+22 1174 1 rbc.status.RBC_FAILED 
+22 1179 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+22 1226 1 rbc.status.RBC_FAILED 
+22 1231 1 rbc.status.RBC_FAILED 
+22 1251 1 rbc.status.RBC_FAILED 
+22 1252 1 rbc.status.RBC_FAILED 
+22 1256 1 rbc.status.RBC_FAILED 
+22 1257 1 rbc.status.RBC_FAILED 
+22 1258 1 rbc.status.RBC_FAILED 
+22 1264 1 rbc.status.RBC_FAILED 
+22 1277 1 rbc.status.RBC_FAILED 
+22 1278 1 rbc.status.RBC_FAILED 
+22 1279 1 rbc.status.RBC_FAILED 
+22 1294 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+22 1299 1 rbc.status.RBC_FAILED 
+22 1300 1 rbc.status.RBC_FAILED 
+22 1306 1 rbc.status.RBC_FAILED 
+22 1307 1 rbc.status.RBC_FAILED 
+22 1310 1 rbc.status.RBC_FAILED 
+22 1311 1 rbc.status.RBC_FAILED 
+22 1321 1 rbc.status.RBC_FAILED 
+22 1328 1 rbc.status.RBC_FAILED 
+22 1332 1 rbc.status.RBC_FAILED 
+22 1333 1 rbc.status.RBC_FAILED 
+22 1341 1 rbc.status.RBC_FAILED 
+22 1343 1 rbc.status.RBC_FAILED 
+23 887 1 ence.status.PCE_ENCE_communication_DOWN 
+23 997 1 ence.status.PCE_ENCE_communication_DOWN 
+23 998 1 ence.status.PCE_ENCE_communication_DOWN 
+23 999 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1027 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1089 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1100 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1116 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1139 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1158 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1178 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1182 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1217 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1266 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1268 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+23 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+24 887 1 ence.status.PCE_ENCE_communication_DOWN 
+24 997 1 ence.status.PCE_ENCE_communication_DOWN 
+24 998 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1075 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1089 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1153 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1181 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1182 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1325 1 ence.status.PCE_ENCE_communication_DOWN 
+24 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+25 887 1 ence.status.PCE_ENCE_communication_DOWN 
+25 888 1 ence.status.PCE_ENCE_communication_DOWN 
+25 997 1 ence.status.PCE_ENCE_communication_DOWN 
+25 998 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1035 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1068 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1095 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1098 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1154 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1189 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1236 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1242 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+25 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+26 887 1 ence.status.PCE_ENCE_communication_DOWN 
+26 997 1 ence.status.PCE_ENCE_communication_DOWN 
+26 998 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1032 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1045 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1053 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1095 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1130 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1131 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1132 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1146 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1154 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1187 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1219 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1236 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1242 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1291 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+26 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+27 1074 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING 
+27 1096 1 clc.IM_CLC_connection_status_DOWN 
+27 1097 1 clc.IM_CLC_connection_status_DOWN 
+27 1108 3 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel clc.BD_status_MISSING 
+27 1139 1 clc.IM_CLC_connection_status_DOWN 
+28 1074 1 clc.SAMCLC_CLC_connection_status_DOWN 
+28 1096 1 clc.IM_CLC_connection_status_DOWN 
+28 1097 2 clc.IM_CLC_connection_status_DOWN clc.BD_status_MISSING 
+28 1108 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+28 1139 1 clc.IM_CLC_connection_status_DOWN 
+29 1158 1 clc.IM_CLC_connection_status_DOWN 
+29 1178 1 clc.IM_CLC_connection_status_DOWN 
+29 1182 1 clc.IM_CLC_connection_status_DOWN 
+29 1306 2 clc.CPU_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+30 1089 1 clc.IM_CLC_connection_status_DOWN 
+30 1096 1 clc.BD_status_MISSING 
+30 1097 4 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+30 1098 1 clc.BD_status_MISSING 
+30 1103 1 clc.BD_status_MISSING 
+30 1130 4 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+30 1181 1 clc.IM_CLC_connection_status_DOWN 
+30 1182 1 clc.IM_CLC_connection_status_DOWN 
+31 1089 1 clc.IM_CLC_connection_status_DOWN 
+31 1097 1 clc.BD_status_MISSING 
+31 1181 1 clc.IM_CLC_connection_status_DOWN 
+31 1182 1 clc.IM_CLC_connection_status_DOWN 
+31 1306 3 clc.BD_status_MISSING clc.BD_incorrect_version_telegram_channel clc.SAMCLC_CLC_connection_status_DOWN 
+32 887 1 node.unit.monitor_detected_unit_DOWN 
+32 1040 1 node.unit.monitor_detected_unit_DOWN 
+32 1054 1 node.unit.monitor_detected_unit_DOWN 
+32 1060 1 node.unit.monitor_detected_unit_DOWN 
+32 1066 1 node.unit.monitor_detected_unit_DOWN 
+32 1069 1 node.unit.monitor_detected_unit_DOWN 
+32 1082 1 node.unit.monitor_detected_unit_DOWN 
+32 1112 1 node.unit.monitor_detected_unit_DOWN 
+32 1118 1 node.unit.monitor_detected_unit_DOWN 
+32 1147 1 node.unit.monitor_detected_unit_DOWN 
+32 1166 1 node.unit.monitor_detected_unit_DOWN 
+32 1179 1 node.unit.monitor_detected_unit_DOWN 
+32 1193 1 node.unit.monitor_detected_unit_DOWN 
+32 1230 1 node.unit.monitor_detected_unit_DOWN 
+32 1231 1 node.unit.monitor_detected_unit_DOWN 
+32 1242 1 node.unit.monitor_detected_unit_DOWN 
+32 1251 1 node.unit.monitor_detected_unit_DOWN 
+32 1252 1 node.unit.monitor_detected_unit_DOWN 
+32 1256 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+32 1257 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+32 1258 1 node.unit.monitor_detected_unit_DOWN 
+32 1264 1 node.unit.monitor_detected_unit_DOWN 
+32 1277 1 node.unit.monitor_detected_unit_DOWN 
+32 1278 1 node.unit.monitor_detected_unit_DOWN 
+32 1294 1 node.unit.monitor_detected_unit_DOWN 
+32 1299 1 node.unit.monitor_detected_unit_DOWN 
+32 1300 1 node.unit.monitor_detected_unit_DOWN 
+32 1307 1 node.unit.monitor_detected_unit_DOWN 
+32 1310 1 node.unit.monitor_detected_unit_DOWN 
+32 1311 1 node.unit.monitor_detected_unit_DOWN 
+32 1321 1 node.unit.monitor_detected_unit_DOWN 
+32 1343 1 node.unit.monitor_detected_unit_DOWN 
+33 1000 1 clc.IM_CLC_connection_status_DOWN 
+33 1089 1 clc.IM_CLC_connection_status_DOWN 
+33 1109 1 clc.SAMCLC_CLC_connection_status_DOWN 
+33 1112 4 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+33 1130 1 clc.SAMCLC_CLC_connection_status_DOWN 
+33 1181 1 clc.IM_CLC_connection_status_DOWN 
+33 1182 1 clc.IM_CLC_connection_status_DOWN 
+35 1032 1 clc.IM_CLC_connection_status_DOWN 
+35 1095 1 clc.IM_CLC_connection_status_DOWN 
+35 1187 1 clc.IM_CLC_connection_status_DOWN 
+35 1216 2 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+35 1280 1 clc.SAMCLC_CLC_connection_status_DOWN 
+36 887 1 node.unit.monitor_detected_unit_DOWN 
+36 890 2 node.unit.unit_DOWN node.unit.monitor_detected_unit_DOWN 
+36 891 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 997 1 node.unit.monitor_detected_unit_DOWN 
+36 998 3 node.unit.unit_DOWN node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1010 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1012 1 node.unit.monitor_detected_unit_DOWN 
+36 1019 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1055 1 node.unit.monitor_detected_unit_DOWN 
+36 1060 1 node.unit.monitor_detected_unit_DOWN 
+36 1062 1 node.unit.monitor_detected_unit_DOWN 
+36 1064 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1067 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1069 1 node.unit.monitor_detected_unit_DOWN 
+36 1084 1 node.unit.network_adapter_DOWN 
+36 1088 1 node.unit.network_adapter_DOWN 
+36 1091 1 node.unit.network_adapter_DOWN 
+36 1130 1 node.unit.monitor_detected_unit_DOWN 
+36 1150 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1163 1 node.unit.network_adapter_DOWN 
+36 1164 1 node.unit.network_adapter_DOWN 
+36 1167 1 node.unit.monitor_detected_unit_DOWN 
+36 1169 1 node.unit.network_adapter_DOWN 
+36 1198 1 node.unit.monitor_detected_unit_DOWN 
+36 1220 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+36 1236 1 node.unit.monitor_detected_unit_DOWN 
+36 1243 1 node.unit.monitor_detected_unit_DOWN 
+36 1251 1 node.unit.monitor_detected_unit_DOWN 
+36 1252 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+36 1253 1 node.unit.monitor_detected_unit_DOWN 
+36 1256 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1257 1 node.unit.monitor_detected_unit_DOWN 
+36 1258 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1269 1 node.unit.network_adapter_DOWN 
+36 1272 1 node.unit.monitor_detected_unit_DOWN 
+36 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1279 1 node.unit.monitor_detected_unit_DOWN 
+36 1280 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1287 1 node.unit.monitor_detected_unit_DOWN 
+36 1288 1 node.unit.monitor_detected_unit_DOWN 
+36 1294 4 node.unit.monitor_detected_unit_DOWN node.node_DOWN node.unit.network_adapter_DOWN node.unit.unit_DOWN 
+36 1300 1 node.unit.monitor_detected_unit_DOWN 
+36 1306 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1308 1 node.unit.monitor_detected_unit_DOWN 
+36 1309 1 node.unit.monitor_detected_unit_DOWN 
+36 1311 1 node.unit.monitor_detected_unit_DOWN 
+36 1312 1 node.unit.monitor_detected_unit_DOWN 
+36 1321 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 1322 1 node.unit.monitor_detected_unit_DOWN 
+36 1343 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 890 1 node.unit.monitor_detected_unit_DOWN 
+37 891 1 node.node_DOWN 
+37 998 1 node.node_DOWN 
+37 999 1 node.unit.monitor_detected_unit_DOWN 
+37 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+37 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 1012 1 node.node_DOWN 
+37 1019 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+37 1108 1 node.unit.monitor_detected_unit_DOWN 
+37 1118 1 node.node_DOWN 
+37 1166 1 node.unit.monitor_detected_unit_DOWN 
+37 1168 1 node.unit.monitor_detected_unit_DOWN 
+37 1173 1 node.node_DOWN 
+37 1174 1 node.node_DOWN 
+37 1179 1 node.node_DOWN 
+37 1271 1 node.unit.monitor_detected_unit_DOWN 
+37 1272 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 1277 1 node.unit.monitor_detected_unit_DOWN 
+37 1278 1 node.unit.monitor_detected_unit_DOWN 
+37 1287 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 1294 1 node.unit.monitor_detected_unit_DOWN 
+37 1300 1 node.unit.monitor_detected_unit_DOWN 
+37 1306 1 node.node_DOWN 
+37 1307 1 node.unit.monitor_detected_unit_DOWN 
+37 1308 1 node.unit.monitor_detected_unit_DOWN 
+37 1309 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 1312 1 node.unit.monitor_detected_unit_DOWN 
+37 1321 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 890 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 891 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+38 998 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 999 1 node.unit.monitor_detected_unit_DOWN 
+38 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+38 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1012 1 node.node_DOWN 
+38 1019 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+38 1054 1 node.node_DOWN 
+38 1055 1 node.unit.monitor_detected_unit_DOWN 
+38 1060 1 node.node_DOWN 
+38 1061 1 node.node_DOWN 
+38 1062 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1082 1 node.unit.monitor_detected_unit_DOWN 
+38 1118 1 node.node_DOWN 
+38 1130 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1166 1 node.unit.monitor_detected_unit_DOWN 
+38 1169 1 node.unit.monitor_detected_unit_DOWN 
+38 1194 1 node.unit.monitor_detected_unit_DOWN 
+38 1198 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+38 1220 1 node.unit.monitor_detected_unit_DOWN 
+38 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1266 1 node.unit.monitor_detected_unit_DOWN 
+38 1272 1 node.unit.monitor_detected_unit_DOWN 
+38 1278 1 node.unit.monitor_detected_unit_DOWN 
+38 1279 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1287 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1294 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 1308 1 node.unit.monitor_detected_unit_DOWN 
+38 1309 1 node.unit.monitor_detected_unit_DOWN 
+38 1312 1 node.unit.monitor_detected_unit_DOWN 
+39 887 1 node.unit.monitor_detected_unit_DOWN 
+39 890 1 node.unit.monitor_detected_unit_DOWN 
+39 1006 1 node.unit.monitor_detected_unit_DOWN 
+39 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+39 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1012 1 node.node_DOWN 
+39 1019 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+39 1130 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1150 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1189 1 node.unit.monitor_detected_unit_DOWN 
+39 1198 1 node.node_DOWN 
+39 1223 1 node.unit.monitor_detected_unit_DOWN 
+39 1231 1 node.node_DOWN 
+39 1236 1 node.unit.monitor_detected_unit_DOWN 
+39 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1266 1 node.unit.monitor_detected_unit_DOWN 
+39 1271 1 node.unit.monitor_detected_unit_DOWN 
+39 1277 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1287 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1294 1 node.unit.monitor_detected_unit_DOWN 
+39 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1309 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+39 1312 1 node.unit.monitor_detected_unit_DOWN 
+39 1334 1 node.unit.monitor_detected_unit_DOWN 
+40 887 1 rbc.status.RBC_FAILED 
+40 890 1 rbc.status.RBC_FAILED 
+40 891 1 rbc.status.RBC_FAILED 
+40 997 1 rbc.status.RBC_FAILED 
+40 998 1 rbc.status.RBC_FAILED 
+40 1010 1 rbc.status.RBC_FAILED 
+40 1011 1 rbc.status.RBC_FAILED 
+40 1012 1 rbc.status.RBC_FAILED 
+40 1054 1 rbc.status.RBC_FAILED 
+40 1060 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+40 1061 1 rbc.status.RBC_FAILED 
+40 1062 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+40 1064 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+40 1066 1 rbc.status.RBC_FAILED 
+40 1067 1 rbc.status.RBC_FAILED 
+40 1068 1 rbc.status.RBC_FAILED 
+40 1069 1 rbc.status.RBC_FAILED 
+40 1118 1 rbc.status.RBC_FAILED 
+40 1130 1 rbc.status.RBC_FAILED 
+40 1166 1 rbc.status.RBC_FAILED 
+40 1173 1 rbc.status.RBC_FAILED 
+40 1174 1 rbc.status.RBC_FAILED 
+40 1179 1 rbc.status.RBC_FAILED 
+40 1192 1 rbc.status.RBC_FAILED 
+40 1231 1 rbc.status.RBC_FAILED 
+40 1251 1 rbc.status.RBC_FAILED 
+40 1252 1 rbc.status.RBC_FAILED 
+40 1256 1 rbc.status.RBC_FAILED 
+40 1257 1 rbc.status.RBC_FAILED 
+40 1258 1 rbc.status.RBC_FAILED 
+40 1264 1 rbc.status.RBC_FAILED 
+40 1277 1 rbc.status.RBC_FAILED 
+40 1278 1 rbc.status.RBC_FAILED 
+40 1279 1 rbc.status.RBC_FAILED 
+40 1288 1 rbc.status.RBC_FAILED 
+40 1293 1 rbc.status.RBC_FAILED 
+40 1294 2 rbc.status.RBC_FAILED rbc.status.RBC_NOT_APPROVED 
+40 1299 1 rbc.status.RBC_FAILED 
+40 1300 1 rbc.status.RBC_FAILED 
+40 1306 1 rbc.status.RBC_FAILED 
+40 1307 1 rbc.status.RBC_FAILED 
+40 1310 1 rbc.status.RBC_FAILED 
+40 1311 1 rbc.status.RBC_FAILED 
+40 1321 1 rbc.status.RBC_FAILED 
+40 1327 1 rbc.status.RBC_FAILED 
+40 1328 1 rbc.status.RBC_FAILED 
+40 1332 1 rbc.status.RBC_FAILED 
+40 1343 1 rbc.status.RBC_FAILED 
+41 887 1 node.node_DOWN 
+41 890 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 891 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 998 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 999 1 node.unit.monitor_detected_unit_DOWN 
+41 1010 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1012 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1054 1 node.node_DOWN 
+41 1055 1 node.unit.monitor_detected_unit_DOWN 
+41 1060 1 node.node_DOWN 
+41 1061 1 node.node_DOWN 
+41 1062 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1064 1 node.node_DOWN 
+41 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1067 1 node.node_DOWN 
+41 1068 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1069 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1118 1 node.node_DOWN 
+41 1127 1 node.unit.monitor_detected_unit_DOWN 
+41 1130 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1166 1 node.node_DOWN 
+41 1167 1 node.unit.monitor_detected_unit_DOWN 
+41 1173 1 node.node_DOWN 
+41 1174 1 node.node_DOWN 
+41 1179 1 node.node_DOWN 
+41 1192 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1231 1 node.node_DOWN 
+41 1236 1 node.unit.monitor_detected_unit_DOWN 
+41 1250 1 node.node_DOWN 
+41 1251 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1252 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1253 1 node.unit.monitor_detected_unit_DOWN 
+41 1256 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1257 1 node.node_DOWN 
+41 1258 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+41 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1277 1 node.node_DOWN 
+41 1278 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1279 1 node.node_DOWN 
+41 1288 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1291 1 node.unit.monitor_detected_unit_DOWN 
+41 1293 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1294 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1299 1 node.node_DOWN 
+41 1300 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1306 1 node.node_DOWN 
+41 1307 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1310 1 node.node_DOWN 
+41 1311 1 node.unit.monitor_detected_unit_DOWN 
+41 1321 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1327 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1329 1 node.unit.monitor_detected_unit_DOWN 
+41 1332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 1333 1 node.unit.monitor_detected_unit_DOWN 
+41 1343 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+42 888 1 node.unit.monitor_detected_unit_DOWN 
+42 1010 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 1012 1 node.unit.monitor_detected_unit_DOWN 
+42 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 1112 1 node.unit.monitor_detected_unit_DOWN 
+42 1118 1 node.node_DOWN 
+42 1127 1 node.unit.monitor_detected_unit_DOWN 
+42 1139 1 node.unit.monitor_detected_unit_DOWN 
+42 1179 1 node.unit.monitor_detected_unit_DOWN 
+42 1192 1 node.unit.monitor_detected_unit_DOWN 
+42 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 1278 1 node.unit.monitor_detected_unit_DOWN 
+42 1279 1 node.unit.monitor_detected_unit_DOWN 
+42 1285 1 node.unit.monitor_detected_unit_DOWN 
+42 1288 1 node.unit.monitor_detected_unit_DOWN 
+42 1291 1 node.unit.monitor_detected_unit_DOWN 
+42 1294 1 node.unit.monitor_detected_unit_DOWN 
+42 1300 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 1302 1 node.unit.monitor_detected_unit_DOWN 
+42 1311 1 node.unit.monitor_detected_unit_DOWN 
+42 1312 1 node.unit.monitor_detected_unit_DOWN 
+42 1313 1 node.unit.monitor_detected_unit_DOWN 
+42 1327 1 node.unit.monitor_detected_unit_DOWN 
+43 887 1 node.node_DOWN 
+43 894 1 node.node_DOWN 
+43 1040 1 node.node_DOWN 
+43 1051 1 node.node_DOWN 
+43 1055 1 node.node_DOWN 
+43 1058 1 node.node_DOWN 
+43 1060 1 node.node_DOWN 
+43 1082 1 node.node_DOWN 
+43 1132 1 node.node_DOWN 
+43 1199 1 node.node_DOWN 
+43 1242 1 node.node_DOWN 
+43 1266 1 node.node_DOWN 
+43 1298 1 node.node_DOWN 
+43 1343 1 node.node_DOWN 
+44 890 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 891 1 node.unit.monitor_detected_unit_DOWN 
+44 997 3 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN node.node_DOWN 
+44 998 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+44 1010 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1011 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1012 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1036 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1038 1 node.unit.monitor_detected_unit_DOWN 
+44 1054 1 node.unit.monitor_detected_unit_DOWN 
+44 1055 1 node.unit.monitor_detected_unit_DOWN 
+44 1060 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+44 1061 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1062 1 node.unit.monitor_detected_unit_DOWN 
+44 1064 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1065 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+44 1066 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1067 1 node.unit.monitor_detected_unit_DOWN 
+44 1068 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1069 1 node.unit.monitor_detected_unit_DOWN 
+44 1071 1 node.unit.monitor_detected_unit_DOWN 
+44 1127 1 node.unit.monitor_detected_unit_DOWN 
+44 1130 1 node.unit.monitor_detected_unit_DOWN 
+44 1159 1 node.unit.monitor_detected_unit_DOWN 
+44 1167 1 node.unit.monitor_detected_unit_DOWN 
+44 1192 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1226 1 node.unit.monitor_detected_unit_DOWN 
+44 1236 1 node.unit.monitor_detected_unit_DOWN 
+44 1251 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+44 1252 1 node.unit.monitor_detected_unit_DOWN 
+44 1253 1 node.unit.monitor_detected_unit_DOWN 
+44 1258 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1264 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1277 1 node.unit.monitor_detected_unit_DOWN 
+44 1278 3 node.unit.monitor_detected_unit_DOWN node.node_DOWN node.unit.unit_DOWN 
+44 1279 3 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN node.node_DOWN 
+44 1288 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1291 1 node.unit.monitor_detected_unit_DOWN 
+44 1293 1 node.unit.monitor_detected_unit_DOWN 
+44 1294 3 node.unit.monitor_detected_unit_DOWN node.node_DOWN node.unit.unit_DOWN 
+44 1300 3 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN node.node_DOWN 
+44 1305 2 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN 
+44 1306 3 node.unit.monitor_detected_unit_DOWN node.node_DOWN node.unit.unit_DOWN 
+44 1307 3 node.unit.monitor_detected_unit_DOWN node.node_DOWN node.unit.unit_DOWN 
+44 1309 2 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN 
+44 1310 3 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN node.node_DOWN 
+44 1311 2 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN 
+44 1312 2 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN 
+44 1321 1 node.unit.monitor_detected_unit_DOWN 
+44 1327 1 node.unit.monitor_detected_unit_DOWN 
+44 1328 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 1329 1 node.unit.monitor_detected_unit_DOWN 
+44 1332 1 node.unit.monitor_detected_unit_DOWN 
+44 1333 1 node.unit.monitor_detected_unit_DOWN 
+44 1341 1 node.unit.monitor_detected_unit_DOWN 
+44 1343 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+45 887 1 rbc.status.RBC_FAILED 
+45 890 1 rbc.status.RBC_FAILED 
+45 891 1 rbc.status.RBC_FAILED 
+45 998 1 rbc.status.RBC_FAILED 
+45 1010 1 rbc.status.RBC_FAILED 
+45 1011 1 rbc.status.RBC_FAILED 
+45 1012 1 rbc.status.RBC_FAILED 
+45 1019 1 rbc.status.RBC_FAILED 
+45 1054 1 rbc.status.RBC_FAILED 
+45 1060 1 rbc.status.RBC_FAILED 
+45 1061 1 rbc.status.RBC_FAILED 
+45 1062 1 rbc.status.RBC_FAILED 
+45 1064 1 rbc.status.RBC_FAILED 
+45 1066 1 rbc.status.RBC_FAILED 
+45 1069 1 rbc.status.RBC_FAILED 
+45 1118 1 rbc.status.RBC_FAILED 
+45 1130 1 rbc.status.RBC_FAILED 
+45 1150 1 rbc.status.RBC_FAILED 
+45 1166 1 rbc.status.RBC_FAILED 
+45 1173 1 rbc.status.RBC_FAILED 
+45 1174 1 rbc.status.RBC_FAILED 
+45 1179 1 rbc.status.RBC_FAILED 
+45 1198 1 rbc.status.RBC_FAILED 
+45 1231 1 rbc.status.RBC_FAILED 
+45 1243 1 rbc.status.RBC_FAILED 
+45 1251 1 rbc.status.RBC_FAILED 
+45 1252 1 rbc.status.RBC_FAILED 
+45 1256 1 rbc.status.RBC_FAILED 
+45 1257 1 rbc.status.RBC_FAILED 
+45 1258 1 rbc.status.RBC_FAILED 
+45 1264 1 rbc.status.RBC_FAILED 
+45 1272 1 rbc.status.RBC_FAILED 
+45 1277 1 rbc.status.RBC_FAILED 
+45 1278 1 rbc.status.RBC_FAILED 
+45 1279 1 rbc.status.RBC_FAILED 
+45 1281 1 rbc.status.RBC_FAILED 
+45 1287 1 rbc.status.RBC_FAILED 
+45 1288 1 rbc.status.RBC_FAILED 
+45 1294 1 rbc.status.RBC_FAILED 
+45 1299 1 rbc.status.RBC_FAILED 
+45 1300 1 rbc.status.RBC_FAILED 
+45 1306 1 rbc.status.RBC_FAILED 
+45 1307 1 rbc.status.RBC_FAILED 
+45 1309 1 rbc.status.RBC_FAILED 
+45 1310 1 rbc.status.RBC_FAILED 
+45 1321 1 rbc.status.RBC_FAILED 
+45 1322 1 rbc.status.RBC_FAILED 
+45 1343 1 rbc.status.RBC_FAILED 
+46 1096 1 clc.IM_CLC_connection_status_DOWN 
+46 1097 1 clc.IM_CLC_connection_status_DOWN 
+46 1139 1 clc.IM_CLC_connection_status_DOWN 
+46 1293 1 clc.SAMCLC_CLC_connection_status_DOWN 
+46 1294 1 clc.SAMCLC_CLC_connection_status_DOWN 
+47 888 6 clc.BD_status_MISSING clc.CPU_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 
+48 888 3 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_status_MISSING 
+49 887 1 ence.status.PCE_ENCE_communication_DOWN 
+49 997 1 ence.status.PCE_ENCE_communication_DOWN 
+49 998 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1178 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1185 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1192 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1193 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1194 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1195 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1196 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1200 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1219 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1276 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1336 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1342 1 ence.status.PCE_ENCE_communication_DOWN 
+49 1343 1 ence.status.PCE_ENCE_communication_DOWN 
+50 887 1 ence.status.PCE_ENCE_communication_DOWN 
+50 893 1 ence.status.PCE_ENCE_communication_DOWN 
+50 997 1 ence.status.PCE_ENCE_communication_DOWN 
+50 998 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1010 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1011 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1012 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1013 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1040 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1042 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1043 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1060 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1061 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1064 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1065 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1066 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1067 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1069 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1111 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1115 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1127 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1151 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1152 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1173 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1174 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1179 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1180 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1181 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1231 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1250 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1251 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1256 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1257 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1258 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1264 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1265 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1277 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1278 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1279 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1294 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1300 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1306 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1307 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1311 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1321 1 ence.status.PCE_ENCE_communication_DOWN 
+50 1343 1 ence.status.PCE_ENCE_communication_DOWN 

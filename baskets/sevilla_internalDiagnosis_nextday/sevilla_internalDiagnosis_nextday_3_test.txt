@@ -1,0 +1,17 @@
+1 1 1 energy.status.preaisl.er 
+1 2 1 energy.status.preaisl.er 
+1 5 1 energy.status.preaisl.er 
+1 6 1 energy.status.preaisl.er 
+1 7 1 energy.status.preaisl.er 
+1 8 1 energy.status.preaisl.er 
+1 10 1 energy.status.preaisl.er 
+2 4 2 energy.status.sai----.er energy.status.mm.vmot.er 
+2 5 4 energy.status.com.nta.er energy.status.main-2-.er energy.status.ac.conm.er energy.status.ac.forz.er 
+2 6 1 energy.status.ac.maqu.er 
+2 11 2 energy.status.com.nta.er energy.status.main-2-.er 
+3 0 7 energy.status.batt---.er energy.status.pretemp.er energy.status.temper-.er energy.status.temppro.er energy.status.clima--.er energy.status.ac.conm.er energy.status.bpm----.er 
+3 2 1 energy.status.aisla--.er 
+3 5 5 energy.status.pretemp.er energy.status.temper-.er energy.status.temppro.er energy.status.clima--.er energy.status.preaisl.er 
+3 6 1 energy.status.preaisl.er 
+3 7 3 energy.status.pretemp.er energy.status.temper-.er energy.status.clima--.er 
+3 11 2 energy.status.mm.vmot.er energy.status.sai----.er 

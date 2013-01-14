@@ -1,0 +1,51 @@
+3 68 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+3 92 1 saml.status.printer_inactive 
+3 97 1 saml.status.printer_inactive 
+3 100 1 saml.status.printer_inactive 
+3 101 1 saml.status.printer_inactive 
+53 0 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+53 11 1 saml.status.connection_operator_connected 
+53 12 1 saml.status.printer_inactive 
+53 22 1 saml.status.printer_inactive 
+53 30 1 saml.status.printer_inactive 
+53 37 1 saml.status.printer_inactive 
+53 39 1 saml.status.printer_inactive 
+53 41 1 saml.status.printer_inactive 
+53 42 1 saml.status.printer_inactive 
+53 43 1 saml.status.printer_inactive 
+53 53 1 saml.status.printer_inactive 
+53 62 1 saml.status.printer_inactive 
+53 65 1 saml.status.printer_inactive 
+53 78 1 saml.status.printer_inactive 
+53 81 1 saml.status.printer_inactive 
+53 86 1 saml.status.printer_inactive 
+53 87 1 saml.status.printer_inactive 
+53 92 1 saml.status.printer_inactive 
+53 93 1 saml.status.printer_inactive 
+53 94 2 saml.status.connection_operator_connected saml.status.printer_inactive 
+53 104 1 saml.status.printer_inactive 
+53 107 1 saml.status.printer_inactive 
+53 108 1 saml.status.printer_inactive 
+68 0 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 4 1 saml.status.connection_operator_connected 
+68 5 1 saml.status.printer_inactive 
+68 8 1 saml.status.printer_inactive 
+68 11 1 saml.status.connection_operator_connected 
+68 12 1 saml.status.printer_inactive 
+68 19 1 saml.status.printer_inactive 
+68 22 1 saml.status.printer_inactive 
+68 23 1 saml.status.printer_inactive 
+68 24 1 saml.status.printer_inactive 
+68 27 1 saml.status.printer_inactive 
+68 50 1 saml.status.printer_inactive 
+68 55 1 saml.status.printer_inactive 
+68 58 1 saml.status.printer_inactive 
+68 64 1 saml.status.printer_inactive 
+68 65 1 saml.status.printer_inactive 
+68 66 1 saml.status.printer_inactive 
+68 92 2 saml.status.connection_operator_connected saml.status.printer_inactive 
+68 96 1 saml.status.printer_inactive 
+68 100 1 saml.status.printer_inactive 
+68 104 1 saml.status.printer_inactive 
+68 107 1 saml.status.printer_inactive 
+68 109 1 saml.status.printer_inactive 

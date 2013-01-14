@@ -2,14 +2,94 @@ source('validation.R')
 source('cspade_wrapper.R')
 source('create_baskets_k-fold.R')
 
-name = "antequera_general"
-target <- antequera
-k=10
-days=1
-gap=1
-params=list(support=0.3, mingap=gap, maxgap=gap, maxlen=2, maxsize=5)
 
-create_k_basket_files(target,name,k,"baskets/",days)
-cspade_k_fold(name,k,"baskets/","output/sequences/",params)
-auto_k_validate(name, k, winmax=gap, winmin=gap, path="output/sequences/",minprec=0.1)
-av <- k_average(name,k)
+execute_all("segovia_processingErrorAlarm_nextday", segovia_processingErrorAlarm, days=1,sp=0.01,gap=1,msize=7)
+execute_all("segovia_information_nextday",segovia_information,days=1,sp=0.01,gap=1,msize=7)
+execute_all("segovia_equipmentAlarm_nextday",segovia_equipmentAlarm,days=1,sp=0.01,gap=1,msize=7)
+execute_all("segovia_environmentAlarm_nextday",segovia_environmentAlarm,days=1,sp=0.01,gap=1,msize=7)
+execute_all("segovia_communicationsAlarm_nextday",segovia_communicationsAlarm,days=1,sp=0.01,gap=1,msize=7)
+execute_all("segovia_commproblem_nextday",segovia_commproblem,days=1,sp=0.3,gap=1,msize=5)
+execute_all("segovia_general_nextday",segovia,days=1,sp=0.3,gap=1,msize=5)
+
+execute_all("segovia_processingErrorAlarm_nextweek", segovia_processingErrorAlarm, days=7,sp=0.01,gap=1,msize=7)
+execute_all("segovia_information_nextweek",segovia_information,days=7,sp=0.01,gap=1,msize=7)
+execute_all("segovia_equipmentAlarm_nextweek",segovia_equipmentAlarm,days=7,sp=0.01,gap=1,msize=7)
+execute_all("segovia_environmentAlarm_nextweek",segovia_environmentAlarm,days=7,sp=0.01,gap=1,msize=7)
+execute_all("segovia_communicationsAlarm_nextweek",segovia_communicationsAlarm,days=7,sp=0.01,gap=1,msize=7)
+execute_all("segovia_commproblem_nextweek",segovia_commproblem,days=7,sp=0.3,gap=1,msize=5)
+execute_all("segovia_general_nextweek",segovia,days=7,sp=0.3,gap=1,msize=5)
+
+execute_all("segovia_processingErrorAlarm_twodays", segovia_processingErrorAlarm, days=1,sp=0.01,gap=2,msize=7)
+execute_all("segovia_information_twodays",segovia_information,days=1,sp=0.01,gap=2,msize=7)
+execute_all("segovia_equipmentAlarm_twodays",segovia_equipmentAlarm,days=1,sp=0.01,gap=2,msize=7)
+execute_all("segovia_environmentAlarm_twodays",segovia_environmentAlarm,days=1,sp=0.01,gap=2,msize=7)
+execute_all("segovia_communicationsAlarm_twodays",segovia_communicationsAlarm,days=1,sp=0.01,gap=2,msize=7)
+execute_all("segovia_commproblem_twodays",segovia_commproblem,days=1,sp=0.3,gap=2,msize=5)
+execute_all("segovia_general_twodays",segovia,days=1,sp=0.3,gap=2,msize=5)
+
+
+execute_all("albacete_communicationsAlarm_nextday", albacete_communicationsAlarm, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_fieldElementAlarm_nextday", albacete_fieldElementAlarm, days=1, sp=0.3, gap= 1, msize=5)
+execute_all("albacete_fieldElementFailure_nextday", albacete_fieldElementFailure, days=1, sp=0.3, gap= 1, msize=5)
+execute_all("albacete_fieldElementCombined_nextday", albacete_communicationsAlarm, days=1, sp=0.4, gap= 1, msize=5)
+execute_all("albacete_imCpuAndCommunications_nextday", albacete_imCpuAndCommunications, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_internalDiagnosis_nextday", albacete_internalDiagnosis, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_internalPloDiagnosis_nextday", albacete_internalPloDiagnosis, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_operationsDiagnosisCommunications_nextday", albacete_operationsDiagnosisCommunications, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_operatorInformation_nextday", albacete_operatorInformation, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_general_nextday", albacete_communicationsAlarm, days=1, sp=0.3, gap= 1, msize=5)
+
+
+execute_all("albacete_communicationsAlarm_nextweek", albacete_communicationsAlarm, days=7, sp=0.01, gap = 1, msize=7)
+execute_all("albacete_fieldElementAlarm_nextweek", albacete_fieldElementAlarm, days=7, sp=0.3, gap= 1, msize=5)
+execute_all("albacete_fieldElementFailure_nextweek", albacete_fieldElementFailure, days=7, sp=0.3, gap= 1, msize=5)
+execute_all("albacete_fieldElementCombined_nextweek", albacete_communicationsAlarm, days=7, sp=0.4, gap= 1, msize=5)
+execute_all("albacete_imCpuAndCommunications_nextweek", albacete_imCpuAndCommunications, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_internalDiagnosis_nextweek", albacete_internalDiagnosis, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_internalPloDiagnosis_nextweek", albacete_internalPloDiagnosis, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_operationsDiagnosisCommunications_nextweek", albacete_operationsDiagnosisCommunications, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_operatorInformation_nextweek", albacete_operatorInformation, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("albacete_general_nextweek", albacete_communicationsAlarm, days=7, sp=0.3, gap= 1, msize=5)
+
+execute_all("albacete_communicationsAlarm_twodays", albacete_communicationsAlarm, days=1, sp=0.01, gap= 2, msize=7)
+execute_all("albacete_fieldElementAlarm_twodays", albacete_fieldElementAlarm, days=1, sp=0.3, gap = 2, msize=5)
+execute_all("albacete_fieldElementFailure_twodays", albacete_fieldElementFailure, days=1, sp=0.3, gap = 2, msize=5)
+execute_all("albacete_fieldElementCombined_twodays", albacete_communicationsAlarm, days=1, sp=0.4, gap = 2, msize=5)
+execute_all("albacete_imCpuAndCommunications_twodays", albacete_imCpuAndCommunications, days=1, sp=0.01, gap = 2, msize=7)
+execute_all("albacete_internalDiagnosis_twodays", albacete_internalDiagnosis, days=1, sp=0.01, gap = 2, msize=7)
+execute_all("albacete_internalPloDiagnosis_twodays", albacete_internalPloDiagnosis, days=1, sp=0.01, gap = 2, msize=7)
+execute_all("albacete_operationsDiagnosisCommunications_twodays", albacete_operationsDiagnosisCommunications, days=1, sp=0.01, gap = 2, msize=7)
+execute_all("albacete_operatorInformation_twodays", albacete_operatorInformation, days=1, sp=0.01, gap = 2, msize=7)
+execute_all("albacete_general_twodays", albacete_communicationsAlarm, days=1, sp=0.3, gap = 2, msize=5)
+
+
+execute_all("sevilla_communicationsAlarm_nextday", sevilla_communicationsAlarm, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_fieldElementAlarm_nextday", sevilla_fieldElementAlarm, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_fieldElementFailure_nextday", sevilla_fieldElementFailure, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_imCpuAndCommunications_nextday", sevilla_imCpuAndCommunications, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_internalDiagnosis_nextday", sevilla_internalDiagnosis, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_internalPloDiagnosis_nextday", sevilla_internalPloDiagnosis, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_operationsDiagnosisCommunications_nextday", sevilla_operationsDiagnosisCommunications, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_operatorInformation_nextday", sevilla_operatorInformation, days=1, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_general_nextday", sevilla_communicationsAlarm, days=1, sp=0.01, gap= 1, msize=7)
+
+
+execute_all("sevilla_communicationsAlarm_nextweek", sevilla_communicationsAlarm, days=7, sp=0.01, gap = 1, msize=7)
+execute_all("sevilla_fieldElementAlarm_nextweek", sevilla_fieldElementAlarm, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_fieldElementFailure_nextweek", sevilla_fieldElementFailure, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_imCpuAndCommunications_nextweek", sevilla_imCpuAndCommunications, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_internalDiagnosis_nextweek", sevilla_internalDiagnosis, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_internalPloDiagnosis_nextweek", sevilla_internalPloDiagnosis, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_operationsDiagnosisCommunications_nextweek", sevilla_operationsDiagnosisCommunications, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_operatorInformation_nextweek", sevilla_operatorInformation, days=7, sp=0.01, gap= 1, msize=7)
+execute_all("sevilla_general_nextweek", sevilla_communicationsAlarm, days=7, sp=0.01, gap= 1, msize=7)
+
+
+
+execute_all <- function(name,target,days,sp,gap,msize,k=10) {
+  params=list(support=sp, mingap=gap, maxgap=gap, maxlen=2, maxsize=msize)
+  create_k_basket_files(target,name,k,"baskets/",days)
+  cspade_k_fold(name,k,"baskets/","output/sequences/",params)
+  auto_k_validate(name, k, winmax=gap, winmin=gap, path="output/sequences/",minprec=0.1)
+  av <- k_average(name,k)
+}

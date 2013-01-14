@@ -1,0 +1,43 @@
+3 16 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+3 20 1 saml.status.printer_inactive 
+9 16 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+9 18 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+9 19 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+16 15 1 saml.status.printer_inactive 
+16 16 1 saml.status.printer_inactive 
+16 19 1 saml.status.printer_inactive 
+22 15 1 saml.status.printer_inactive 
+22 16 1 saml.status.printer_inactive 
+22 18 1 saml.status.printer_inactive 
+29 15 1 saml.status.printer_inactive 
+29 16 1 saml.status.printer_inactive 
+29 17 1 saml.status.printer_inactive 
+29 18 1 saml.status.printer_inactive 
+29 19 1 saml.status.printer_inactive 
+35 15 1 saml.status.printer_inactive 
+35 16 1 saml.status.printer_inactive 
+35 17 1 saml.status.printer_inactive 
+35 19 1 saml.status.printer_inactive 
+36 15 1 saml.status.printer_inactive 
+36 16 1 saml.status.printer_inactive 
+36 18 1 saml.status.printer_inactive 
+36 19 1 saml.status.printer_inactive 
+42 15 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+42 16 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+42 17 2 saml.status.connection_operator_connected saml.status.printer_inactive 
+42 18 1 saml.status.printer_inactive 
+42 19 1 saml.status.printer_inactive 
+49 15 1 saml.status.printer_inactive 
+49 16 1 saml.status.printer_inactive 
+49 17 1 saml.status.printer_inactive 
+53 16 1 saml.status.printer_inactive 
+53 17 2 saml.status.connection_operator_connected saml.status.printer_inactive 
+61 15 1 saml.status.printer_inactive 
+61 16 1 saml.status.printer_inactive 
+68 15 1 saml.status.printer_inactive 
+68 16 1 saml.status.printer_inactive 
+68 17 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 18 1 saml.status.printer_inactive 
+68 19 1 saml.status.printer_inactive 
+74 15 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+74 16 2 saml.status.printer_inactive saml.status.connection_operator_connected 

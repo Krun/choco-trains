@@ -1,0 +1,30 @@
+1 78 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+1 79 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+1 80 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.BD_status_MISSING 
+1 84 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+1 85 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+1 86 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+1 87 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+1 88 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.BD_status_MISSING 
+1 89 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+2 77 1 clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 78 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+2 79 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 80 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 84 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 85 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+2 86 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 87 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+2 88 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+2 89 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+5 79 1 clc.BD_status_MISSING 
+7 79 1 clc.BD_status_MISSING 
+8 78 1 clc.BD_status_MISSING 
+9 77 1 clc.BD_status_MISSING 
+10 85 1 clc.BD_status_MISSING 
+15 85 1 clc.BD_status_MISSING 
+19 78 1 clc.BD_status_MISSING 
+19 80 1 clc.BD_status_MISSING 
+20 78 1 clc.BD_status_MISSING 
+20 79 1 clc.BD_status_MISSING 
+20 80 1 clc.BD_status_MISSING 

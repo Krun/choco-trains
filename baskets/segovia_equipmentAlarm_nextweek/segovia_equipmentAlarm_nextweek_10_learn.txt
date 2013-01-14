@@ -1,0 +1,104 @@
+1 13 1 clc.BD_incorrect_version_telegram_channel 
+1 14 1 clc.BD_incorrect_version_telegram_channel 
+1 18 2 clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+1 66 3 clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+1 80 1 clc.BD_incorrect_version_telegram_channel 
+1 92 1 clc.BD_incorrect_version_telegram_channel 
+1 115 2 clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+1 158 1 clc.BD_incorrect_version_telegram_channel 
+2 13 3 clc.CPU_status_DOWN clc.BD_incorrect_version_telegram_channel clc.Fatal_error_system_down 
+2 14 2 clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 
+2 18 1 clc.BD_incorrect_version_telegram_channel 
+2 50 2 clc.CPU_status_DOWN clc.BD_incorrect_version_telegram_channel 
+2 66 1 clc.CPU_status_DOWN 
+2 90 1 clc.BD_incorrect_version_telegram_channel 
+2 115 1 clc.BD_incorrect_version_telegram_channel 
+2 126 2 clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+2 158 1 clc.BD_incorrect_version_telegram_channel 
+3 3 1 clc.CPU_status_DOWN 
+3 42 1 clc.Fatal_error_system_down 
+3 66 1 clc.BD_incorrect_version_telegram_channel 
+3 74 1 clc.CPU_status_DOWN 
+3 117 1 clc.BD_incorrect_version_telegram_channel 
+4 170 1 clc.CPU_status_DOWN 
+5 13 2 clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 
+6 141 1 clc.BD_incorrect_version_telegram_channel 
+7 5 1 clc.BD_incorrect_version_telegram_channel 
+7 78 1 clc.BD_incorrect_version_telegram_channel 
+7 107 2 clc.CPU_status_DOWN clc.BD_incorrect_version_telegram_channel 
+8 42 1 clc.BD_incorrect_version_telegram_channel 
+8 43 1 clc.BD_incorrect_version_telegram_channel 
+9 57 1 clc.CPU_status_DOWN 
+9 58 1 clc.CPU_status_DOWN 
+9 59 1 clc.CPU_status_DOWN 
+10 0 1 node.unit.network_adapter_DOWN 
+10 24 1 node.unit.network_adapter_DOWN 
+10 56 1 node.unit.network_adapter_DOWN 
+10 60 1 node.unit.network_adapter_DOWN 
+10 62 1 node.unit.network_adapter_DOWN 
+10 85 1 node.unit.network_adapter_DOWN 
+10 89 1 node.unit.network_adapter_DOWN 
+10 152 1 node.unit.network_adapter_DOWN 
+11 52 2 clc.Fatal_error_system_down clc.CPU_status_DOWN 
+11 53 1 clc.BD_incorrect_version_telegram_channel 
+11 65 1 clc.CPU_status_DOWN 
+11 99 1 clc.BD_incorrect_version_telegram_channel 
+11 158 1 clc.BD_incorrect_version_telegram_channel 
+12 53 2 clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 
+12 99 1 clc.BD_incorrect_version_telegram_channel 
+12 158 1 clc.BD_incorrect_version_telegram_channel 
+13 58 2 clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+13 59 1 clc.BD_incorrect_version_telegram_channel 
+13 62 1 clc.BD_incorrect_version_telegram_channel 
+13 63 1 clc.BD_incorrect_version_telegram_channel 
+13 64 2 clc.CPU_status_DOWN clc.BD_incorrect_version_telegram_channel 
+13 65 1 clc.BD_incorrect_version_telegram_channel 
+13 66 1 clc.BD_incorrect_version_telegram_channel 
+13 94 1 clc.BD_incorrect_version_telegram_channel 
+13 120 1 clc.BD_incorrect_version_telegram_channel 
+13 121 1 clc.Fatal_error_system_down 
+14 12 2 clc.CPU_status_DOWN clc.BD_incorrect_version_telegram_channel 
+14 14 1 clc.BD_incorrect_version_telegram_channel 
+14 18 1 clc.BD_incorrect_version_telegram_channel 
+14 92 1 clc.BD_incorrect_version_telegram_channel 
+14 115 1 clc.BD_incorrect_version_telegram_channel 
+14 119 2 clc.BD_incorrect_version_telegram_channel clc.Fatal_error_system_down 
+14 156 1 clc.BD_incorrect_version_telegram_channel 
+14 161 1 clc.BD_incorrect_version_telegram_channel 
+15 3 1 clc.CPU_status_DOWN 
+15 12 1 clc.BD_incorrect_version_telegram_channel 
+15 14 1 clc.BD_incorrect_version_telegram_channel 
+15 18 1 clc.BD_incorrect_version_telegram_channel 
+15 119 2 clc.CPU_status_DOWN clc.Fatal_error_system_down 
+16 1 1 node.unit.network_adapter_DOWN 
+16 24 1 node.unit.network_adapter_DOWN 
+16 85 1 node.unit.network_adapter_DOWN 
+16 89 1 node.unit.network_adapter_DOWN 
+16 90 1 node.unit.network_adapter_DOWN 
+17 124 1 clc.CPU_status_DOWN 
+17 158 1 clc.BD_incorrect_version_telegram_channel 
+18 1 2 clc.BD_incorrect_version_telegram_channel clc.Fatal_error_system_down 
+18 112 1 clc.BD_incorrect_version_telegram_channel 
+18 113 1 clc.BD_incorrect_version_telegram_channel 
+20 9 1 node.unit.network_adapter_DOWN 
+20 59 1 node.unit.network_adapter_DOWN 
+20 74 1 node.unit.network_adapter_DOWN 
+20 75 1 node.unit.network_adapter_DOWN 
+20 118 1 node.unit.network_adapter_DOWN 
+20 122 1 node.unit.network_adapter_DOWN 
+20 123 1 node.unit.network_adapter_DOWN 
+20 124 1 node.unit.network_adapter_DOWN 
+20 154 1 node.unit.network_adapter_DOWN 
+20 155 1 node.unit.network_adapter_DOWN 
+20 166 1 node.unit.network_adapter_DOWN 
+20 167 1 node.unit.network_adapter_DOWN 
+21 0 1 node.unit.network_adapter_DOWN 
+21 50 1 node.unit.network_adapter_DOWN 
+21 101 1 node.unit.network_adapter_DOWN 
+21 112 1 node.unit.network_adapter_DOWN 
+22 62 1 clc.CPU_status_DOWN 
+22 121 1 clc.CPU_status_DOWN 
+23 78 1 clc.BD_incorrect_version_telegram_channel 
+23 103 1 clc.BD_incorrect_version_telegram_channel 
+23 126 3 clc.CPU_status_DOWN clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 
+24 103 1 clc.BD_incorrect_version_telegram_channel 

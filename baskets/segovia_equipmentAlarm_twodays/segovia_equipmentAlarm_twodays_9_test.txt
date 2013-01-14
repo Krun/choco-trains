@@ -1,0 +1,15 @@
+1 1108 1 clc.BD_incorrect_version_telegram_channel 
+2 1108 1 clc.BD_incorrect_version_telegram_channel 
+6 993 1 clc.BD_incorrect_version_telegram_channel 
+10 1066 1 node.unit.network_adapter_DOWN 
+11 1108 1 clc.BD_incorrect_version_telegram_channel 
+12 1108 1 clc.BD_incorrect_version_telegram_channel 
+14 1097 1 clc.BD_incorrect_version_telegram_channel 
+14 1130 1 clc.BD_incorrect_version_telegram_channel 
+17 1112 1 clc.BD_incorrect_version_telegram_channel 
+20 1084 1 node.unit.network_adapter_DOWN 
+20 1088 1 node.unit.network_adapter_DOWN 
+20 1091 1 node.unit.network_adapter_DOWN 
+20 1163 1 node.unit.network_adapter_DOWN 
+20 1164 1 node.unit.network_adapter_DOWN 
+23 888 2 clc.Fatal_error_system_down clc.BD_incorrect_version_telegram_channel 

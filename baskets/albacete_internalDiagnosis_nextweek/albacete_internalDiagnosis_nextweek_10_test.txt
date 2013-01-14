@@ -1,0 +1,25 @@
+3 71 1 saml.status.printer_inactive 
+3 72 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+9 70 1 saml.status.printer_inactive 
+9 71 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+9 72 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+16 72 1 saml.status.printer_inactive 
+16 73 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+22 72 1 saml.status.printer_inactive 
+29 70 1 saml.status.printer_inactive 
+29 71 1 saml.status.printer_inactive 
+29 72 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+35 70 1 saml.status.printer_inactive 
+35 71 1 saml.status.printer_inactive 
+35 72 1 saml.status.printer_inactive 
+35 73 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 71 1 saml.status.printer_inactive 
+36 72 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 73 1 saml.status.printer_inactive 
+49 72 1 saml.status.printer_inactive 
+53 71 1 saml.status.printer_inactive 
+53 72 1 saml.status.printer_inactive 
+68 72 1 saml.status.printer_inactive 
+68 73 1 saml.status.printer_inactive 
+74 71 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+74 72 2 saml.status.printer_inactive saml.status.connection_operator_connected 

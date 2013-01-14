@@ -1,0 +1,637 @@
+1 815 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down 
+1 816 4 SAMEL_CM_communication_DOWN saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_1_down 
+1 817 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 818 3 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 819 4 SAMEL_CM_communication_DOWN saml.status.channel_PCI_1_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 820 1 SAMEL_CM_communication_DOWN 
+1 821 3 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 822 3 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down 
+1 823 1 SAMEL_CM_communication_DOWN 
+1 824 1 SAMEL_CM_communication_DOWN 
+1 825 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 826 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 827 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 828 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 829 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 830 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 831 1 SAMEL_CM_communication_DOWN 
+1 832 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 833 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down 
+1 834 1 SAMEL_CM_communication_DOWN 
+1 835 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 836 1 SAMEL_CM_communication_DOWN 
+1 837 1 SAMEL_CM_communication_DOWN 
+1 838 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 839 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 840 1 SAMEL_CM_communication_DOWN 
+1 841 5 SAMEL_CM_communication_DOWN saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 842 8 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+1 843 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 844 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 845 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 847 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 848 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+1 849 1 SAMEL_CM_communication_DOWN 
+2 815 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 816 9 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 817 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 818 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 819 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+2 820 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 821 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 822 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net3_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.GC_without_supervision 
+2 824 1 saml.status.GC_without_supervision 
+2 825 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 826 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net3_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 827 1 saml.status.channel_B_PCI_SAM_down 
+2 828 8 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.GC_without_supervision 
+2 829 10 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 830 7 saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_PT_failure saml.status.energy_net2_not_present 
+2 832 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 833 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 835 5 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 836 7 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.GC_without_supervision 
+2 837 10 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.GC_without_supervision saml.status.energy_net2_not_present saml.status.energy_PT_failure 
+2 838 5 saml.status.channel_A_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+2 839 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+2 840 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net3_not_present saml.status.energy_net2_disconnected 
+2 841 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net3_not_present saml.status.energy_net2_disconnected saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.GC_without_supervision 
+2 842 23 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down saml.status.GC_without_supervision saml.status.alarm_EL_breakdown saml.status.energy_generator_running saml.status.energy_connection_rack_general_failure saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_SAM_down 
+2 843 14 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_PCI_SAM_down saml.status.energy_net2_not_present saml.status.GC_without_supervision 
+2 844 4 saml.status.energy_net3_not_present saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 845 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+2 846 7 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected 
+2 847 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+2 848 16 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_PCI_SAM_down saml.status.channel_PCI_SAM_down 
+2 849 13 saml.status.energy_switch_rack_general_failure saml.status.energy_net3_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_down 
+3 815 16 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net3_not_present saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down saml.status.channel_B_CS_down saml.status.channel_CS_down saml.status.channel_A_CS_down 
+3 817 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+3 833 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+3 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+3 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+3 842 14 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_A_CS_down saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_SAM_down 
+3 847 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+3 848 3 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+4 815 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+4 816 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+4 817 1 saml.status.TM_alarm_OV 
+4 818 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+4 819 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 820 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 821 4 saml.status.channel_down saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 822 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 823 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 825 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+4 826 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 827 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+4 828 5 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.MS_alarm_RE saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 829 4 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+4 830 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+4 833 1 saml.status.TM_alarm_OV 
+4 834 1 saml.status.TM_alarm_OV 
+4 835 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+4 836 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 837 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+4 838 1 saml.status.TM_alarm_OV 
+4 839 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+4 840 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+4 841 5 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.MS_alarm_RE saml.status.TM_alarm_OV 
+4 842 5 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down_2 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+4 843 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+4 844 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 845 1 saml.status.TM_alarm_OV 
+4 846 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.channel_down 
+4 847 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+4 848 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+6 817 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+6 833 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+6 834 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+6 841 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+6 842 3 saml.status.channel_PLO_RJU_down saml.status.printer_inactive saml.status.connection_operator_connected 
+6 847 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+6 848 1 saml.status.channel_PLO_RJU_down 
+7 815 1 SAMEL_CM_communication_DOWN 
+7 816 2 SAMEL_CM_communication_DOWN saml.status.channel_PLO_down 
+7 817 1 SAMEL_CM_communication_DOWN 
+7 818 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+7 819 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+7 820 1 SAMEL_CM_communication_DOWN 
+7 821 1 SAMEL_CM_communication_DOWN 
+7 822 1 SAMEL_CM_communication_DOWN 
+7 823 1 SAMEL_CM_communication_DOWN 
+7 824 1 SAMEL_CM_communication_DOWN 
+7 825 6 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PLO_down saml.status.channel_A_PCI_2_down 
+7 826 6 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PLO_down saml.status.channel_B_PCI_2_down 
+7 827 1 SAMEL_CM_communication_DOWN 
+7 828 1 SAMEL_CM_communication_DOWN 
+7 829 1 SAMEL_CM_communication_DOWN 
+7 830 1 SAMEL_CM_communication_DOWN 
+7 831 1 SAMEL_CM_communication_DOWN 
+7 832 1 SAMEL_CM_communication_DOWN 
+7 833 1 SAMEL_CM_communication_DOWN 
+7 834 1 SAMEL_CM_communication_DOWN 
+7 835 1 SAMEL_CM_communication_DOWN 
+7 836 1 SAMEL_CM_communication_DOWN 
+7 837 4 SAMEL_CM_communication_DOWN saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down 
+7 838 1 SAMEL_CM_communication_DOWN 
+7 839 1 SAMEL_CM_communication_DOWN 
+7 840 1 SAMEL_CM_communication_DOWN 
+7 841 3 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down 
+7 842 1 SAMEL_CM_communication_DOWN 
+7 844 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+7 845 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+7 848 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+8 815 1 saml.status.energy_net2_not_present 
+8 816 14 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure 
+8 817 1 saml.status.energy_SAI_line2_nok 
+8 818 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 819 18 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_B_PCI_RJU_down saml.status.channel_A_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+8 821 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_net3_not_present saml.status.energy_SAI_PT_nok 
+8 822 11 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+8 823 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net3_not_present saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+8 825 15 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.alarm_EL_breakdown saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 826 17 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure 
+8 827 9 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected 
+8 828 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+8 829 13 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure 
+8 830 11 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net3_not_present saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+8 831 1 saml.status.energy_SAI_line2_nok 
+8 832 1 saml.status.energy_net1_disconnected 
+8 834 6 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 835 13 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_48V_battery_nok saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+8 836 12 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_net2_not_present 
+8 837 16 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.channel_B_CS_unknown saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown 
+8 838 6 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 840 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+8 841 14 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_connection_rack_general_failure saml.status.energy_generator_general_failure saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 842 18 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.alarm_EL_breakdown saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_CS_unknown saml.status.energy_net2_disconnected 
+8 843 11 saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+8 844 18 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_net3_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.channel_B_PCI_SAM_down 
+8 845 6 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+8 846 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_48V_battery_nok 
+8 847 9 saml.status.energy_switch_rack_general_failure saml.status.energy_connection_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected 
+8 848 16 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+9 816 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+9 819 3 saml.status.channel_B_PCI_RJU_down saml.status.channel_A_PCI_RJU_down saml.status.channel_PCI_RJU_down 
+9 825 7 saml.status.channel_A_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+9 826 7 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+9 834 6 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+9 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+9 838 6 saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+9 842 7 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_A_PCI_RJU_down saml.status.channel_B_PCI_RJU_down saml.status.channel_PCI_RJU_down saml.status.channel_CS_unknown 
+10 815 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 817 1 saml.status.TM_alarm_OV 
+10 818 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+10 819 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 820 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 821 5 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down saml.status.TM_alarm_OV 
+10 822 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 823 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 824 1 saml.status.TM_alarm_OV 
+10 825 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+10 826 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 827 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.channel_down saml.status.TM_alarm_OV 
+10 828 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 829 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 830 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 833 1 saml.status.TM_alarm_OV 
+10 835 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 836 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 837 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 838 1 saml.status.TM_alarm_OV 
+10 839 1 saml.status.TM_alarm_OV 
+10 840 5 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down saml.status.TM_alarm_OV 
+10 841 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 842 6 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down_2 saml.status.channel_down saml.status.TM_alarm_OV 
+10 843 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 844 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+10 846 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+10 847 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+10 848 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+12 816 3 saml.status.printer_inactive saml.status.connection_operator_connected saml.status.channel_PLO_RJU_down 
+12 819 1 saml.status.channel_PLO_RJU_down 
+12 825 2 saml.status.channel_PLO_RJU_down saml.status.printer_inactive 
+12 826 2 saml.status.channel_PLO_RJU_down saml.status.printer_inactive 
+12 834 2 saml.status.channel_PLO_RJU_down saml.status.printer_inactive 
+12 838 2 saml.status.channel_PLO_RJU_down saml.status.printer_inactive 
+12 842 2 saml.status.channel_PLO_RJU_down saml.status.printer_inactive 
+13 815 1 SAMEL_CM_communication_DOWN 
+13 816 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 817 1 SAMEL_CM_communication_DOWN 
+13 818 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 819 1 SAMEL_CM_communication_DOWN 
+13 820 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 821 1 SAMEL_CM_communication_DOWN 
+13 822 1 SAMEL_CM_communication_DOWN 
+13 823 1 SAMEL_CM_communication_DOWN 
+13 824 1 SAMEL_CM_communication_DOWN 
+13 825 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 826 1 SAMEL_CM_communication_DOWN 
+13 827 1 SAMEL_CM_communication_DOWN 
+13 828 1 SAMEL_CM_communication_DOWN 
+13 829 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 830 1 SAMEL_CM_communication_DOWN 
+13 831 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 832 1 SAMEL_CM_communication_DOWN 
+13 833 1 SAMEL_CM_communication_DOWN 
+13 834 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 835 1 SAMEL_CM_communication_DOWN 
+13 836 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 837 1 SAMEL_CM_communication_DOWN 
+13 838 1 SAMEL_CM_communication_DOWN 
+13 839 1 SAMEL_CM_communication_DOWN 
+13 840 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+13 841 1 SAMEL_CM_communication_DOWN 
+13 842 1 SAMEL_CM_communication_DOWN 
+13 845 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+14 816 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+14 818 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+14 819 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 820 14 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_SAI_PT_nok saml.status.energy_PT_failure 
+14 822 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 823 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 825 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+14 826 11 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_PT_failure saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 827 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_PT_nok saml.status.energy_connection_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_PT_failure 
+14 828 11 saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_PT_failure 
+14 829 14 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.alarm_EL_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+14 830 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 831 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+14 833 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+14 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+14 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+14 836 14 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+14 837 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+14 840 13 saml.status.channel_B_PCI_SAM_down saml.status.channel_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running 
+14 841 11 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_PT_failure 
+14 842 14 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 843 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 844 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 845 5 saml.status.channel_B_PCI_SAM_down saml.status.channel_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+14 846 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+14 847 8 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+14 848 11 saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_PT_failure saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected 
+15 833 3 saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown 
+15 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+15 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+15 842 4 saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown 
+16 815 4 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 819 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+16 820 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+16 821 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down 
+16 822 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+16 826 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+16 827 1 saml.status.TM_alarm_OV 
+16 828 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 829 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+16 830 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 831 1 saml.status.TS_alarm_OV 
+16 835 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+16 836 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+16 837 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 840 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down 
+16 841 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+16 842 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+16 843 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+16 844 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+16 845 2 saml.status.channel_down saml.status.TM_alarm_OV 
+16 846 1 saml.status.TM_alarm_OV 
+16 847 1 saml.status.TS_alarm_OV 
+16 848 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+18 832 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+18 833 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+18 834 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+18 840 1 saml.status.connection_operator_connected 
+18 842 1 saml.status.printer_inactive 
+19 815 1 SAMEL_CM_communication_DOWN 
+19 816 1 SAMEL_CM_communication_DOWN 
+19 817 1 SAMEL_CM_communication_DOWN 
+19 818 1 SAMEL_CM_communication_DOWN 
+19 819 1 SAMEL_CM_communication_DOWN 
+19 820 1 SAMEL_CM_communication_DOWN 
+19 821 1 SAMEL_CM_communication_DOWN 
+19 822 4 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down SAMEL_CM_communication_DOWN 
+19 823 1 SAMEL_CM_communication_DOWN 
+19 824 1 SAMEL_CM_communication_DOWN 
+19 825 1 SAMEL_CM_communication_DOWN 
+19 826 1 SAMEL_CM_communication_DOWN 
+19 827 1 SAMEL_CM_communication_DOWN 
+19 828 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+19 829 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+19 830 1 SAMEL_CM_communication_DOWN 
+19 831 1 SAMEL_CM_communication_DOWN 
+19 832 6 SAMEL_CM_communication_DOWN saml.status.channel_PLO_down saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down 
+19 833 1 SAMEL_CM_communication_DOWN 
+19 835 1 SAMEL_CM_communication_DOWN 
+19 836 1 SAMEL_CM_communication_DOWN 
+19 837 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+19 838 1 SAMEL_CM_communication_DOWN 
+19 839 1 SAMEL_CM_communication_DOWN 
+19 840 1 SAMEL_CM_communication_DOWN 
+19 841 1 SAMEL_CM_communication_DOWN 
+19 842 1 SAMEL_CM_communication_DOWN 
+19 843 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+20 818 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok 
+20 820 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+20 822 15 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_general_failure saml.status.energy_generator_running saml.status.energy_connection_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_fuel_level_low 
+20 828 13 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_PT_failure saml.status.energy_net2_not_present saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+20 829 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+20 830 6 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+20 832 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+20 834 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.alarm_EL_failure 
+20 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+20 836 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+20 837 13 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+20 839 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_PT_failure 
+20 840 13 saml.status.energy_connection_rack_general_failure saml.status.energy_generator_running saml.status.alarm_EL_failure saml.status.energy_SAI_ST_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_PT_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+20 841 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_PT_failure saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+20 842 12 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_PT_failure 
+20 843 12 saml.status.energy_generator_fuel_level_low saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok 
+20 846 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+20 848 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_PT_failure saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_general_failure 
+21 832 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+21 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+21 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+21 842 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown 
+22 815 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 818 1 saml.status.TM_alarm_OV 
+22 819 1 saml.status.TM_alarm_OV 
+22 820 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 821 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.channel_down 
+22 822 1 saml.status.TS_alarm_OV 
+22 826 1 saml.status.TS_alarm_OV 
+22 827 1 saml.status.TM_alarm_OV 
+22 828 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+22 829 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 831 1 saml.status.TS_alarm_OV 
+22 832 1 saml.status.TS_alarm_OV 
+22 835 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+22 836 1 saml.status.TM_alarm_OV 
+22 837 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+22 839 1 saml.status.TM_alarm_OV 
+22 840 4 saml.status.TS_alarm_OV saml.status.channel_down_2 saml.status.channel_down saml.status.TM_alarm_OV 
+22 841 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+22 842 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+22 843 1 saml.status.TM_alarm_OV 
+22 844 1 saml.status.TM_alarm_OV 
+22 847 1 saml.status.TS_alarm_OV 
+22 848 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+24 832 1 saml.status.printer_inactive 
+24 834 1 saml.status.printer_inactive 
+24 842 1 saml.status.printer_inactive 
+25 815 1 SAMEL_CM_communication_DOWN 
+25 816 1 SAMEL_CM_communication_DOWN 
+25 817 1 SAMEL_CM_communication_DOWN 
+25 818 1 SAMEL_CM_communication_DOWN 
+25 819 1 SAMEL_CM_communication_DOWN 
+25 820 1 SAMEL_CM_communication_DOWN 
+25 821 1 SAMEL_CM_communication_DOWN 
+25 822 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 823 1 SAMEL_CM_communication_DOWN 
+25 824 1 SAMEL_CM_communication_DOWN 
+25 825 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 826 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 827 1 SAMEL_CM_communication_DOWN 
+25 828 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 829 1 SAMEL_CM_communication_DOWN 
+25 830 1 SAMEL_CM_communication_DOWN 
+25 831 1 SAMEL_CM_communication_DOWN 
+25 832 1 SAMEL_CM_communication_DOWN 
+25 833 1 SAMEL_CM_communication_DOWN 
+25 834 1 SAMEL_CM_communication_DOWN 
+25 835 1 SAMEL_CM_communication_DOWN 
+25 836 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 837 1 SAMEL_CM_communication_DOWN 
+25 838 1 SAMEL_CM_communication_DOWN 
+25 839 1 SAMEL_CM_communication_DOWN 
+25 840 1 SAMEL_CM_communication_DOWN 
+25 841 3 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down 
+25 842 1 SAMEL_CM_communication_DOWN 
+25 844 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 845 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 846 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 847 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+25 848 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+26 816 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 822 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 825 4 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 826 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 828 5 saml.status.channel_B_PCI_SAM_down saml.status.channel_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 830 1 saml.status.energy_net2_not_present 
+26 832 2 saml.status.energy_net2_not_present saml.status.energy_generator_running 
+26 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+26 836 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+26 837 8 saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+26 842 5 saml.status.alarm_EL_breakdown saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown 
+26 843 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_rect_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+26 844 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 845 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 846 4 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+26 847 15 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+26 848 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+27 816 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+27 826 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+27 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+27 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+27 842 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown 
+28 815 5 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.MS_alarm_RE saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+28 816 6 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down_2 saml.status.MS_alarm_RE saml.status.TM_alarm_OV 
+28 817 1 saml.status.TM_alarm_OV 
+28 818 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+28 819 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.MS_alarm_RE 
+28 820 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_1 
+28 821 5 saml.status.channel_down saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+28 822 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+28 824 2 saml.status.TM_alarm_OV saml.status.channel_down_2 
+28 825 1 saml.status.TM_alarm_OV 
+28 826 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+28 827 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+28 828 4 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.channel_down 
+28 829 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+28 830 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+28 833 1 saml.status.TS_alarm_OV 
+28 835 1 saml.status.TS_alarm_OV 
+28 836 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+28 837 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+28 839 1 saml.status.TS_alarm_OV 
+28 840 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+28 841 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+28 842 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.channel_down_2 saml.status.channel_down 
+28 843 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+28 845 1 saml.status.TM_alarm_OV 
+28 846 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+28 847 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+28 848 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+30 816 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+30 826 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+30 830 1 saml.status.channel_PLO_RJU_down 
+30 834 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+30 842 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+31 814 3 saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 815 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 816 1 SAMEL_CM_communication_DOWN 
+31 817 1 SAMEL_CM_communication_DOWN 
+31 818 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 819 1 SAMEL_CM_communication_DOWN 
+31 820 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 821 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 822 1 SAMEL_CM_communication_DOWN 
+31 823 1 SAMEL_CM_communication_DOWN 
+31 824 1 SAMEL_CM_communication_DOWN 
+31 825 1 SAMEL_CM_communication_DOWN 
+31 826 1 SAMEL_CM_communication_DOWN 
+31 827 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 828 1 SAMEL_CM_communication_DOWN 
+31 829 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 830 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 831 1 SAMEL_CM_communication_DOWN 
+31 832 1 SAMEL_CM_communication_DOWN 
+31 833 8 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+31 835 1 SAMEL_CM_communication_DOWN 
+31 836 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 837 1 SAMEL_CM_communication_DOWN 
+31 838 1 SAMEL_CM_communication_DOWN 
+31 839 1 SAMEL_CM_communication_DOWN 
+31 840 8 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+31 841 1 SAMEL_CM_communication_DOWN 
+31 842 4 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_B_PCI_1_down 
+31 846 8 SAMEL_CM_communication_DOWN saml.status.channel_A_PCI_1_down saml.status.channel_B_PCI_1_down saml.status.channel_PCI_1_down saml.status.channel_A_PCI_2_down saml.status.channel_B_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_PLO_down 
+32 814 13 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_rect_nok saml.status.energy_connection_rack_general_failure saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 815 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_net2_disconnected 
+32 816 12 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 818 6 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_line2_nok 
+32 820 13 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_net2_disconnected 
+32 821 13 saml.status.alarm_EL_failure saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 823 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_rect_nok saml.status.energy_net2_disconnected 
+32 827 12 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok 
+32 828 10 saml.status.energy_PT_failure saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected 
+32 829 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 830 4 saml.status.energy_generator_running saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 832 6 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+32 833 4 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+32 836 4 saml.status.channel_B_PCI_SAM_down saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+32 837 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+32 840 4 saml.status.channel_B_PCI_SAM_down saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown 
+32 842 12 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.channel_B_PCI_SAM_down 
+32 843 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+32 846 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_B_PCI_SAM_down 
+32 847 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.energy_generator_running saml.status.energy_net2_not_present 
+33 816 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+33 820 1 saml.status.channel_A_CS_unknown 
+33 833 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+33 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+33 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+33 840 3 saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_unknown 
+33 842 4 saml.status.channel_B_CS_unknown saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_CS_unknown 
+33 846 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+34 814 3 saml.status.LI_alarm_EM_active_1 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+34 815 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+34 816 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+34 819 3 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+34 820 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+34 821 6 saml.status.channel_down saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.MS_alarm_RE saml.status.TM_alarm_OV 
+34 822 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 
+34 823 1 saml.status.TM_alarm_OV 
+34 824 1 saml.status.TM_alarm_OV 
+34 826 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+34 827 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+34 828 2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 
+34 829 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+34 830 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+34 835 1 saml.status.TS_alarm_OV 
+34 836 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+34 837 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 
+34 838 3 saml.status.MS_alarm_RE saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+34 840 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+34 841 4 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.LI_alarm_EM_active_2 saml.status.TM_alarm_OV 
+34 842 4 saml.status.LI_alarm_EM_active_1 saml.status.TS_alarm_OV saml.status.channel_down saml.status.TM_alarm_OV 
+34 843 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+34 844 1 saml.status.TM_alarm_OV 
+34 847 5 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.MS_alarm_RE 
+34 848 5 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.MS_alarm_RE 
+36 816 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 820 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 833 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 834 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 840 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 842 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+36 846 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+37 814 1 SAMEL_CM_communication_DOWN 
+37 815 1 SAMEL_CM_communication_DOWN 
+37 816 1 SAMEL_CM_communication_DOWN 
+37 817 1 SAMEL_CM_communication_DOWN 
+37 818 1 SAMEL_CM_communication_DOWN 
+37 819 1 SAMEL_CM_communication_DOWN 
+37 820 1 SAMEL_CM_communication_DOWN 
+37 821 1 SAMEL_CM_communication_DOWN 
+37 822 1 SAMEL_CM_communication_DOWN 
+37 823 1 SAMEL_CM_communication_DOWN 
+37 824 1 SAMEL_CM_communication_DOWN 
+37 825 1 SAMEL_CM_communication_DOWN 
+37 826 1 SAMEL_CM_communication_DOWN 
+37 827 1 SAMEL_CM_communication_DOWN 
+37 828 1 SAMEL_CM_communication_DOWN 
+37 829 1 SAMEL_CM_communication_DOWN 
+37 830 1 SAMEL_CM_communication_DOWN 
+37 831 1 SAMEL_CM_communication_DOWN 
+37 832 1 SAMEL_CM_communication_DOWN 
+37 833 1 SAMEL_CM_communication_DOWN 
+37 834 1 SAMEL_CM_communication_DOWN 
+37 835 4 saml.status.channel_A_PCI_2_down saml.status.channel_PCI_2_down saml.status.channel_B_PCI_2_down SAMEL_CM_communication_DOWN 
+37 836 1 SAMEL_CM_communication_DOWN 
+37 837 1 SAMEL_CM_communication_DOWN 
+37 838 1 SAMEL_CM_communication_DOWN 
+37 839 1 SAMEL_CM_communication_DOWN 
+37 840 1 SAMEL_CM_communication_DOWN 
+37 841 1 SAMEL_CM_communication_DOWN 
+37 842 1 SAMEL_CM_communication_DOWN 
+38 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+38 835 3 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down 
+38 842 4 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down 
+39 814 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 815 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_48V_rect_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 820 8 saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok 
+39 821 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 823 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 827 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 828 10 saml.status.energy_PT_failure saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 829 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.energy_net2_disconnected 
+39 834 3 saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+39 835 6 saml.status.channel_A_CS_unknown saml.status.channel_CS_down saml.status.channel_A_CS_down saml.status.channel_B_PCI_SAM_down saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown 
+39 838 2 saml.status.channel_B_CS_unknown saml.status.channel_B_CS_down 
+39 842 15 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_48V_rect_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_48V_battery_nok saml.status.channel_A_CS_unknown saml.status.channel_B_CS_unknown saml.status.channel_CS_unknown saml.status.channel_CS_down saml.status.channel_B_CS_down saml.status.channel_A_CS_down saml.status.energy_net2_disconnected 
+40 814 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+40 815 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_2 saml.status.LI_alarm_EM_active_1 
+40 816 1 saml.status.TS_alarm_OV 
+40 817 1 saml.status.TS_alarm_OV 
+40 818 1 saml.status.TS_alarm_OV 
+40 819 3 saml.status.TS_alarm_OV saml.status.TM_alarm_OV saml.status.LI_alarm_EM_active_2 
+40 820 2 saml.status.LI_alarm_EM_active_2 saml.status.TS_alarm_OV 
+40 821 2 saml.status.channel_down saml.status.TS_alarm_OV 
+40 822 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 823 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 826 1 saml.status.TS_alarm_OV 
+40 827 3 saml.status.TS_alarm_OV saml.status.LI_alarm_EM_active_1 saml.status.TM_alarm_OV 
+40 828 1 saml.status.TS_alarm_OV 
+40 829 1 saml.status.TS_alarm_OV 
+40 832 1 saml.status.TM_alarm_OV 
+40 833 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 834 1 saml.status.TM_alarm_OV 
+40 835 1 saml.status.TS_alarm_OV 
+40 836 1 saml.status.TS_alarm_OV 
+40 837 3 saml.status.TM_alarm_OV saml.status.TS_alarm_OV saml.status.MS_alarm_RE 
+40 838 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+40 839 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 840 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 841 1 saml.status.TS_alarm_OV 
+40 842 2 saml.status.TS_alarm_OV saml.status.channel_down 
+40 843 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 846 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 847 2 saml.status.TS_alarm_OV saml.status.TM_alarm_OV 
+40 848 1 saml.status.TM_alarm_OV 
+41 834 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+41 842 2 saml.status.printer_inactive saml.status.connection_operator_connected 

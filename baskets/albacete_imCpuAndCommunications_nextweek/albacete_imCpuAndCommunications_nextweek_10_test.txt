@@ -1,0 +1,101 @@
+3 2225 1 saml.status.channel_B_down 
+8 2225 1 saml.status.ocs_channel_2_down_2 
+8 2226 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+8 2228 3 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+8 2229 3 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+8 2230 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+9 2225 1 saml.status.channel_B_down 
+9 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+9 2229 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+10 2225 1 saml.status.channel_B_down 
+10 2228 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+10 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+11 2225 1 saml.status.channel_B_down 
+11 2228 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+11 2229 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+15 2226 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+15 2228 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+15 2229 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+15 2230 3 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down saml.status.IM_CPU_2_down 
+16 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+17 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+18 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+18 2268 1 saml.status.channel_IM_down 
+21 2226 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+21 2227 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+21 2230 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+24 2225 1 saml.status.ocs_channel_2_down 
+24 2226 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+24 2228 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+24 2230 3 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+24 19308 1 saml.status.channel_down_2 
+24 50073 1 saml.status.channel_down_2 
+28 2225 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+28 2226 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+28 2227 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+28 2228 3 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+28 2229 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+28 2230 3 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down saml.status.IM_CPU_2_down 
+29 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+29 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+29 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+30 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+30 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+30 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+31 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+31 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+31 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+34 2225 1 saml.status.channel_down_2 
+34 2226 2 saml.status.channel_down_2 saml.status.channel_down 
+34 2228 5 saml.status.channel_down saml.status.channel_down_2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down saml.status.IM_CPU_2_down 
+34 2229 2 saml.status.channel_down saml.status.channel_down_2 
+34 2230 3 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+35 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+36 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+36 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+36 2230 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+37 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+37 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+37 2230 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+38 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+38 2229 2 saml.status.channel_B_down saml.status.channel_A_down 
+38 2230 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+41 2225 2 saml.status.channel_down_2 saml.status.channel_down 
+43 2224 1 saml.status.channel_B_down 
+44 2224 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+46 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+48 2226 3 saml.status.IM_CPU_2_down saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+48 2228 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+48 2229 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+49 2226 2 saml.status.channel_B_down saml.status.channel_A_down 
+50 2226 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+51 2226 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+55 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+60 2225 2 saml.status.channel_down saml.status.channel_down_2 
+60 2226 2 saml.status.channel_down saml.status.channel_down_2 
+60 2229 2 saml.status.channel_down_2 saml.status.channel_down 
+60 2230 2 saml.status.channel_down_2 saml.status.channel_down 
+67 2224 1 saml.status.ocs_channel_2_down_2 
+67 2225 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+67 2226 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+69 2227 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+73 2225 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+73 2226 1 saml.status.ocs_channel_2_down_2 
+73 2227 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+73 2228 3 saml.status.IM_CPU_2_down saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+73 2229 3 saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down saml.status.ocs_channel_2_down 
+73 2230 3 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down saml.status.IM_CPU_2_down 
+74 2228 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+74 2229 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+74 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+75 2228 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+75 2229 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+75 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+76 2224 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+76 2228 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+76 2229 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+76 2230 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+78 2224 1 saml.status.ocs_channel_2_down 
+78 2229 1 saml.status.ocs_channel_2_down_2 
+78 2230 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 

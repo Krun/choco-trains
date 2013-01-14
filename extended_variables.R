@@ -28,15 +28,26 @@ extend <- function(target, days=1) {
   allindexes = expand.grid(days, seqs)
   colnames(allindexes) <- c("eventID", "sequenceID")
   
-  for (i in 1:length(additional_columns)){
-    newid <- length(names(new)) + 1
-    new[,newid] = 0;
-    colnames(new)[newid] <- additional_columns[[i]]
-    for (j in 1:nrow(new)) {
-      sset <- prep[prep$eventID==new$eventID[[j]] & prep$sequenceID==new$sequenceID[[j]] & prep$ERROR == additional_columns[[i]],]
-      new[j,newid] <- nrow(sset)
+#   for (i in 1:length(additional_columns)){
+#     newid <- length(names(new)) + 1
+#     new[,newid] = 0;
+#     colnames(new)[newid] <- additional_columns[[i]]
+#     for (j in 1:nrow(new)) {
+#       sset <- prep[prep$eventID==new$eventID[[j]] & prep$sequenceID==new$sequenceID[[j]] & prep$ERROR == additional_columns[[i]],]
+#       new[j,newid] <- nrow(sset)
+#     }
+#   }
+  
+    for (i in 1:length(additional_columns)){
+      
+      newid <- length(names(new)) + 1
+      new[,newid] = 0;
+      colnames(new)[newid] <- additional_columns[[i]]
+      for (j in 1:nrow(new)) {
+        sset <- prep[prep$eventID==new$eventID[[j]] & prep$sequenceID==new$sequenceID[[j]] & prep$ERROR == additional_columns[[i]],]
+        new[j,newid] <- nrow(sset)
+      }
     }
-  }
   
   allindexes <- merge(allindexes,new,all.x=TRUE, by=c("eventID", "sequenceID"))
   allindexes[is.na(allindexes)] <- 0

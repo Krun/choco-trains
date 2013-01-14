@@ -1,0 +1,17 @@
+2 32 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 33 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 34 2 energy.status.preaisl.er energy.status.aisla--.er 
+2 35 3 energy.status.aisla--.er energy.status.preaisl.er energy.status.sai----.er 
+2 36 3 energy.status.sai----.er energy.status.aisla--.er energy.status.preaisl.er 
+2 37 3 energy.status.sai----.er energy.status.aisla--.er energy.status.preaisl.er 
+2 38 3 energy.status.sai----.er energy.status.aisla--.er energy.status.preaisl.er 
+2 39 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 40 2 energy.status.preaisl.er energy.status.aisla--.er 
+2 41 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 42 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 43 1 energy.status.preaisl.er 
+2 44 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 45 2 energy.status.aisla--.er energy.status.preaisl.er 
+2 46 2 energy.status.preaisl.er energy.status.aisla--.er 
+2 47 1 energy.status.preaisl.er 
+3 32 1 energy.status.aisla--.er 

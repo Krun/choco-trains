@@ -1,0 +1,45 @@
+3 225 1 saml.status.printer_inactive 
+3 227 1 saml.status.printer_inactive 
+3 265 1 saml.status.printer_inactive 
+3 268 1 saml.status.printer_inactive 
+3 269 1 saml.status.printer_inactive 
+3 275 1 saml.status.printer_inactive 
+3 283 1 saml.status.printer_inactive 
+3 284 1 saml.status.printer_inactive 
+9 282 1 saml.status.printer_inactive 
+16 270 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+16 284 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+22 283 1 saml.status.printer_inactive 
+22 284 1 saml.status.printer_inactive 
+22 285 1 saml.status.printer_inactive 
+29 282 1 saml.status.printer_inactive 
+35 283 1 saml.status.printer_inactive 
+35 284 1 saml.status.printer_inactive 
+35 285 1 saml.status.printer_inactive 
+49 284 1 saml.status.printer_inactive 
+53 257 1 saml.status.printer_inactive 
+53 261 1 saml.status.printer_inactive 
+53 268 1 saml.status.printer_inactive 
+53 269 1 saml.status.printer_inactive 
+53 279 1 saml.status.printer_inactive 
+53 282 1 saml.status.printer_inactive 
+53 285 1 saml.status.printer_inactive 
+68 222 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 223 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 224 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 225 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 226 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 227 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 228 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 229 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 230 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 233 2 saml.status.printer_inactive saml.status.connection_operator_connected 
+68 246 1 saml.status.printer_inactive 
+68 249 1 saml.status.printer_inactive 
+68 259 1 saml.status.printer_inactive 
+68 268 1 saml.status.printer_inactive 
+74 228 1 saml.status.printer_inactive 
+74 254 1 saml.status.printer_inactive 
+74 258 1 saml.status.printer_inactive 
+74 262 1 saml.status.printer_inactive 
+74 268 1 saml.status.printer_inactive 

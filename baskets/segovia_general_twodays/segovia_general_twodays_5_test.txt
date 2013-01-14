@@ -1,0 +1,940 @@
+1 356 1 pce.status.PCE_CM_communication_DOWN 
+1 359 1 pce.status.PCE_CM_communication_DOWN 
+1 360 1 pce.status.PCE_CM_communication_DOWN 
+1 361 1 pce.status.PCE_CM_communication_DOWN 
+1 362 1 pce.status.PCE_CM_communication_DOWN 
+2 242 1 ence.status.PCE_ENCE_communication_DOWN 
+2 243 1 ence.status.PCE_ENCE_communication_DOWN 
+2 248 1 ence.status.PCE_ENCE_communication_DOWN 
+2 261 1 ence.status.PCE_ENCE_communication_DOWN 
+2 268 1 ence.status.PCE_ENCE_communication_DOWN 
+2 269 1 ence.status.PCE_ENCE_communication_DOWN 
+2 276 1 ence.status.PCE_ENCE_communication_DOWN 
+2 278 1 ence.status.PCE_ENCE_communication_DOWN 
+2 279 1 ence.status.PCE_ENCE_communication_DOWN 
+2 281 1 ence.status.PCE_ENCE_communication_DOWN 
+2 282 1 ence.status.PCE_ENCE_communication_DOWN 
+2 283 1 ence.status.PCE_ENCE_communication_DOWN 
+2 284 1 ence.status.PCE_ENCE_communication_DOWN 
+2 285 1 ence.status.PCE_ENCE_communication_DOWN 
+2 288 1 ence.status.PCE_ENCE_communication_DOWN 
+2 290 1 ence.status.PCE_ENCE_communication_DOWN 
+2 297 1 ence.status.PCE_ENCE_communication_DOWN 
+2 299 1 ence.status.PCE_ENCE_communication_DOWN 
+2 307 1 ence.status.PCE_ENCE_communication_DOWN 
+2 313 1 ence.status.PCE_ENCE_communication_DOWN 
+2 326 1 ence.status.PCE_ENCE_communication_DOWN 
+2 332 1 ence.status.PCE_ENCE_communication_DOWN 
+2 333 1 ence.status.PCE_ENCE_communication_DOWN 
+2 334 1 ence.status.PCE_ENCE_communication_DOWN 
+2 341 1 ence.status.PCE_ENCE_communication_DOWN 
+2 343 1 ence.status.PCE_ENCE_communication_DOWN 
+2 356 1 ence.status.PCE_ENCE_communication_DOWN 
+2 359 1 ence.status.PCE_ENCE_communication_DOWN 
+2 360 1 ence.status.PCE_ENCE_communication_DOWN 
+2 361 1 ence.status.PCE_ENCE_communication_DOWN 
+2 362 1 ence.status.PCE_ENCE_communication_DOWN 
+3 242 1 ence.status.PCE_ENCE_communication_DOWN 
+3 261 1 ence.status.PCE_ENCE_communication_DOWN 
+3 268 1 ence.status.PCE_ENCE_communication_DOWN 
+3 269 1 ence.status.PCE_ENCE_communication_DOWN 
+3 279 1 ence.status.PCE_ENCE_communication_DOWN 
+3 280 1 ence.status.PCE_ENCE_communication_DOWN 
+3 281 1 ence.status.PCE_ENCE_communication_DOWN 
+3 282 1 ence.status.PCE_ENCE_communication_DOWN 
+3 294 1 ence.status.PCE_ENCE_communication_DOWN 
+3 297 1 ence.status.PCE_ENCE_communication_DOWN 
+3 299 1 ence.status.PCE_ENCE_communication_DOWN 
+3 300 1 ence.status.PCE_ENCE_communication_DOWN 
+3 301 1 ence.status.PCE_ENCE_communication_DOWN 
+3 304 1 ence.status.PCE_ENCE_communication_DOWN 
+3 305 1 ence.status.PCE_ENCE_communication_DOWN 
+3 306 1 ence.status.PCE_ENCE_communication_DOWN 
+3 307 1 ence.status.PCE_ENCE_communication_DOWN 
+3 314 1 ence.status.PCE_ENCE_communication_DOWN 
+3 326 1 ence.status.PCE_ENCE_communication_DOWN 
+3 332 1 ence.status.PCE_ENCE_communication_DOWN 
+3 333 1 ence.status.PCE_ENCE_communication_DOWN 
+3 334 1 ence.status.PCE_ENCE_communication_DOWN 
+3 344 1 ence.status.PCE_ENCE_communication_DOWN 
+3 352 1 ence.status.PCE_ENCE_communication_DOWN 
+3 356 1 ence.status.PCE_ENCE_communication_DOWN 
+3 359 1 ence.status.PCE_ENCE_communication_DOWN 
+3 360 1 ence.status.PCE_ENCE_communication_DOWN 
+3 361 1 ence.status.PCE_ENCE_communication_DOWN 
+3 362 1 ence.status.PCE_ENCE_communication_DOWN 
+4 242 1 ence.status.PCE_ENCE_communication_DOWN 
+4 243 1 ence.status.PCE_ENCE_communication_DOWN 
+4 246 1 ence.status.PCE_ENCE_communication_DOWN 
+4 256 1 ence.status.PCE_ENCE_communication_DOWN 
+4 258 1 ence.status.PCE_ENCE_communication_DOWN 
+4 263 1 ence.status.PCE_ENCE_communication_DOWN 
+4 264 1 ence.status.PCE_ENCE_communication_DOWN 
+4 268 1 ence.status.PCE_ENCE_communication_DOWN 
+4 269 1 ence.status.PCE_ENCE_communication_DOWN 
+4 278 1 ence.status.PCE_ENCE_communication_DOWN 
+4 279 1 ence.status.PCE_ENCE_communication_DOWN 
+4 283 1 ence.status.PCE_ENCE_communication_DOWN 
+4 284 1 ence.status.PCE_ENCE_communication_DOWN 
+4 297 1 ence.status.PCE_ENCE_communication_DOWN 
+4 302 1 ence.status.PCE_ENCE_communication_DOWN 
+4 307 1 ence.status.PCE_ENCE_communication_DOWN 
+4 309 1 ence.status.PCE_ENCE_communication_DOWN 
+4 327 1 ence.status.PCE_ENCE_communication_DOWN 
+4 332 1 ence.status.PCE_ENCE_communication_DOWN 
+4 333 1 ence.status.PCE_ENCE_communication_DOWN 
+4 334 1 ence.status.PCE_ENCE_communication_DOWN 
+4 335 1 ence.status.PCE_ENCE_communication_DOWN 
+4 338 1 ence.status.PCE_ENCE_communication_DOWN 
+4 340 1 ence.status.PCE_ENCE_communication_DOWN 
+4 343 1 ence.status.PCE_ENCE_communication_DOWN 
+4 356 1 ence.status.PCE_ENCE_communication_DOWN 
+4 359 1 ence.status.PCE_ENCE_communication_DOWN 
+4 360 1 ence.status.PCE_ENCE_communication_DOWN 
+4 361 1 ence.status.PCE_ENCE_communication_DOWN 
+4 362 1 ence.status.PCE_ENCE_communication_DOWN 
+5 269 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 270 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 271 1 clc.IM_CLC_connection_status_DOWN 
+5 300 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 301 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 306 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 307 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 320 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.BD_status_MISSING 
+5 322 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 323 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.BD_status_MISSING 
+5 325 1 clc.BD_status_MISSING 
+5 326 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.BD_status_MISSING 
+5 327 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 328 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+5 331 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 333 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 336 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 338 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 339 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 340 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 341 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 343 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 345 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 346 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 348 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 349 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 350 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 351 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 352 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 353 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 355 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 356 6 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_status_NOT_ALIVE_chann_BROKEN clc.BD_status_MISSING clc.IM_CLC_connection_status_DOWN clc.NCEC_status_ALIVE_chann_BROKEN 
+5 357 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 360 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+5 362 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 269 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 271 1 clc.IM_CLC_connection_status_DOWN 
+6 300 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 301 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 306 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 307 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 315 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 316 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 317 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 318 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 319 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 320 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 323 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 324 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 325 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 326 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 327 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 328 2 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 329 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 330 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 331 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 332 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 333 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 334 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 338 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 339 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 340 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 341 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 342 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 343 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 346 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 347 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 349 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 350 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 351 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 352 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 353 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 354 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 356 7 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN clc.CPU_status_DOWN clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel 
+6 360 3 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE clc.NCEC_status_ALIVE_chann_BROKEN clc.NCEC_status_NOT_ALIVE_chann_BROKEN 
+6 361 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+6 362 1 clc.NCEC_status_NOT_ALIVE_chann_ACTIVE 
+8 243 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 244 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 246 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 247 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 248 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 249 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 269 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 270 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 271 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 272 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 273 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 274 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 275 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 276 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 277 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 278 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 279 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 280 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 281 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 282 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 283 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 284 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 285 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 286 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 287 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 288 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 289 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 290 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 291 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 292 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 293 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 294 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 295 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 296 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 297 6 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.BD_status_MISSING clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 298 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 299 6 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.Fatal_error_system_down 
+8 300 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 301 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 302 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 303 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 304 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 305 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 306 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 307 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 308 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 309 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 310 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 312 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 313 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 314 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 315 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 316 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 317 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 318 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 319 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 320 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 321 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 323 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 325 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 326 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 327 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 328 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 329 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 330 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 331 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 332 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 333 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 334 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 335 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.IM_CLC_connection_status_DOWN 
+8 336 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 337 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 338 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 339 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 340 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 341 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 342 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 343 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 344 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 345 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 346 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 347 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 348 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 349 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 350 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 351 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 352 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 353 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 354 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 355 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 356 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+8 357 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 358 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 359 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+8 361 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+8 362 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 240 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 241 5 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 242 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.BD_status_MISSING 
+13 269 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 270 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 271 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 272 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 273 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+13 274 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 275 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 276 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 277 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 278 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 279 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 280 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 281 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 282 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 283 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 284 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+13 294 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 295 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 296 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 297 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+13 298 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.IM_CLC_connection_status_DOWN 
+13 299 5 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 300 8 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.BD_incorrect_version_telegram_channel clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+13 301 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 302 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 303 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 304 5 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.IM_CLC_connection_status_DOWN 
+13 305 5 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 306 8 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.BD_incorrect_version_telegram_channel clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+13 307 7 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.BD_incorrect_version_telegram_channel 
+13 308 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 309 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 310 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+13 311 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 312 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 313 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+13 314 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+13 315 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+13 316 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 317 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+13 356 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+13 357 5 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.BD_status_MISSING 
+13 358 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+13 359 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+13 360 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+13 361 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.BD_status_MISSING 
+13 362 5 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.BD_status_MISSING 
+14 240 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 241 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 242 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 243 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.IM_CLC_connection_status_DOWN 
+14 244 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 245 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 246 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 247 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+14 248 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 249 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 250 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 251 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 252 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 253 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 254 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 255 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 256 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 257 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 258 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 259 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 260 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 261 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 262 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+14 263 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 264 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 265 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 266 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 267 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.BD_status_MISSING 
+14 268 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+14 269 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 270 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+14 285 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 286 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 287 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 288 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 289 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 290 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 291 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 292 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 293 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 294 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 295 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 296 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 297 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+14 298 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 299 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 300 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+14 301 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 302 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 303 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 304 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 357 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 358 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+14 359 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 360 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 361 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+14 362 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+15 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 280 1 node.unit.monitor_detected_unit_DOWN 
+15 297 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 299 1 node.unit.monitor_detected_unit_DOWN 
+15 309 1 node.unit.monitor_detected_unit_DOWN 
+15 323 1 node.unit.monitor_detected_unit_DOWN 
+15 325 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+15 356 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+16 297 1 node.unit.monitor_detected_unit_DOWN 
+16 323 1 node.unit.monitor_detected_unit_DOWN 
+16 325 1 node.unit.monitor_detected_unit_DOWN 
+16 356 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 297 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 299 1 node.unit.monitor_detected_unit_DOWN 
+17 323 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+17 326 1 node.node_DOWN 
+17 328 1 node.node_DOWN 
+17 332 1 node.unit.monitor_detected_unit_DOWN 
+17 333 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+17 334 1 node.node_DOWN 
+17 338 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+17 356 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+17 359 1 node.node_DOWN 
+17 360 1 node.node_DOWN 
+17 361 1 node.node_DOWN 
+17 362 1 node.node_DOWN 
+18 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 300 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 304 1 node.unit.monitor_detected_unit_DOWN 
+18 326 1 node.node_DOWN 
+18 330 1 node.node_DOWN 
+18 332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+18 333 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+18 334 1 node.node_DOWN 
+18 356 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+19 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+19 268 1 node.unit.monitor_detected_unit_DOWN 
+19 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+19 270 1 node.unit.monitor_detected_unit_DOWN 
+19 300 1 node.unit.monitor_detected_unit_DOWN 
+19 304 1 node.unit.monitor_detected_unit_DOWN 
+19 326 1 node.node_DOWN 
+19 330 1 node.node_DOWN 
+19 332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+19 333 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+19 334 1 node.node_DOWN 
+19 356 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+20 242 1 node.unit.monitor_detected_unit_DOWN 
+20 269 1 node.unit.monitor_detected_unit_DOWN 
+20 297 1 node.unit.monitor_detected_unit_DOWN 
+20 332 1 node.unit.monitor_detected_unit_DOWN 
+20 333 1 node.unit.monitor_detected_unit_DOWN 
+20 334 1 node.unit.monitor_detected_unit_DOWN 
+20 356 1 node.unit.monitor_detected_unit_DOWN 
+20 359 1 node.unit.monitor_detected_unit_DOWN 
+20 360 1 node.unit.monitor_detected_unit_DOWN 
+20 361 1 node.unit.monitor_detected_unit_DOWN 
+20 362 1 node.unit.monitor_detected_unit_DOWN 
+21 360 1 ence.status.PCE_ENCE_communication_DOWN 
+21 361 1 ence.status.PCE_ENCE_communication_DOWN 
+21 362 1 ence.status.PCE_ENCE_communication_DOWN 
+22 242 1 rbc.status.RBC_FAILED 
+22 245 1 rbc.status.RBC_FAILED 
+22 249 1 rbc.status.RBC_FAILED 
+22 269 1 rbc.status.RBC_FAILED 
+22 271 1 rbc.status.RBC_FAILED 
+22 282 1 rbc.status.RBC_FAILED 
+22 283 1 rbc.status.RBC_FAILED 
+22 294 1 rbc.status.RBC_FAILED 
+22 296 1 rbc.status.RBC_FAILED 
+22 297 1 rbc.status.RBC_FAILED 
+22 298 1 rbc.status.RBC_FAILED 
+22 299 1 rbc.status.RBC_FAILED 
+22 309 1 rbc.status.RBC_FAILED 
+22 321 1 rbc.status.RBC_FAILED 
+22 323 1 rbc.status.RBC_FAILED 
+22 326 1 rbc.status.RBC_FAILED 
+22 328 1 rbc.status.RBC_FAILED 
+22 332 1 rbc.status.RBC_FAILED 
+22 333 1 rbc.status.RBC_FAILED 
+22 334 1 rbc.status.RBC_FAILED 
+22 338 1 rbc.status.RBC_FAILED 
+22 343 1 rbc.status.RBC_FAILED 
+22 356 1 rbc.status.RBC_FAILED 
+22 359 1 rbc.status.RBC_FAILED 
+22 360 1 rbc.status.RBC_FAILED 
+22 361 1 rbc.status.RBC_FAILED 
+22 362 1 rbc.status.RBC_FAILED 
+23 242 1 ence.status.PCE_ENCE_communication_DOWN 
+23 248 1 ence.status.PCE_ENCE_communication_DOWN 
+23 269 1 ence.status.PCE_ENCE_communication_DOWN 
+23 273 1 ence.status.PCE_ENCE_communication_DOWN 
+23 278 1 ence.status.PCE_ENCE_communication_DOWN 
+23 279 1 ence.status.PCE_ENCE_communication_DOWN 
+23 295 1 ence.status.PCE_ENCE_communication_DOWN 
+23 297 1 ence.status.PCE_ENCE_communication_DOWN 
+23 300 1 ence.status.PCE_ENCE_communication_DOWN 
+23 321 1 ence.status.PCE_ENCE_communication_DOWN 
+23 326 1 ence.status.PCE_ENCE_communication_DOWN 
+23 332 1 ence.status.PCE_ENCE_communication_DOWN 
+23 333 1 ence.status.PCE_ENCE_communication_DOWN 
+23 334 1 ence.status.PCE_ENCE_communication_DOWN 
+23 337 1 ence.status.PCE_ENCE_communication_DOWN 
+23 343 1 ence.status.PCE_ENCE_communication_DOWN 
+23 351 1 ence.status.PCE_ENCE_communication_DOWN 
+23 355 1 ence.status.PCE_ENCE_communication_DOWN 
+23 356 1 ence.status.PCE_ENCE_communication_DOWN 
+23 359 1 ence.status.PCE_ENCE_communication_DOWN 
+23 360 1 ence.status.PCE_ENCE_communication_DOWN 
+23 361 1 ence.status.PCE_ENCE_communication_DOWN 
+23 362 1 ence.status.PCE_ENCE_communication_DOWN 
+24 242 1 ence.status.PCE_ENCE_communication_DOWN 
+24 247 1 ence.status.PCE_ENCE_communication_DOWN 
+24 261 1 ence.status.PCE_ENCE_communication_DOWN 
+24 263 1 ence.status.PCE_ENCE_communication_DOWN 
+24 269 1 ence.status.PCE_ENCE_communication_DOWN 
+24 272 1 ence.status.PCE_ENCE_communication_DOWN 
+24 278 1 ence.status.PCE_ENCE_communication_DOWN 
+24 279 1 ence.status.PCE_ENCE_communication_DOWN 
+24 280 1 ence.status.PCE_ENCE_communication_DOWN 
+24 286 1 ence.status.PCE_ENCE_communication_DOWN 
+24 288 1 ence.status.PCE_ENCE_communication_DOWN 
+24 297 1 ence.status.PCE_ENCE_communication_DOWN 
+24 299 1 ence.status.PCE_ENCE_communication_DOWN 
+24 315 1 ence.status.PCE_ENCE_communication_DOWN 
+24 318 1 ence.status.PCE_ENCE_communication_DOWN 
+24 319 1 ence.status.PCE_ENCE_communication_DOWN 
+24 326 1 ence.status.PCE_ENCE_communication_DOWN 
+24 332 1 ence.status.PCE_ENCE_communication_DOWN 
+24 333 1 ence.status.PCE_ENCE_communication_DOWN 
+24 334 1 ence.status.PCE_ENCE_communication_DOWN 
+24 336 1 ence.status.PCE_ENCE_communication_DOWN 
+24 337 1 ence.status.PCE_ENCE_communication_DOWN 
+24 355 1 ence.status.PCE_ENCE_communication_DOWN 
+24 356 1 ence.status.PCE_ENCE_communication_DOWN 
+24 359 1 ence.status.PCE_ENCE_communication_DOWN 
+24 360 1 ence.status.PCE_ENCE_communication_DOWN 
+24 361 1 ence.status.PCE_ENCE_communication_DOWN 
+24 362 1 ence.status.PCE_ENCE_communication_DOWN 
+25 242 1 ence.status.PCE_ENCE_communication_DOWN 
+25 243 1 ence.status.PCE_ENCE_communication_DOWN 
+25 269 1 ence.status.PCE_ENCE_communication_DOWN 
+25 270 1 ence.status.PCE_ENCE_communication_DOWN 
+25 271 1 ence.status.PCE_ENCE_communication_DOWN 
+25 275 1 ence.status.PCE_ENCE_communication_DOWN 
+25 279 1 ence.status.PCE_ENCE_communication_DOWN 
+25 281 1 ence.status.PCE_ENCE_communication_DOWN 
+25 287 1 ence.status.PCE_ENCE_communication_DOWN 
+25 291 1 ence.status.PCE_ENCE_communication_DOWN 
+25 293 1 ence.status.PCE_ENCE_communication_DOWN 
+25 296 1 ence.status.PCE_ENCE_communication_DOWN 
+25 297 1 ence.status.PCE_ENCE_communication_DOWN 
+25 302 1 ence.status.PCE_ENCE_communication_DOWN 
+25 306 1 ence.status.PCE_ENCE_communication_DOWN 
+25 307 1 ence.status.PCE_ENCE_communication_DOWN 
+25 321 1 ence.status.PCE_ENCE_communication_DOWN 
+25 326 1 ence.status.PCE_ENCE_communication_DOWN 
+25 332 1 ence.status.PCE_ENCE_communication_DOWN 
+25 333 1 ence.status.PCE_ENCE_communication_DOWN 
+25 334 1 ence.status.PCE_ENCE_communication_DOWN 
+25 348 1 ence.status.PCE_ENCE_communication_DOWN 
+25 352 1 ence.status.PCE_ENCE_communication_DOWN 
+25 353 1 ence.status.PCE_ENCE_communication_DOWN 
+25 356 1 ence.status.PCE_ENCE_communication_DOWN 
+25 358 1 ence.status.PCE_ENCE_communication_DOWN 
+25 359 1 ence.status.PCE_ENCE_communication_DOWN 
+25 360 1 ence.status.PCE_ENCE_communication_DOWN 
+25 361 1 ence.status.PCE_ENCE_communication_DOWN 
+25 362 1 ence.status.PCE_ENCE_communication_DOWN 
+26 240 1 ence.status.PCE_ENCE_communication_DOWN 
+26 242 1 ence.status.PCE_ENCE_communication_DOWN 
+26 243 1 ence.status.PCE_ENCE_communication_DOWN 
+26 248 1 ence.status.PCE_ENCE_communication_DOWN 
+26 249 1 ence.status.PCE_ENCE_communication_DOWN 
+26 252 1 ence.status.PCE_ENCE_communication_DOWN 
+26 265 1 ence.status.PCE_ENCE_communication_DOWN 
+26 269 1 ence.status.PCE_ENCE_communication_DOWN 
+26 270 1 ence.status.PCE_ENCE_communication_DOWN 
+26 276 1 ence.status.PCE_ENCE_communication_DOWN 
+26 279 1 ence.status.PCE_ENCE_communication_DOWN 
+26 285 1 ence.status.PCE_ENCE_communication_DOWN 
+26 288 1 ence.status.PCE_ENCE_communication_DOWN 
+26 297 1 ence.status.PCE_ENCE_communication_DOWN 
+26 307 1 ence.status.PCE_ENCE_communication_DOWN 
+26 326 1 ence.status.PCE_ENCE_communication_DOWN 
+26 332 1 ence.status.PCE_ENCE_communication_DOWN 
+26 333 1 ence.status.PCE_ENCE_communication_DOWN 
+26 334 1 ence.status.PCE_ENCE_communication_DOWN 
+26 337 1 ence.status.PCE_ENCE_communication_DOWN 
+26 356 1 ence.status.PCE_ENCE_communication_DOWN 
+26 359 1 ence.status.PCE_ENCE_communication_DOWN 
+26 360 1 ence.status.PCE_ENCE_communication_DOWN 
+26 361 1 ence.status.PCE_ENCE_communication_DOWN 
+26 362 1 ence.status.PCE_ENCE_communication_DOWN 
+27 348 3 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+27 349 1 clc.SAMCLC_CLC_connection_status_DOWN 
+27 353 2 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN 
+27 354 7 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+27 355 7 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+27 356 5 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+27 359 4 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+27 360 6 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+27 361 5 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.SAMCLC_CLC_connection_status_DOWN 
+27 362 4 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+28 348 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.SAMCLC_CLC_connection_status_DOWN 
+28 349 1 clc.SAMCLC_CLC_connection_status_DOWN 
+28 353 2 clc.BD_status_MISSING clc.SAMCLC_CLC_connection_status_DOWN 
+28 354 6 clc.SAMCLC_CLC_connection_status_DOWN clc.BD_status_MISSING clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+28 355 4 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+28 356 5 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+28 359 3 clc.SAMCLC_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+28 360 7 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.BD_status_MISSING clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+28 361 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.SAMCLC_CLC_connection_status_DOWN 
+30 243 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 269 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 273 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 281 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 282 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 287 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 300 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 301 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 303 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 306 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 307 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 309 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 311 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 312 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 314 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 315 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 316 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 317 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 318 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 319 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 320 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 321 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 322 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 324 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 325 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 326 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 327 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 328 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 329 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 330 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 331 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 332 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 333 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 334 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 335 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 336 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 337 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 338 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 339 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 340 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 341 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 342 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 344 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 345 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 346 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 347 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 348 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 349 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 350 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 351 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 352 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 353 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 354 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+30 355 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+30 356 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+30 357 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+30 358 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+30 359 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+30 360 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+30 361 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+31 286 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+31 352 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+31 354 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+31 355 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+31 356 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+31 357 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+31 359 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+31 360 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+31 361 3 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+32 242 1 node.unit.monitor_detected_unit_DOWN 
+32 269 1 node.unit.monitor_detected_unit_DOWN 
+32 297 1 node.unit.monitor_detected_unit_DOWN 
+32 299 1 node.unit.monitor_detected_unit_DOWN 
+32 323 1 node.unit.monitor_detected_unit_DOWN 
+32 326 1 node.unit.monitor_detected_unit_DOWN 
+32 333 1 node.unit.monitor_detected_unit_DOWN 
+32 356 1 node.unit.monitor_detected_unit_DOWN 
+32 359 1 node.unit.monitor_detected_unit_DOWN 
+32 360 1 node.unit.monitor_detected_unit_DOWN 
+32 361 1 node.unit.monitor_detected_unit_DOWN 
+33 244 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 270 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 272 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 278 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 281 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 282 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 283 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 284 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 290 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 297 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+33 299 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 301 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 302 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 306 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 308 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 309 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 311 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 312 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 313 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 314 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 315 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 316 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 317 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 318 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 319 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 322 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 323 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 324 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 325 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 326 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 327 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 328 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+33 329 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 330 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 331 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 332 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 333 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 334 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 335 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 336 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 337 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 338 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 339 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 340 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 341 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 343 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 344 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 345 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 346 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 347 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 348 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 349 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 350 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+33 353 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 354 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+33 355 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+33 356 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 358 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+33 359 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+33 360 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+33 361 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO 
+34 269 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 270 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.SAMCLC_CLC_connection_status_DOWN 
+34 275 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 276 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 277 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 279 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 281 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 282 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 283 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 284 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 294 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 295 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 296 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 297 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 298 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 299 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 300 4 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO 
+34 301 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 302 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 303 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 304 4 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 331 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 332 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 334 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 335 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 336 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 337 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 338 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 341 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 342 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 343 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 344 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 345 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 346 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 347 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 348 3 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.IM_CLC_connection_status_DOWN 
+34 349 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 350 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 351 2 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 352 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 353 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 354 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 355 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 356 1 clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 357 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 358 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+34 359 1 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP 
+34 361 2 clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO 
+36 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 244 1 node.unit.monitor_detected_unit_DOWN 
+36 269 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+36 270 1 node.unit.monitor_detected_unit_DOWN 
+36 275 1 node.unit.monitor_detected_unit_DOWN 
+36 299 1 node.unit.monitor_detected_unit_DOWN 
+36 323 1 node.unit.monitor_detected_unit_DOWN 
+36 327 1 node.unit.monitor_detected_unit_DOWN 
+36 333 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+36 356 1 node.unit.monitor_detected_unit_DOWN 
+36 359 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 297 1 node.node_DOWN 
+37 307 1 node.unit.monitor_detected_unit_DOWN 
+37 347 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+37 349 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+37 353 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+37 359 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+37 360 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 297 1 node.node_DOWN 
+38 307 1 node.unit.monitor_detected_unit_DOWN 
+38 326 1 node.node_DOWN 
+38 333 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+38 334 1 node.node_DOWN 
+38 356 1 node.node_DOWN 
+38 359 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+38 360 1 node.node_DOWN 
+38 361 1 node.node_DOWN 
+39 321 1 node.unit.monitor_detected_unit_DOWN 
+39 359 1 node.unit.monitor_detected_unit_DOWN 
+40 242 1 rbc.status.RBC_FAILED 
+40 269 1 rbc.status.RBC_FAILED 
+40 326 1 rbc.status.RBC_FAILED 
+40 330 1 rbc.status.RBC_FAILED 
+40 332 1 rbc.status.RBC_FAILED 
+40 333 1 rbc.status.RBC_FAILED 
+40 334 1 rbc.status.RBC_FAILED 
+40 341 1 rbc.status.RBC_FAILED 
+40 349 1 rbc.status.RBC_FAILED 
+40 356 1 rbc.status.RBC_FAILED 
+40 359 1 rbc.status.RBC_FAILED 
+40 360 1 rbc.status.RBC_FAILED 
+40 361 1 rbc.status.RBC_FAILED 
+41 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 268 1 node.unit.monitor_detected_unit_DOWN 
+41 269 1 node.unit.monitor_detected_unit_DOWN 
+41 270 1 node.unit.monitor_detected_unit_DOWN 
+41 294 1 node.node_DOWN 
+41 300 1 node.unit.monitor_detected_unit_DOWN 
+41 304 1 node.unit.monitor_detected_unit_DOWN 
+41 326 1 node.node_DOWN 
+41 333 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+41 356 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 268 1 node.unit.monitor_detected_unit_DOWN 
+42 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 270 1 node.unit.monitor_detected_unit_DOWN 
+42 274 1 node.unit.monitor_detected_unit_DOWN 
+42 300 1 node.unit.monitor_detected_unit_DOWN 
+42 304 1 node.unit.monitor_detected_unit_DOWN 
+42 330 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 332 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+42 333 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+42 334 1 node.node_DOWN 
+42 356 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+42 359 1 node.node_DOWN 
+42 360 1 node.node_DOWN 
+42 361 1 node.node_DOWN 
+43 340 1 node.node_DOWN 
+43 359 1 node.node_DOWN 
+43 360 1 node.node_DOWN 
+43 361 1 node.node_DOWN 
+44 242 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 245 1 node.unit.monitor_detected_unit_DOWN 
+44 249 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 269 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 289 1 node.unit.monitor_detected_unit_DOWN 
+44 296 1 node.unit.monitor_detected_unit_DOWN 
+44 297 2 node.node_DOWN node.unit.monitor_detected_unit_DOWN 
+44 298 2 node.unit.monitor_detected_unit_DOWN node.unit.unit_DOWN 
+44 299 1 node.unit.monitor_detected_unit_DOWN 
+44 315 1 node.unit.monitor_detected_unit_DOWN 
+44 319 1 node.unit.monitor_detected_unit_DOWN 
+44 320 1 node.unit.monitor_detected_unit_DOWN 
+44 321 1 node.unit.monitor_detected_unit_DOWN 
+44 323 1 node.unit.monitor_detected_unit_DOWN 
+44 326 1 node.unit.monitor_detected_unit_DOWN 
+44 328 1 node.unit.monitor_detected_unit_DOWN 
+44 330 1 node.unit.monitor_detected_unit_DOWN 
+44 332 1 node.unit.monitor_detected_unit_DOWN 
+44 333 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 338 2 node.unit.monitor_detected_unit_DOWN node.node_DOWN 
+44 343 1 node.unit.monitor_detected_unit_DOWN 
+44 351 1 node.unit.monitor_detected_unit_DOWN 
+44 356 2 node.unit.monitor_detected_unit_DOWN node.unit.network_adapter_DOWN 
+44 359 1 node.unit.monitor_detected_unit_DOWN 
+44 360 1 node.unit.monitor_detected_unit_DOWN 
+44 361 1 node.unit.monitor_detected_unit_DOWN 
+49 242 1 ence.status.PCE_ENCE_communication_DOWN 
+49 250 1 ence.status.PCE_ENCE_communication_DOWN 
+49 267 1 ence.status.PCE_ENCE_communication_DOWN 
+49 269 1 ence.status.PCE_ENCE_communication_DOWN 
+49 274 1 ence.status.PCE_ENCE_communication_DOWN 
+49 279 1 ence.status.PCE_ENCE_communication_DOWN 
+49 280 1 ence.status.PCE_ENCE_communication_DOWN 
+49 282 1 ence.status.PCE_ENCE_communication_DOWN 
+49 284 1 ence.status.PCE_ENCE_communication_DOWN 
+49 296 1 ence.status.PCE_ENCE_communication_DOWN 
+49 297 1 ence.status.PCE_ENCE_communication_DOWN 
+49 299 1 ence.status.PCE_ENCE_communication_DOWN 
+49 300 1 ence.status.PCE_ENCE_communication_DOWN 
+49 311 1 ence.status.PCE_ENCE_communication_DOWN 
+49 326 1 ence.status.PCE_ENCE_communication_DOWN 
+49 332 1 ence.status.PCE_ENCE_communication_DOWN 
+49 333 1 ence.status.PCE_ENCE_communication_DOWN 
+49 334 1 ence.status.PCE_ENCE_communication_DOWN 
+49 345 1 ence.status.PCE_ENCE_communication_DOWN 
+49 348 1 ence.status.PCE_ENCE_communication_DOWN 
+49 349 1 ence.status.PCE_ENCE_communication_DOWN 
+49 356 1 ence.status.PCE_ENCE_communication_DOWN 
+49 359 1 ence.status.PCE_ENCE_communication_DOWN 
+49 360 1 ence.status.PCE_ENCE_communication_DOWN 
+49 361 1 ence.status.PCE_ENCE_communication_DOWN 
+50 239 1 ence.status.PCE_ENCE_communication_DOWN 
+50 240 1 ence.status.PCE_ENCE_communication_DOWN 
+50 241 1 ence.status.PCE_ENCE_communication_DOWN 
+50 242 1 ence.status.PCE_ENCE_communication_DOWN 
+50 243 1 ence.status.PCE_ENCE_communication_DOWN 
+50 246 1 ence.status.PCE_ENCE_communication_DOWN 
+50 257 1 ence.status.PCE_ENCE_communication_DOWN 
+50 269 1 ence.status.PCE_ENCE_communication_DOWN 
+50 279 1 ence.status.PCE_ENCE_communication_DOWN 
+50 281 1 ence.status.PCE_ENCE_communication_DOWN 
+50 286 1 ence.status.PCE_ENCE_communication_DOWN 
+50 288 1 ence.status.PCE_ENCE_communication_DOWN 
+50 292 1 ence.status.PCE_ENCE_communication_DOWN 
+50 295 1 ence.status.PCE_ENCE_communication_DOWN 
+50 296 1 ence.status.PCE_ENCE_communication_DOWN 
+50 297 1 ence.status.PCE_ENCE_communication_DOWN 
+50 299 1 ence.status.PCE_ENCE_communication_DOWN 
+50 307 1 ence.status.PCE_ENCE_communication_DOWN 
+50 311 1 ence.status.PCE_ENCE_communication_DOWN 
+50 315 1 ence.status.PCE_ENCE_communication_DOWN 
+50 329 1 ence.status.PCE_ENCE_communication_DOWN 
+50 332 1 ence.status.PCE_ENCE_communication_DOWN 
+50 333 1 ence.status.PCE_ENCE_communication_DOWN 
+50 334 1 ence.status.PCE_ENCE_communication_DOWN 
+50 335 1 ence.status.PCE_ENCE_communication_DOWN 
+50 342 1 ence.status.PCE_ENCE_communication_DOWN 
+50 350 1 ence.status.PCE_ENCE_communication_DOWN 
+50 355 1 ence.status.PCE_ENCE_communication_DOWN 
+50 356 1 ence.status.PCE_ENCE_communication_DOWN 
+50 359 1 ence.status.PCE_ENCE_communication_DOWN 
+50 360 1 ence.status.PCE_ENCE_communication_DOWN 
+50 361 1 ence.status.PCE_ENCE_communication_DOWN 

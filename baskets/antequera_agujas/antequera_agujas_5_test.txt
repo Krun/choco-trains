@@ -1,0 +1,120 @@
+1 98 1 saml.status.PT_alarm_MA_supervision_nok 
+1 106 2 saml.status.PT_alarm_MA_supervision_nok saml.status.PT_no_energy_to_move 
+1 112 1 saml.status.PT_alarm_MA_supervision_nok 
+3 98 1 saml.status.TM_alarm_OV 
+3 99 1 saml.status.TM_alarm_OV 
+3 100 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+3 101 1 saml.status.TM_alarm_OV 
+3 104 1 saml.status.TM_alarm_OV 
+3 105 1 saml.status.TS_alarm_OV 
+3 106 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+3 107 1 saml.status.TM_alarm_OV 
+3 108 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+3 111 1 saml.status.TM_alarm_OV 
+3 112 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+3 113 1 saml.status.TM_alarm_OV 
+3 114 1 saml.status.TM_alarm_OV 
+3 115 1 saml.status.TM_alarm_OV 
+3 118 2 saml.status.TM_alarm_OV saml.status.TS_alarm_OV 
+3 119 1 saml.status.TM_alarm_OV 
+6 115 1 saml.status.alarm_EL_failure 
+7 97 1 saml.status.TM_alarm_OV 
+7 101 1 saml.status.TM_alarm_OV 
+7 102 1 saml.status.TM_alarm_OV 
+7 104 1 saml.status.TM_alarm_OV 
+7 105 1 saml.status.TM_alarm_OV 
+7 106 1 saml.status.TM_alarm_OV 
+7 107 1 saml.status.TM_alarm_OV 
+7 108 1 saml.status.TM_alarm_OV 
+7 111 1 saml.status.TM_alarm_OV 
+7 112 1 saml.status.TM_alarm_OV 
+7 113 1 saml.status.TM_alarm_OV 
+7 114 1 saml.status.TM_alarm_OV 
+7 115 2 saml.status.PT_sensor_failure saml.status.TM_alarm_OV 
+7 119 1 saml.status.TM_alarm_OV 
+8 106 2 saml.status.PT_alarm_AG_supervision_nok saml.status.PT_alarm_MA_supervision_nok 
+8 110 1 saml.status.PT_alarm_MA_supervision_nok 
+11 98 1 saml.status.TM_alarm_OV 
+11 99 1 saml.status.TM_alarm_OV 
+11 100 1 saml.status.TM_alarm_OV 
+11 106 1 saml.status.TM_alarm_OV 
+11 107 1 saml.status.TM_alarm_OV 
+11 110 1 saml.status.TM_alarm_OV 
+13 98 1 saml.status.PT_alarm_MA_supervision_nok 
+13 107 1 saml.status.PT_alarm_MA_supervision_nok 
+13 109 1 saml.status.PT_alarm_MA_supervision_nok 
+13 112 1 saml.status.PT_alarm_MA_supervision_nok 
+13 115 1 saml.status.PT_alarm_MA_supervision_nok 
+13 116 1 saml.status.PT_alarm_MA_supervision_nok 
+13 118 1 saml.status.PT_alarm_MA_supervision_nok 
+13 119 1 saml.status.PT_alarm_MA_supervision_nok 
+14 109 1 saml.status.alarm_EL_failure 
+17 97 1 saml.status.TM_alarm_OV 
+17 98 1 saml.status.TM_alarm_OV 
+17 99 1 saml.status.TM_alarm_OV 
+17 100 1 saml.status.TM_alarm_OV 
+17 101 1 saml.status.TM_alarm_OV 
+17 104 1 saml.status.TM_alarm_OV 
+17 105 1 saml.status.TM_alarm_OV 
+17 106 1 saml.status.TM_alarm_OV 
+17 107 1 saml.status.TM_alarm_OV 
+17 108 1 saml.status.TM_alarm_OV 
+17 109 2 saml.status.PT_sensor_failure saml.status.TM_alarm_OV 
+17 110 1 saml.status.TM_alarm_OV 
+17 111 1 saml.status.TM_alarm_OV 
+17 112 2 saml.status.PT_sensor_failure saml.status.TM_alarm_OV 
+17 113 1 saml.status.TM_alarm_OV 
+17 114 1 saml.status.TM_alarm_OV 
+17 115 1 saml.status.TM_alarm_OV 
+17 116 1 saml.status.TM_alarm_OV 
+17 118 1 saml.status.TM_alarm_OV 
+17 119 1 saml.status.TM_alarm_OV 
+18 98 1 saml.status.PT_alarm_MA_supervision_nok 
+18 99 1 saml.status.PT_alarm_AG_supervision_nok 
+18 100 2 saml.status.PT_alarm_AG_supervision_nok saml.status.PT_data_nok 
+18 103 1 saml.status.PT_alarm_MA_supervision_nok 
+18 104 1 saml.status.PT_alarm_MA_supervision_nok 
+18 105 2 saml.status.PT_alarm_AG_supervision_nok saml.status.PT_data_nok 
+19 100 1 saml.status.alarm_EL_failure 
+19 105 1 saml.status.alarm_EL_failure 
+23 99 1 saml.status.TM_alarm_OV 
+23 100 1 saml.status.TM_alarm_OV 
+23 101 1 saml.status.TM_alarm_OV 
+23 104 1 saml.status.TM_alarm_OV 
+23 105 1 saml.status.TM_alarm_OV 
+23 106 1 saml.status.TM_alarm_OV 
+23 107 1 saml.status.TM_alarm_OV 
+23 108 1 saml.status.TM_alarm_OV 
+23 109 1 saml.status.TM_alarm_OV 
+23 111 1 saml.status.TM_alarm_OV 
+23 113 1 saml.status.TM_alarm_OV 
+23 114 1 saml.status.TM_alarm_OV 
+23 115 1 saml.status.TM_alarm_OV 
+23 118 1 saml.status.TM_alarm_OV 
+25 109 1 saml.status.alarm_EL_failure 
+27 100 1 saml.status.TM_alarm_OV 
+27 109 1 saml.status.TM_alarm_OV 
+27 112 1 saml.status.TM_alarm_OV 
+27 115 1 saml.status.TM_alarm_OV 
+27 116 1 saml.status.TM_alarm_OV 
+28 97 1 saml.status.PT_alarm_MA_supervision_nok 
+28 109 2 saml.status.PT_data_nok saml.status.TM_data_nok 
+28 111 1 saml.status.PT_alarm_MA_supervision_nok 
+28 112 1 saml.status.PT_alarm_MA_supervision_nok 
+28 113 1 saml.status.PT_alarm_MA_supervision_nok 
+31 98 1 saml.status.TM_alarm_OV 
+31 99 1 saml.status.TM_alarm_OV 
+31 100 1 saml.status.TM_alarm_OV 
+31 101 1 saml.status.TM_alarm_OV 
+31 105 1 saml.status.TM_alarm_OV 
+31 106 1 saml.status.TM_alarm_OV 
+31 107 1 saml.status.TM_alarm_OV 
+31 108 1 saml.status.TM_alarm_OV 
+31 109 1 saml.status.TM_alarm_OV 
+31 112 1 saml.status.TM_alarm_OV 
+31 113 1 saml.status.TM_alarm_OV 
+31 114 1 saml.status.TM_alarm_OV 
+31 116 1 saml.status.TM_alarm_OV 
+31 118 1 saml.status.TM_alarm_OV 
+32 99 1 saml.status.PT_alarm_MA_supervision_nok 
+32 105 1 saml.status.PT_alarm_MA_supervision_nok 

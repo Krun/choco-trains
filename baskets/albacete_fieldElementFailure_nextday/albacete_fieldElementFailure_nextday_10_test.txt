@@ -1,0 +1,739 @@
+4 15553 1 saml.status.energy_net2_not_present 
+4 15554 1 saml.status.energy_net2_not_present 
+4 15555 1 saml.status.energy_net2_not_present 
+4 15556 3 saml.status.energy_net2_not_present saml.status.energy_connection_rack_general_failure saml.status.energy_PT_failure 
+5 15558 1 saml.status.energy_net2_disconnected 
+5 15559 4 saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_PT_nok saml.status.energy_PT_failure saml.status.energy_generator_running 
+5 15561 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+5 15562 1 saml.status.energy_generator_running 
+5 15565 1 saml.status.energy_net2_not_present 
+5 15566 1 saml.status.energy_generator_running 
+5 15568 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+5 15569 1 saml.status.energy_net2_not_present 
+5 15571 1 saml.status.energy_net2_not_present 
+5 15573 1 saml.status.energy_net2_not_present 
+5 15576 1 saml.status.energy_generator_running 
+5 15578 1 saml.status.energy_net2_not_present 
+5 15579 4 saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+5 15580 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+5 15581 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+5 15582 3 saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+5 15583 7 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+5 15584 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected 
+5 15585 1 saml.status.energy_net2_not_present 
+5 15586 4 saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+5 15587 4 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+5 15588 4 saml.status.energy_net2_disconnected saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+5 15589 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present 
+5 15590 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+5 15591 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+5 15593 4 saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+5 15594 2 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok 
+5 15596 5 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+5 15597 2 saml.status.energy_net2_disconnected saml.status.energy_generator_running 
+5 15599 1 saml.status.energy_net2_not_present 
+5 15600 2 saml.status.energy_net2_not_present saml.status.energy_generator_running 
+5 15601 8 saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure 
+5 15602 2 saml.status.energy_net1_disconnected saml.status.energy_PT_failure 
+5 15603 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok 
+5 15604 8 saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected 
+5 15605 8 saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+5 15607 1 saml.status.energy_net2_not_present 
+5 15608 2 saml.status.energy_net2_not_present saml.status.energy_generator_running 
+5 15609 1 saml.status.energy_net2_not_present 
+5 15611 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+5 15613 5 saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+5 15614 1 saml.status.energy_net2_not_present 
+5 15615 5 saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+5 15616 2 saml.status.energy_net2_disconnected saml.status.energy_generator_running 
+7 15578 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+7 15587 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+7 15601 2 saml.status.PT_2_data_nok_PT_unknown_maintenance_code saml.status.PT_2_data_nok_PT 
+7 15604 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+8 15601 1 saml.status.PT_2_sensor_failure_PT 
+8 15602 1 saml.status.PT_2_sensor_failure_PT 
+8 15604 1 saml.status.PT_2_sensor_failure_PT 
+10 15553 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+10 15554 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+10 15555 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15556 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+10 15558 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok 
+10 15559 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_60V_rect_nok 
+10 15560 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok 
+10 15561 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+10 15562 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+10 15563 3 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+10 15565 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+10 15566 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+10 15567 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+10 15568 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+10 15569 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+10 15572 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+10 15573 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+10 15574 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+10 15575 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+10 15576 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+10 15578 1 saml.status.energy_net2_not_present 
+10 15579 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+10 15580 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+10 15581 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+10 15582 1 saml.status.energy_generator_running 
+10 15583 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+10 15584 4 saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present 
+10 15586 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+10 15587 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15588 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+10 15589 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+10 15590 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+10 15593 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+10 15594 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15595 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+10 15596 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15597 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+10 15601 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_fuel_level_low 
+10 15602 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+10 15603 4 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+10 15604 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected 
+10 15608 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15609 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+10 15611 6 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+10 15612 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+10 15613 4 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+10 15614 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+10 15615 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+10 15616 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+11 15604 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+11 15610 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+14 15563 1 saml.status.TRACK_data_nok_unknown_maintenance_code 
+17 15615 9 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+17 15616 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+18 15553 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+18 15554 3 saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15555 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15556 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15557 3 saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present 
+18 15558 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+18 15559 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+18 15560 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+18 15561 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+18 15562 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15565 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15566 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+18 15567 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+18 15568 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+18 15569 4 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected 
+18 15572 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15573 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok 
+18 15574 4 saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+18 15575 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+18 15576 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected 
+18 15579 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+18 15580 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+18 15581 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+18 15583 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+18 15584 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15586 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15587 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15588 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15589 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+18 15590 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+18 15591 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15593 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok 
+18 15594 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+18 15595 7 saml.status.energy_generator_fuel_level_low saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+18 15596 3 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running 
+18 15600 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15601 7 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+18 15602 4 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+18 15603 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+18 15604 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+18 15607 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+18 15608 11 saml.status.energy_connection_rack_general_failure saml.status.energy_PT_failure saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+18 15609 3 saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15610 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+18 15612 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+18 15613 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_not_present 
+18 15614 6 saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running 
+18 15616 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+20 15593 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+20 15596 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+21 15593 1 saml.status.PT_2_sensor_failure_PT 
+21 15596 1 saml.status.PT_2_sensor_failure_PT 
+23 15553 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+23 15554 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+23 15556 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+23 15557 4 saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+23 15558 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+23 15559 3 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+23 15560 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15561 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+23 15562 5 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+23 15565 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+23 15566 8 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+23 15567 4 saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+23 15568 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+23 15569 8 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+23 15572 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+23 15573 6 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running 
+23 15574 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15579 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+23 15580 8 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+23 15581 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+23 15582 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected 
+23 15583 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+23 15584 5 saml.status.energy_net2_disconnected saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+23 15586 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15587 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15588 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15589 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+23 15590 3 saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_net2_not_present 
+23 15591 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+23 15593 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present 
+23 15594 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+23 15595 6 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+23 15596 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15597 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+23 15598 5 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15600 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15602 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+23 15603 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+23 15604 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+23 15605 5 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+23 15607 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+23 15608 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+23 15609 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+23 15610 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+23 15613 4 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+23 15615 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure 
+23 15616 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+27 15590 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+27 15596 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+28 15602 1 saml.status.PT_2_sensor_failure_PT 
+30 15553 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+30 15554 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+30 15555 4 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+30 15556 1 saml.status.energy_SAI_PT_nok 
+30 15558 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15559 6 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15560 1 saml.status.energy_SAI_PT_nok 
+30 15562 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15563 4 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+30 15564 1 saml.status.energy_SAI_PT_nok 
+30 15565 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15566 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15567 4 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+30 15568 1 saml.status.energy_SAI_PT_nok 
+30 15571 4 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+30 15572 7 saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+30 15573 10 saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure 
+30 15574 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+30 15575 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+30 15576 10 saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure 
+30 15577 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+30 15579 9 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_switch_rack_general_failure 
+30 15580 9 saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected 
+30 15581 10 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure 
+30 15582 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+30 15583 8 saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok 
+30 15584 9 saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+30 15586 9 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_switch_rack_general_failure 
+30 15587 9 saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+30 15588 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+30 15589 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok 
+30 15590 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+30 15591 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+30 15592 2 saml.status.energy_SAI_PT_nok saml.status.energy_60V_rect_nok 
+30 15601 10 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_switch_rack_general_failure 
+30 15602 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+30 15603 10 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+30 15604 11 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+30 15605 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+30 15607 10 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_connection_rack_general_failure saml.status.energy_PT_failure 
+30 15608 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+30 15609 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+30 15610 9 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+30 15611 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+30 15612 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net2_not_present 
+30 15613 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15614 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+30 15615 8 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+30 15616 11 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_generator_running 
+30 15791 1 saml.status.energy_net1_not_present 
+30 19376 1 saml.status.energy_net1_not_present 
+31 15593 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok 
+31 15594 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+31 15595 9 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+31 15596 9 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_switch_rack_general_failure 
+31 15597 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+31 15598 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok 
+31 15599 4 saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+31 15600 1 saml.status.energy_SAI_PT_nok 
+31 15601 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+31 15609 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+33 15604 2 saml.status.PT_2_data_nok_PT_unknown_maintenance_code saml.status.PT_2_data_nok_PT 
+34 15578 1 saml.status.PT_sensor_failure 
+34 15582 1 saml.status.PT_sensor_failure 
+34 15601 1 saml.status.PT_sensor_failure 
+34 15604 1 saml.status.PT_2_sensor_failure_PT 
+34 15609 1 saml.status.PT_sensor_failure 
+37 15604 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+37 15605 1 saml.status.energy_SAI_PT_nok 
+37 15607 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+37 15608 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_generator_running 
+37 15609 7 saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+37 15610 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+37 15611 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+37 15615 9 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_60V_rect_nok saml.status.energy_SAI_ST_nok 
+37 15616 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+38 15553 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+38 15554 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+38 15556 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+38 15557 1 saml.status.energy_SAI_PT_nok 
+38 15558 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_generator_running 
+38 15559 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+38 15560 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok 
+38 15561 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+38 15562 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+38 15563 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+38 15565 4 saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+38 15566 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+38 15567 3 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+38 15568 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+38 15569 3 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok 
+38 15572 4 saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15573 3 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15574 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok 
+38 15575 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present 
+38 15576 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+38 15577 1 saml.status.energy_SAI_PT_nok 
+38 15579 6 saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok 
+38 15580 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+38 15581 3 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15582 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15584 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok 
+38 15585 1 saml.status.energy_SAI_PT_nok 
+38 15586 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15587 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15588 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+38 15589 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+38 15590 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+38 15591 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+38 15593 3 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15594 8 saml.status.energy_60V_rect_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+38 15595 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+38 15596 3 saml.status.energy_60V_rect_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15597 1 saml.status.energy_SAI_PT_nok 
+38 15601 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+38 15602 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+38 15603 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok 
+38 15604 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+38 15611 6 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_60V_rect_nok 
+38 15613 4 saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok 
+40 15554 2 saml.status.TS_data_nok saml.status.TM_data_nok 
+40 15561 1 saml.status.PT_data_nok 
+40 15565 3 saml.status.PT_data_nok saml.status.TM_data_nok saml.status.TS_data_nok 
+41 15565 1 saml.status.PT_sensor_failure 
+43 15565 9 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+43 15566 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+43 15567 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+43 15568 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+43 15569 7 saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+43 15572 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+43 15573 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+43 15574 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+43 15575 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+43 15576 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+43 15577 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+43 15579 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+43 15580 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+43 15581 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+43 15582 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+43 15583 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+43 15584 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+43 15586 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+43 2511521 1 saml.status.energy_net1_disconnected 
+44 15553 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_generator_running 
+44 15554 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+44 15556 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+44 15558 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+44 15559 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+44 15560 5 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+44 15561 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+44 15562 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+44 15563 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+44 15587 5 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+44 15588 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+44 15590 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok 
+44 15593 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+44 15594 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+44 15598 5 saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+44 15601 4 saml.status.energy_60V_rect_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_generator_running 
+44 15602 1 saml.status.energy_60V_rect_nok 
+44 15604 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+44 15608 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+44 15609 9 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_60V_rect_nok 
+44 15610 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+44 15611 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok 
+44 15612 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+44 15613 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+44 15614 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+44 15615 10 saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_60V_rect_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+44 15616 3 saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+46 15553 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+46 15554 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+46 15556 9 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+46 15557 5 saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+46 15558 8 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+46 15559 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+46 15560 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+46 15561 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+46 15562 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15563 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+46 15564 1 saml.status.energy_SAI_PT_nok 
+46 15565 7 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+46 15566 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_PT_nok 
+46 15567 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+46 15568 7 saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+46 15569 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15570 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+46 15572 6 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+46 15573 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15574 8 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok 
+46 15575 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+46 15576 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+46 15577 1 saml.status.energy_SAI_PT_nok 
+46 15579 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok 
+46 15580 8 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+46 15581 8 saml.status.energy_SAI_line2_nok saml.status.energy_connection_rack_general_failure saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+46 15582 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+46 15583 9 saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok 
+46 15584 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_net2_not_present 
+46 15585 1 saml.status.energy_SAI_PT_nok 
+46 15586 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+46 15587 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok 
+46 15588 11 saml.status.energy_60V_rect_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+46 15589 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+46 15590 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok 
+46 15591 3 saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+46 15592 3 saml.status.energy_net2_not_present saml.status.energy_60V_rect_nok saml.status.energy_SAI_PT_nok 
+46 15593 11 saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+46 15594 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15595 8 saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15596 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+46 15597 5 saml.status.energy_SAI_PT_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+46 15598 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+46 15600 3 saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+46 15601 11 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+46 15602 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+46 15603 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+46 15604 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+46 15605 4 saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_PT_nok 
+46 15606 1 saml.status.energy_net2_not_present 
+46 15607 10 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_PT_nok saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+46 15608 10 saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+46 15609 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+46 15610 10 saml.status.energy_60V_rect_nok saml.status.energy_SAI_PT_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok 
+46 15611 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+46 15612 8 saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_PT_nok 
+46 15613 5 saml.status.energy_SAI_PT_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+46 15614 4 saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+46 15615 11 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_60V_rect_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_general_failure saml.status.energy_switch_rack_general_failure 
+46 15616 10 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_60V_rect_nok saml.status.energy_net1_disconnected saml.status.energy_SAI_PT_nok saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+47 15610 2 saml.status.PT_2_data_nok_PT_unknown_maintenance_code saml.status.TRACK_data_nok_unknown_maintenance_code 
+48 15588 1 saml.status.PT_2_sensor_failure_PT 
+48 15610 1 saml.status.PT_2_sensor_failure_PT 
+50 15552 4 saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+50 15556 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_disconnected 
+50 15557 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+50 15559 3 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok 
+50 15560 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+50 15561 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+50 15562 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+50 15563 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+50 15564 1 saml.status.energy_net2_not_present 
+50 15565 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+50 15566 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+50 15567 10 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present 
+50 15568 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+50 15569 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+50 15571 2 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+50 15572 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+50 15573 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+50 15574 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+50 15575 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+50 15576 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+50 15577 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+50 15579 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+50 15580 9 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+50 15581 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+50 15582 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_generator_running 
+50 15583 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+50 15584 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+50 15586 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok 
+50 15587 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+50 15588 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+50 15589 10 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+50 15590 3 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running 
+50 15591 7 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+50 15594 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+50 15595 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+50 15596 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+50 15597 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+50 15598 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+50 15601 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+50 15602 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+50 15603 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net2_not_present 
+50 15604 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+50 15605 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+50 15608 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+50 15609 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+50 15610 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok 
+50 15611 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+50 15613 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+50 15614 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+50 15615 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+50 15616 4 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+50 892055 1 saml.status.energy_net1_not_present 
+52 15558 2 saml.status.PT_2_data_nok_PT_unknown_maintenance_code saml.status.PT_2_data_nok_PT 
+52 15562 3 saml.status.EN_2_data_nok saml.status.EN_2_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok_unknown_maintenance_code 
+54 15552 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+54 15553 9 saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+54 15554 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+54 15556 6 saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15558 10 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+54 15559 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok 
+54 15560 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+54 15561 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+54 15562 11 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_48V_rect_nok saml.status.energy_SAI_line2_nok 
+54 15563 5 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+54 15565 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+54 15566 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_generator_running 
+54 15567 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok 
+54 15568 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok 
+54 15569 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+54 15572 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+54 15573 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+54 15574 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+54 15575 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+54 15576 7 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+54 15578 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+54 15579 8 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+54 15580 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+54 15581 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+54 15582 10 saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure 
+54 15583 3 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_generator_running 
+54 15587 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15588 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15589 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15590 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok 
+54 15591 4 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_not_present 
+54 15593 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+54 15594 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+54 15595 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15596 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15597 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15598 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15602 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+54 15603 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok 
+54 15604 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+54 15605 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+54 15607 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+54 15608 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+54 15609 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+54 15610 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+54 15611 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+54 15612 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+54 15613 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+54 15614 4 saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+54 15615 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_generator_running 
+54 15616 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+56 15568 3 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+59 15582 1 saml.status.PT_data_nok 
+59 15612 1 saml.status.PT_data_nok 
+60 15582 1 saml.status.PT_sensor_failure 
+60 15612 1 saml.status.PT_sensor_failure 
+62 15552 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+62 15554 2 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+62 15556 1 saml.status.energy_net2_not_present 
+62 15559 4 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+62 15561 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+62 15565 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+62 15566 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+62 15567 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15568 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+62 15569 7 saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+62 15570 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+62 15571 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+62 15572 6 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+62 15573 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+62 15574 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+62 15575 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15576 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+62 15577 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+62 15579 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15580 9 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running 
+62 15581 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15582 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+62 15583 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+62 15584 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+62 15586 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok 
+62 15587 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+62 15588 9 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15589 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+62 15590 7 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+62 15591 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+62 15593 1 saml.status.energy_net2_not_present 
+62 15595 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+62 15596 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+62 15598 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+62 15600 1 saml.status.energy_SAI_ST_nok 
+62 15601 7 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+62 15602 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+62 15603 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+62 15605 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+62 15606 1 saml.status.energy_net2_not_present 
+62 15608 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+62 15609 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure 
+62 15611 2 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+62 15612 8 saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+62 15613 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+62 15614 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok 
+62 15615 7 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+62 15616 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok 
+62 892055 1 saml.status.energy_net1_disconnected 
+65 15552 1 saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+65 15559 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+65 15587 2 saml.status.CI_data_nok_unknown_maintenance_code saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+65 15588 3 saml.status.CI_data_nok_unknown_maintenance_code saml.status.PT_2_data_nok_PT_unknown_maintenance_code saml.status.TRACK_data_nok_unknown_maintenance_code 
+65 15593 2 saml.status.CI_data_nok_unknown_maintenance_code saml.status.PT_2_data_nok_PT_unknown_maintenance_code 
+65 15595 1 saml.status.MS_2_data_nok_unknown_maintenance_code 
+65 15610 1 saml.status.MS_2_data_nok_unknown_maintenance_code 
+67 15552 1 saml.status.PT_2_sensor_failure_PT 
+67 15559 1 saml.status.PT_2_sensor_failure_PT 
+69 15552 10 saml.status.energy_SAI_ST_nok saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+69 15553 7 saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok 
+69 15554 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+69 15556 7 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_PT_failure 
+69 15558 10 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_general_failure saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok 
+69 15559 8 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_net1_disconnected 
+69 15560 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net1_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok 
+69 15561 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_connection_rack_general_failure saml.status.energy_generator_running 
+69 15562 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net1_not_present 
+69 15563 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+69 15565 5 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok 
+69 15566 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+69 15567 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+69 15568 8 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+69 15569 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+69 15572 6 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_line1_nok 
+69 15573 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+69 15576 8 saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+69 15579 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+69 15580 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+69 15581 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+69 15582 4 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+69 15584 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+69 15586 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+69 15587 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+69 15588 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+69 15589 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+69 15590 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+69 15593 4 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+70 15594 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+70 15595 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_generator_running 
+70 15596 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+70 15597 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+70 15598 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present 
+70 15601 3 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+70 15602 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+70 15603 6 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok 
+70 15604 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+70 15605 3 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+70 15607 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+70 15608 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running 
+70 15609 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+70 15610 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+70 15611 8 saml.status.energy_60V_rect_nok saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_SAI_ST_nok 
+70 15612 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+70 15613 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+70 15614 4 saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+70 15615 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running 
+70 15616 3 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_generator_running 
+72 15553 1 saml.status.MS_2_data_nok_unknown_maintenance_code 
+72 15554 2 saml.status.TRACK_data_nok saml.status.MS_2_data_nok_unknown_maintenance_code 
+72 15555 1 saml.status.MS_2_data_nok_unknown_maintenance_code 
+72 15557 1 saml.status.TRACK_data_nok 
+72 15571 1 saml.status.TRACK_data_nok 
+72 15577 1 saml.status.TRACK_data_nok 
+72 15578 1 saml.status.TRACK_data_nok 
+72 15580 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+72 15590 1 saml.status.TRACK_data_nok 
+72 15595 1 saml.status.TRACK_data_nok 
+72 15597 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+72 15601 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+72 15608 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+72 15609 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+72 15610 1 saml.status.TRACK_data_nok 
+72 15611 1 saml.status.TRACK_data_nok 
+72 15616 2 saml.status.TRACK_data_nok_unknown_maintenance_code saml.status.TRACK_data_nok 
+75 15552 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure 
+75 15553 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+75 15554 8 saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok 
+75 15555 8 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15556 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_SAI_line1_nok saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_SAI_ST_nok 
+75 15557 2 saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+75 15558 1 saml.status.energy_SAI_line2_nok 
+75 15559 5 saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15560 1 saml.status.energy_generator_running 
+75 15562 5 saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok 
+75 15563 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15565 5 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15566 3 saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+75 15567 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15568 1 saml.status.energy_generator_running 
+75 15570 1 saml.status.energy_SAI_line2_nok 
+75 15571 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15573 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+75 15574 2 saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+75 15575 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15578 1 saml.status.energy_SAI_line2_nok 
+75 15579 5 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+75 15580 10 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_connection_rack_general_failure 
+75 15581 6 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+75 15582 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+75 15583 8 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+75 15584 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+75 15586 6 saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+75 15587 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+75 15588 1 saml.status.energy_generator_running 
+75 15589 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+75 15590 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+75 15591 3 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15592 5 saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15593 6 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running 
+75 15594 6 saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present saml.status.energy_generator_running 
+75 15595 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line2_nok 
+75 15596 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+75 15597 10 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+75 15598 7 saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok 
+75 15599 8 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_net2_not_present 
+75 15600 2 saml.status.energy_generator_running saml.status.energy_net2_not_present 
+75 15601 10 saml.status.energy_net2_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_net1_not_present saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+75 15602 8 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+75 15603 7 saml.status.energy_net2_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+75 15604 10 saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure saml.status.energy_generator_general_failure saml.status.energy_net2_disconnected saml.status.energy_net2_not_present saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_disconnected saml.status.energy_net1_not_present 
+75 15605 5 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present 
+75 15606 1 saml.status.energy_SAI_line2_nok 
+75 15607 5 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running saml.status.energy_net2_not_present 
+75 15608 2 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected 
+75 15609 8 saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_SAI_line1_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line2_nok saml.status.energy_generator_running 
+75 15610 9 saml.status.energy_net2_disconnected saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net2_not_present saml.status.energy_generator_running saml.status.energy_net1_disconnected saml.status.energy_net1_not_present saml.status.energy_switch_rack_general_failure 
+75 15611 9 saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_switch_rack_general_failure saml.status.energy_generator_running saml.status.energy_net2_disconnected saml.status.energy_SAI_line2_nok saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_net2_not_present 
+75 15614 1 saml.status.energy_SAI_line2_nok 
+75 15615 7 saml.status.energy_SAI_ST_nok saml.status.energy_SAI_line1_nok saml.status.energy_SAI_line2_nok saml.status.energy_net1_not_present saml.status.energy_net1_disconnected saml.status.energy_generator_running saml.status.energy_switch_rack_general_failure 
+75 15616 8 saml.status.energy_SAI_line1_nok saml.status.energy_switch_rack_general_failure saml.status.energy_net2_not_present saml.status.energy_net2_disconnected saml.status.energy_connection_rack_general_failure saml.status.energy_SAI_ST_nok saml.status.energy_generator_running saml.status.energy_SAI_line2_nok 
+75 15975 1 saml.status.energy_net2_not_present 
+75 705072 1 saml.status.energy_SAI_ST_nok 
+77 15557 1 saml.status.MS_2_data_nok_unknown_maintenance_code 
+77 15601 1 saml.status.PT_2_no_energy_to_move_PT 
+77 15602 3 saml.status.PT_2_no_energy_to_move_PT saml.status.CI_data_nok_unknown_maintenance_code saml.status.PT_2_data_nok_PT_unknown_maintenance_code 

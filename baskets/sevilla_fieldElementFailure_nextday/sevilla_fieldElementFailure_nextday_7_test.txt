@@ -1,0 +1,28 @@
+1 273 1 saml.status.DS_1_4 
+1 274 1 saml.status.DS_1_4 
+1 275 1 saml.status.DS_1_4 
+1 276 1 saml.status.DS_1_4 
+1 277 1 saml.status.DS_1_4 
+1 278 1 saml.status.DS_1_4 
+1 279 1 saml.status.DS_1_4 
+1 280 1 saml.status.DS_1_4 
+1 281 1 saml.status.DS_1_4 
+1 282 1 saml.status.DS_1_4 
+2 263 1 saml.status.DS_1_4 
+2 265 1 saml.status.DS_1_4 
+2 270 1 saml.status.DS_6_8 
+2 277 1 saml.status.DS_1_4 
+2 279 1 saml.status.DS_1_4 
+2 281 1 saml.status.DS_1_4 
+3 266 3 saml.status.DS_7_27 saml.status.DS_7_41 saml.status.DS_7_29 
+3 272 1 saml.status.DS_7_39 
+3 273 3 saml.status.DS_7_27 saml.status.DS_7_41 saml.status.DS_7_29 
+3 279 1 saml.status.DS_1_4 
+3 281 1 saml.status.DS_6_8 
+3 282 1 saml.status.DS_7_27 
+4 259 1 saml.status.DS_7_41 
+4 260 1 saml.status.DS_1_4 
+4 264 1 saml.status.DS_1_4 
+5 279 1 saml.status.DS_10_4 
+5 280 1 saml.status.DS_10_4 
+5 281 4 saml.status.DS_10_4 saml.status.DS_7_25 saml.status.DS_7_41 saml.status.DS_1_4 

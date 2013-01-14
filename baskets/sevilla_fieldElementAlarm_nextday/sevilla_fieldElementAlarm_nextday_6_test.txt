@@ -1,0 +1,19 @@
+2 257 1 saml.status.DS_6_0 
+2 260 1 saml.status.DS_6_0 
+3 252 1 saml.status.DS_6_0 
+3 254 1 saml.status.DS_6_0 
+3 255 1 saml.status.DS_6_0 
+3 256 1 saml.status.DS_6_0 
+3 257 1 saml.status.DS_6_0 
+3 258 1 saml.status.DS_6_0 
+3 259 1 saml.status.DS_6_0 
+5 251 1 saml.status.DS_6_0 
+5 252 1 saml.status.DS_6_0 
+5 253 1 saml.status.DS_6_0 
+6 251 4 saml.status.DS_10_52 saml.status.DS_10_60 saml.status.DS_10_56 saml.status.DS_6_0 
+6 252 6 saml.status.DS_10_52 saml.status.DS_10_60 saml.status.DS_10_56 saml.status.DS_6_0 saml.status.DS_10_24 saml.status.DS_10_44 
+6 253 5 saml.status.DS_10_52 saml.status.DS_10_60 saml.status.DS_10_56 saml.status.DS_6_0 saml.status.DS_10_24 
+6 254 1 saml.status.DS_6_0 
+6 255 1 saml.status.DS_6_0 
+6 256 1 saml.status.DS_6_0 
+6 257 1 saml.status.DS_6_0 

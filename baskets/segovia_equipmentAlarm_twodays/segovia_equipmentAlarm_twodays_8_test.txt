@@ -1,0 +1,13 @@
+2 884 2 clc.BD_incorrect_version_telegram_channel clc.CPU_status_DOWN 
+13 843 1 clc.BD_incorrect_version_telegram_channel 
+13 850 1 clc.Fatal_error_system_down 
+14 836 2 clc.BD_incorrect_version_telegram_channel clc.Fatal_error_system_down 
+15 836 2 clc.CPU_status_DOWN clc.Fatal_error_system_down 
+17 872 1 clc.CPU_status_DOWN 
+20 829 1 node.unit.network_adapter_DOWN 
+20 832 1 node.unit.network_adapter_DOWN 
+20 858 1 node.unit.network_adapter_DOWN 
+20 867 1 node.unit.network_adapter_DOWN 
+20 868 1 node.unit.network_adapter_DOWN 
+22 850 1 clc.CPU_status_DOWN 
+23 888 1 clc.CPU_status_DOWN 

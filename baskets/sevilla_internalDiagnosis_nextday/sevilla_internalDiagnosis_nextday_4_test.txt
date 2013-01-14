@@ -1,0 +1,5 @@
+1 12 1 energy.status.preaisl.er 
+1 14 9 energy.status.ac.forz.er energy.status.mm.forz.er energy.status.mm.conm.er energy.status.main-1-.er energy.status.cp.forz.er energy.status.preaisl.er energy.status.aisla--.er energy.status.com.sai.er energy.status.com.cm-.er 
+2 13 2 energy.status.com.nta.er energy.status.main-2-.er 
+3 11 2 energy.status.rect---.er energy.status.main-1-.er 
+3 13 22 energy.status.sai----.er energy.status.mm.vmot.er energy.status.rect---.er energy.status.com.nta.er energy.status.main-1-.er energy.status.ac.conm.er energy.status.cp.forz.er energy.status.ac.forz.er energy.status.mm.forz.er energy.status.mm.conm.er energy.status.com.sai.er energy.status.com.cm-.er energy.status.com.ctc.er energy.status.com.den.er energy.status.syncron.er energy.status.mt.mai2.er energy.status.mt.sai-.er energy.status.mt.comg.er energy.status.pretemp.er energy.status.temper-.er energy.status.temppro.er energy.status.clima--.er 

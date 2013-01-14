@@ -1,0 +1,67 @@
+1 182 1 node.node_DOWN 
+1 188 1 node.node_DOWN 
+1 189 1 node.node_DOWN 
+1 190 1 node.node_DOWN 
+1 191 1 node.node_DOWN 
+2 182 1 node.node_DOWN 
+2 186 1 node.node_DOWN 
+2 189 1 node.node_DOWN 
+2 190 1 node.node_DOWN 
+2 191 1 node.node_DOWN 
+3 189 1 node.node_DOWN 
+3 190 1 node.node_DOWN 
+3 191 1 node.node_DOWN 
+4 180 1 node.node_DOWN 
+4 182 1 node.node_DOWN 
+4 184 1 node.node_DOWN 
+4 185 1 node.node_DOWN 
+4 186 1 node.node_DOWN 
+4 187 1 node.node_DOWN 
+4 188 1 node.node_DOWN 
+4 189 1 node.node_DOWN 
+4 190 1 node.node_DOWN 
+4 191 1 node.node_DOWN 
+6 180 1 node.node_DOWN 
+6 182 1 node.node_DOWN 
+6 184 2 node.node_DOWN node.unit.unit_DOWN 
+6 186 1 node.node_DOWN 
+6 188 1 node.node_DOWN 
+6 191 1 node.node_DOWN 
+7 181 1 node.node_DOWN 
+7 183 1 node.node_DOWN 
+7 186 1 node.node_DOWN 
+7 187 1 node.node_DOWN 
+7 188 1 node.node_DOWN 
+8 180 1 node.node_DOWN 
+8 182 1 node.node_DOWN 
+8 183 1 node.node_DOWN 
+8 184 1 node.node_DOWN 
+8 186 1 node.node_DOWN 
+9 180 1 node.node_DOWN 
+9 182 1 node.node_DOWN 
+9 183 1 node.node_DOWN 
+9 186 1 node.node_DOWN 
+9 187 1 node.node_DOWN 
+10 180 1 node.node_DOWN 
+10 182 1 node.node_DOWN 
+10 184 1 node.node_DOWN 
+10 185 1 node.node_DOWN 
+10 186 1 node.node_DOWN 
+10 187 1 node.node_DOWN 
+10 188 1 node.node_DOWN 
+10 189 1 node.node_DOWN 
+10 190 1 node.node_DOWN 
+10 191 1 node.node_DOWN 
+11 180 1 node.node_DOWN 
+11 185 1 node.node_DOWN 
+12 180 1 node.node_DOWN 
+12 185 1 node.node_DOWN 
+12 191 1 node.node_DOWN 
+13 180 1 node.node_DOWN 
+13 182 2 node.node_DOWN node.unit.unit_DOWN 
+13 184 2 node.node_DOWN node.unit.unit_DOWN 
+13 185 2 node.unit.unit_DOWN node.node_DOWN 
+13 186 2 node.unit.unit_DOWN node.node_DOWN 
+13 187 2 node.unit.unit_DOWN node.node_DOWN 
+13 189 1 node.node_DOWN 
+13 191 1 node.node_DOWN 

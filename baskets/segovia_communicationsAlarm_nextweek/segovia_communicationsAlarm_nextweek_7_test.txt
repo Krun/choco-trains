@@ -1,0 +1,172 @@
+1 95 1 pce.status.PCE_CM_communication_DOWN 
+1 99 1 pce.status.PCE_CM_communication_DOWN 
+1 107 1 pce.status.PCE_CM_communication_DOWN 
+2 96 1 clc.IM_CLC_connection_status_DOWN 
+2 99 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+2 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+3 96 1 clc.IM_CLC_connection_status_DOWN 
+3 99 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+3 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+4 96 1 clc.SAMCLC_CLC_connection_status_DOWN 
+4 99 1 clc.IM_CLC_connection_status_DOWN 
+4 101 1 clc.IM_CLC_connection_status_DOWN 
+4 102 1 clc.IM_CLC_connection_status_DOWN 
+4 112 1 clc.SAMCLC_CLC_connection_status_DOWN 
+4 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+4 114 1 clc.SAMCLC_CLC_connection_status_DOWN 
+5 99 1 clc.IM_CLC_connection_status_DOWN 
+5 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+5 114 1 clc.SAMCLC_CLC_connection_status_DOWN 
+6 97 1 clc.IM_CLC_connection_status_DOWN 
+6 98 1 clc.IM_CLC_connection_status_DOWN 
+6 99 1 clc.IM_CLC_connection_status_DOWN 
+6 101 1 clc.IM_CLC_connection_status_DOWN 
+6 103 1 clc.IM_CLC_connection_status_DOWN 
+6 106 1 clc.IM_CLC_connection_status_DOWN 
+6 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+7 99 1 clc.IM_CLC_connection_status_DOWN 
+7 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+7 114 1 clc.SAMCLC_CLC_connection_status_DOWN 
+8 96 1 clc.IM_CLC_connection_status_DOWN 
+8 98 1 clc.IM_CLC_connection_status_DOWN 
+8 99 1 clc.IM_CLC_connection_status_DOWN 
+8 100 1 clc.IM_CLC_connection_status_DOWN 
+8 105 1 clc.IM_CLC_connection_status_DOWN 
+8 107 1 clc.IM_CLC_connection_status_DOWN 
+8 108 1 clc.IM_CLC_connection_status_DOWN 
+8 113 1 clc.SAMCLC_CLC_connection_status_DOWN 
+9 95 1 clc.IM_CLC_connection_status_DOWN 
+9 96 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+9 97 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+9 99 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+9 100 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+9 101 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+9 102 1 clc.IM_CLC_connection_status_DOWN 
+9 103 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+9 104 1 clc.IM_CLC_connection_status_DOWN 
+9 105 1 clc.IM_CLC_connection_status_DOWN 
+9 106 1 clc.SAMCLC_CLC_connection_status_DOWN 
+9 107 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+9 109 1 clc.SAMCLC_CLC_connection_status_DOWN 
+9 110 1 clc.IM_CLC_connection_status_DOWN 
+9 111 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+9 112 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+9 113 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+9 114 1 clc.IM_CLC_connection_status_DOWN 
+12 95 1 node.unit.monitor_detected_unit_DOWN 
+12 96 1 node.unit.monitor_detected_unit_DOWN 
+12 97 1 node.unit.monitor_detected_unit_DOWN 
+12 99 1 node.unit.monitor_detected_unit_DOWN 
+12 102 1 node.unit.monitor_detected_unit_DOWN 
+12 105 1 node.unit.monitor_detected_unit_DOWN 
+12 106 1 node.unit.monitor_detected_unit_DOWN 
+12 112 1 node.unit.monitor_detected_unit_DOWN 
+12 113 1 node.unit.monitor_detected_unit_DOWN 
+13 95 1 node.unit.monitor_detected_unit_DOWN 
+13 96 1 node.unit.monitor_detected_unit_DOWN 
+13 99 1 node.unit.monitor_detected_unit_DOWN 
+13 102 1 node.unit.monitor_detected_unit_DOWN 
+13 105 1 node.unit.monitor_detected_unit_DOWN 
+13 106 1 node.unit.monitor_detected_unit_DOWN 
+13 111 1 node.unit.monitor_detected_unit_DOWN 
+13 113 1 node.unit.monitor_detected_unit_DOWN 
+14 95 1 node.unit.monitor_detected_unit_DOWN 
+14 96 1 node.unit.monitor_detected_unit_DOWN 
+14 99 1 node.unit.monitor_detected_unit_DOWN 
+14 102 1 node.unit.monitor_detected_unit_DOWN 
+14 103 1 node.unit.monitor_detected_unit_DOWN 
+14 105 1 node.unit.monitor_detected_unit_DOWN 
+14 112 1 node.unit.monitor_detected_unit_DOWN 
+14 113 1 node.unit.monitor_detected_unit_DOWN 
+15 95 1 node.unit.monitor_detected_unit_DOWN 
+15 97 1 node.unit.monitor_detected_unit_DOWN 
+15 99 1 node.unit.monitor_detected_unit_DOWN 
+15 100 1 node.unit.monitor_detected_unit_DOWN 
+15 102 1 node.unit.monitor_detected_unit_DOWN 
+15 105 1 node.unit.monitor_detected_unit_DOWN 
+15 106 1 node.unit.monitor_detected_unit_DOWN 
+15 107 1 node.unit.monitor_detected_unit_DOWN 
+15 113 1 node.unit.monitor_detected_unit_DOWN 
+16 95 1 node.unit.monitor_detected_unit_DOWN 
+16 97 1 node.unit.monitor_detected_unit_DOWN 
+16 102 1 node.unit.monitor_detected_unit_DOWN 
+16 106 1 node.unit.monitor_detected_unit_DOWN 
+16 107 1 node.unit.monitor_detected_unit_DOWN 
+16 112 1 node.unit.monitor_detected_unit_DOWN 
+17 95 1 node.unit.monitor_detected_unit_DOWN 
+17 99 1 node.unit.monitor_detected_unit_DOWN 
+17 100 1 node.unit.monitor_detected_unit_DOWN 
+17 102 1 node.unit.monitor_detected_unit_DOWN 
+17 104 1 node.unit.monitor_detected_unit_DOWN 
+17 105 1 node.unit.monitor_detected_unit_DOWN 
+17 106 1 node.unit.monitor_detected_unit_DOWN 
+17 107 1 node.unit.monitor_detected_unit_DOWN 
+18 98 1 clc.SAMCLC_CLC_connection_status_DOWN 
+18 99 1 clc.SAMCLC_CLC_connection_status_DOWN 
+18 106 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+19 99 1 clc.SAMCLC_CLC_connection_status_DOWN 
+19 106 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+20 99 1 clc.IM_CLC_connection_status_DOWN 
+20 108 1 clc.IM_CLC_connection_status_DOWN 
+21 102 1 clc.IM_CLC_connection_status_DOWN 
+21 111 2 clc.IM_CLC_connection_status_DOWN clc.SAMCLC_CLC_connection_status_DOWN 
+22 102 1 clc.IM_CLC_connection_status_DOWN 
+22 111 1 clc.IM_CLC_connection_status_DOWN 
+23 95 1 node.unit.monitor_detected_unit_DOWN 
+23 99 1 node.unit.monitor_detected_unit_DOWN 
+23 106 1 node.unit.monitor_detected_unit_DOWN 
+23 107 1 node.unit.monitor_detected_unit_DOWN 
+23 112 1 node.unit.monitor_detected_unit_DOWN 
+24 102 1 clc.IM_CLC_connection_status_DOWN 
+24 111 1 clc.IM_CLC_connection_status_DOWN 
+25 99 1 clc.IM_CLC_connection_status_DOWN 
+25 112 1 clc.SAMCLC_CLC_connection_status_DOWN 
+25 113 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+26 95 1 clc.SAMCLC_CLC_connection_status_DOWN 
+26 97 1 clc.SAMCLC_CLC_connection_status_DOWN 
+27 95 1 node.unit.monitor_detected_unit_DOWN 
+27 100 1 node.unit.monitor_detected_unit_DOWN 
+27 102 1 node.unit.monitor_detected_unit_DOWN 
+27 105 1 node.unit.monitor_detected_unit_DOWN 
+27 106 1 node.unit.monitor_detected_unit_DOWN 
+27 107 1 node.unit.monitor_detected_unit_DOWN 
+27 112 1 node.unit.monitor_detected_unit_DOWN 
+28 95 1 node.unit.monitor_detected_unit_DOWN 
+28 96 1 node.unit.monitor_detected_unit_DOWN 
+28 106 1 node.unit.monitor_detected_unit_DOWN 
+28 107 1 node.unit.monitor_detected_unit_DOWN 
+29 95 1 node.unit.monitor_detected_unit_DOWN 
+29 96 1 node.unit.monitor_detected_unit_DOWN 
+29 113 1 node.unit.monitor_detected_unit_DOWN 
+30 95 1 node.unit.monitor_detected_unit_DOWN 
+30 96 1 node.unit.monitor_detected_unit_DOWN 
+30 102 1 node.unit.monitor_detected_unit_DOWN 
+30 111 1 node.unit.monitor_detected_unit_DOWN 
+31 95 1 node.unit.monitor_detected_unit_DOWN 
+31 97 1 node.unit.monitor_detected_unit_DOWN 
+31 99 1 node.unit.monitor_detected_unit_DOWN 
+31 100 1 node.unit.monitor_detected_unit_DOWN 
+31 102 1 node.unit.monitor_detected_unit_DOWN 
+31 106 1 node.unit.monitor_detected_unit_DOWN 
+31 112 1 node.unit.monitor_detected_unit_DOWN 
+32 95 1 node.unit.monitor_detected_unit_DOWN 
+32 97 1 node.unit.monitor_detected_unit_DOWN 
+32 99 1 node.unit.monitor_detected_unit_DOWN 
+32 102 1 node.unit.monitor_detected_unit_DOWN 
+32 106 1 node.unit.monitor_detected_unit_DOWN 
+32 112 1 node.unit.monitor_detected_unit_DOWN 
+33 94 1 node.unit.monitor_detected_unit_DOWN 
+33 95 1 node.unit.monitor_detected_unit_DOWN 
+33 99 1 node.unit.monitor_detected_unit_DOWN 
+33 100 1 node.unit.monitor_detected_unit_DOWN 
+33 102 1 node.unit.monitor_detected_unit_DOWN 
+33 104 1 node.unit.monitor_detected_unit_DOWN 
+33 105 1 node.unit.monitor_detected_unit_DOWN 
+33 106 1 node.unit.monitor_detected_unit_DOWN 
+33 107 1 node.unit.monitor_detected_unit_DOWN 
+33 109 1 node.unit.monitor_detected_unit_DOWN 
+33 112 1 node.unit.monitor_detected_unit_DOWN 
+34 94 1 clc.SAMCLC_CLC_connection_status_DOWN 
+34 106 2 clc.SAMCLC_CLC_connection_status_DOWN clc.IM_CLC_connection_status_DOWN 
+35 103 1 clc.SAMCLC_CLC_connection_status_DOWN 
+36 103 1 clc.SAMCLC_CLC_connection_status_DOWN 

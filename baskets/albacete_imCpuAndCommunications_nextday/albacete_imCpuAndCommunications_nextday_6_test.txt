@@ -1,0 +1,218 @@
+3 15280 1 saml.status.channel_A_down 
+3 15281 2 saml.status.channel_B_down saml.status.channel_IM_down 
+4 15280 1 saml.status.channel_A_down 
+4 15281 2 saml.status.channel_B_down saml.status.channel_IM_down 
+4 15288 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+5 15280 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+5 15281 2 saml.status.channel_B_down saml.status.channel_IM_down 
+8 15278 1 saml.status.channel_down 
+8 15282 1 saml.status.channel_down 
+8 15291 2 saml.status.channel_down_2 saml.status.channel_down 
+8 15292 1 saml.status.channel_down 
+8 15294 1 saml.status.channel_down 
+8 15295 1 saml.status.channel_down 
+8 15296 1 saml.status.channel_down 
+8 15305 2 saml.status.channel_down saml.status.channel_down_2 
+8 15319 1 saml.status.channel_down 
+8 15322 1 saml.status.channel_down 
+8 15324 2 saml.status.channel_down saml.status.channel_down_2 
+10 15313 2 saml.status.channel_B_down saml.status.channel_A_down 
+15 15278 1 saml.status.channel_down 
+15 15282 1 saml.status.channel_down 
+15 15283 2 saml.status.channel_down_2 saml.status.channel_down 
+15 15291 2 saml.status.channel_down_2 saml.status.channel_down 
+15 15292 1 saml.status.channel_down 
+15 15294 1 saml.status.channel_down 
+15 15295 1 saml.status.channel_down 
+15 15296 1 saml.status.channel_down 
+15 15317 1 saml.status.channel_down_2 
+15 15319 1 saml.status.channel_down 
+15 15322 1 saml.status.channel_down 
+17 15323 2 saml.status.channel_B_down saml.status.channel_A_down 
+18 15308 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+18 15324 2 saml.status.channel_B_down saml.status.channel_A_down 
+21 15278 1 saml.status.channel_down 
+21 15282 1 saml.status.channel_down 
+21 15283 1 saml.status.channel_down 
+21 15284 1 saml.status.channel_down 
+21 15285 1 saml.status.channel_down 
+21 15289 2 saml.status.channel_down saml.status.channel_down_2 
+21 15291 1 saml.status.channel_down 
+21 15292 1 saml.status.channel_down 
+21 15294 1 saml.status.channel_down 
+21 15295 1 saml.status.channel_down 
+21 15296 1 saml.status.channel_down 
+21 15297 1 saml.status.channel_down 
+21 15299 1 saml.status.channel_down 
+21 15322 1 saml.status.channel_down 
+24 15278 2 saml.status.channel_down saml.status.channel_down_2 
+24 15279 1 saml.status.channel_down_2 
+24 15280 1 saml.status.channel_down_2 
+24 15281 2 saml.status.channel_down saml.status.channel_down_2 
+24 15282 1 saml.status.channel_down_2 
+24 15291 1 saml.status.channel_down_2 
+24 15296 1 saml.status.channel_down 
+24 15319 2 saml.status.channel_down saml.status.channel_down_2 
+28 15283 2 saml.status.channel_down saml.status.channel_down_2 
+28 15311 1 saml.status.channel_down 
+28 15312 1 saml.status.channel_down 
+28 15318 1 saml.status.channel_down 
+28 15319 1 saml.status.channel_down 
+28 15320 1 saml.status.channel_down 
+34 15278 1 saml.status.channel_down 
+34 15282 2 saml.status.channel_down saml.status.channel_down_2 
+34 15291 1 saml.status.channel_down 
+34 15292 1 saml.status.channel_down 
+34 15293 1 saml.status.channel_down 
+34 15294 2 saml.status.channel_down saml.status.channel_down_2 
+34 15295 1 saml.status.channel_down 
+34 15296 1 saml.status.channel_down 
+34 15297 2 saml.status.channel_down_2 saml.status.channel_down 
+34 15303 2 saml.status.channel_down saml.status.channel_down_2 
+34 15309 2 saml.status.channel_down_2 saml.status.channel_down 
+34 15318 2 saml.status.channel_down saml.status.channel_down_2 
+34 15319 1 saml.status.channel_down 
+34 15320 2 saml.status.channel_down saml.status.channel_down_2 
+34 15322 1 saml.status.channel_down 
+38 15292 2 saml.status.channel_B_down saml.status.channel_A_down 
+41 15282 1 saml.status.channel_down 
+41 15283 1 saml.status.channel_down 
+41 15284 1 saml.status.channel_down 
+41 15285 1 saml.status.channel_down 
+41 15289 1 saml.status.channel_down 
+41 15291 1 saml.status.channel_down 
+41 15292 1 saml.status.channel_down 
+41 15296 1 saml.status.channel_down 
+41 15297 1 saml.status.channel_down 
+41 15299 2 saml.status.channel_down saml.status.channel_down_2 
+41 15317 2 saml.status.channel_down saml.status.channel_down_2 
+41 15323 2 saml.status.channel_down saml.status.channel_down_2 
+43 15301 2 saml.status.channel_B_down saml.status.channel_A_down 
+48 15277 2 saml.status.channel_down saml.status.channel_down_2 
+48 15278 1 saml.status.channel_down 
+48 15282 1 saml.status.channel_down 
+48 15283 1 saml.status.channel_down 
+48 15284 1 saml.status.channel_down 
+48 15285 1 saml.status.channel_down 
+48 15289 1 saml.status.channel_down 
+48 15291 1 saml.status.channel_down 
+48 15292 1 saml.status.channel_down 
+48 15294 1 saml.status.channel_down 
+48 15295 1 saml.status.channel_down 
+48 15296 1 saml.status.channel_down 
+48 15297 1 saml.status.channel_down 
+48 15299 1 saml.status.channel_down 
+48 15322 1 saml.status.channel_down 
+54 15297 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+55 15303 2 saml.status.channel_B_down saml.status.channel_A_down 
+60 15277 1 saml.status.channel_down 
+60 15282 1 saml.status.channel_down 
+60 15283 1 saml.status.channel_down 
+60 15284 1 saml.status.channel_down 
+60 15285 1 saml.status.channel_down 
+60 15288 2 saml.status.channel_down saml.status.channel_down_2 
+60 15289 2 saml.status.channel_down saml.status.channel_down_2 
+60 15291 1 saml.status.channel_down 
+60 15292 1 saml.status.channel_down 
+60 15295 1 saml.status.channel_down_2 
+60 15296 1 saml.status.channel_down 
+60 15297 1 saml.status.channel_down 
+60 15298 2 saml.status.channel_down saml.status.channel_down_2 
+60 15299 1 saml.status.channel_down 
+62 15280 2 saml.status.channel_B_down saml.status.channel_A_down 
+67 15280 1 saml.status.ocs_channel_2_down_2 
+67 15281 1 saml.status.ocs_channel_2_down_2 
+67 15286 3 saml.status.IM_CPU_2_down saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+67 15287 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+67 15296 2 saml.status.IM_CPU_2_down saml.status.ocs_channel_2_down_2 
+67 15297 1 saml.status.ocs_channel_2_down_2 
+67 15298 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+67 15299 1 saml.status.ocs_channel_2_down_2 
+67 15301 1 saml.status.ocs_channel_2_down_2 
+67 15303 1 saml.status.ocs_channel_2_down_2 
+67 15304 1 saml.status.ocs_channel_2_down 
+67 15305 1 saml.status.ocs_channel_2_down 
+67 15306 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+67 15307 2 saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+67 15308 1 saml.status.ocs_channel_2_down_2 
+67 15318 1 saml.status.ocs_channel_2_down_2 
+67 15319 2 saml.status.ocs_channel_2_down_2 saml.status.IM_CPU_2_down 
+67 15320 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+67 15323 2 saml.status.ocs_channel_2_down_2 saml.status.ocs_channel_2_down 
+67 15324 1 saml.status.IM_CPU_2_down 
+68 15281 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15286 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15287 2 saml.status.channel_A_down saml.status.channel_IM_down 
+68 15296 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15297 3 saml.status.channel_A_down saml.status.channel_IM_down saml.status.channel_B_down 
+68 15298 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15299 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15300 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15301 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15303 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15305 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15307 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15308 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15317 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15318 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15319 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15320 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+68 15321 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15322 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15323 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+68 15324 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15281 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15286 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15287 2 saml.status.channel_A_down saml.status.channel_IM_down 
+69 15296 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15297 3 saml.status.channel_A_down saml.status.channel_IM_down saml.status.channel_B_down 
+69 15298 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15299 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15300 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15301 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15302 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15303 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15307 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15308 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15317 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15318 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15319 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+69 15320 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15321 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15322 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15323 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+69 15324 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15281 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15286 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15287 2 saml.status.channel_A_down saml.status.channel_IM_down 
+70 15296 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15297 3 saml.status.channel_A_down saml.status.channel_IM_down saml.status.channel_B_down 
+70 15298 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15299 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15300 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15301 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15303 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15307 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15308 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15317 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15318 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15319 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15320 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+70 15321 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15322 3 saml.status.channel_A_down saml.status.channel_IM_down saml.status.channel_B_down 
+70 15323 3 saml.status.channel_A_down saml.status.channel_B_down saml.status.channel_IM_down 
+70 15324 2 saml.status.channel_A_down saml.status.channel_B_down 
+73 15311 1 saml.status.ocs_channel_2_down 
+73 15312 1 saml.status.ocs_channel_2_down 
+73 15318 1 saml.status.ocs_channel_2_down 
+73 15319 1 saml.status.ocs_channel_2_down 
+73 15320 1 saml.status.ocs_channel_2_down 
+75 15301 3 saml.status.channel_B_down saml.status.channel_A_down saml.status.channel_IM_down 
+78 15277 1 saml.status.ocs_channel_2_down 
+78 15278 2 saml.status.ocs_channel_2_down saml.status.ocs_channel_2_down_2 
+78 15279 1 saml.status.ocs_channel_2_down_2 
+78 15280 1 saml.status.ocs_channel_2_down_2 
+78 15281 1 saml.status.ocs_channel_2_down_2 
+78 15282 1 saml.status.ocs_channel_2_down_2 
+78 15291 1 saml.status.ocs_channel_2_down_2 
+78 15296 1 saml.status.ocs_channel_2_down 

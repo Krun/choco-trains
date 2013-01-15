@@ -1,4 +1,4 @@
-k_average <- function(name, k, path="output/sequences/") {
+k_average <- function(name, k, path="/opt/adri/r-output/sequences/") {
   i = 1
   cat("Loading validation file",i,"\n")
   av <- read.csv(paste(path,name,"_eval_",i,".txt", sep=""),sep=" ",header = FALSE)
@@ -53,7 +53,7 @@ k_average <- function(name, k, path="output/sequences/") {
   
 }
 
-auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/", path_in="baskets/", minprec = 0.5) {
+auto_k_validate <- function(name, k, winmax=1, winmin=1, path="/opt/adri/r-output/sequences/", path_in="baskets/", minprec = 0.5) {
   cat("EXECUTING K-FOLD-CV FOR",name,"K=",k,"\n")
   cat("winmin =",winmin,"\n")
   cat("winmax =",winmax,"\n")
@@ -62,7 +62,7 @@ auto_k_validate <- function(name, k, winmax=1, winmin=1, path="output/sequences/
   }
 }
 
-auto_validate <- function(name, i, winmax=1, winmin=1, path="output/sequences/", path_in="baskets/", minprec = 0.5) {
+auto_validate <- function(name, i, winmax=1, winmin=1, path="/opt/adri/r-output/sequences/", path_in="baskets/", minprec = 0.5) {
   path_in <- paste(path_in,name,"/",sep="")
   s <- read.csv(paste(path,name,"_",i,".txt", sep=""))
   rules <- as.character(s$sequence)

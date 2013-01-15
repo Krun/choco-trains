@@ -84,12 +84,14 @@ execute_all("sevilla_operationsDiagnosisCommunications_nextweek", sevilla_operat
 execute_all("sevilla_operatorInformation_nextweek", sevilla_operatorInformation, days=7, sp=0.01, gap= 1, msize=7)
 execute_all("sevilla_general_nextweek", sevilla_communicationsAlarm, days=7, sp=0.01, gap= 1, msize=7)
 
-
+execute_all("antequera_general_nextday", antequera, days=1, sp=0.2, gap=1, msize = 7)
+execute_all("antequera_general_twodays", antequera, days=2, sp=0.2, gap=1, msize = 7)
+execute_all("antequera_general_nextweek", antequera, days=7, sp=0.2, gap=1, msize = 7)
 
 execute_all <- function(name,target,days,sp,gap,msize,k=10) {
   params=list(support=sp, mingap=gap, maxgap=gap, maxlen=2, maxsize=msize)
   create_k_basket_files(target,name,k,"baskets/",days)
-  cspade_k_fold(name,k,"baskets/","output/sequences/",params)
-  auto_k_validate(name, k, winmax=gap, winmin=gap, path="output/sequences/",minprec=0.1)
+  cspade_k_fold(name,k,"baskets/","/opt/adri/r-output/sequences/",params)
+  auto_k_validate(name, k, winmax=gap, winmin=gap, path="/opt/adri/r-output/sequences/",minprec=0.1)
   av <- k_average(name,k)
 }

@@ -1,7 +1,7 @@
 library(arules)
 library(arulesSequences)
 
-cspade_k_fold <- function(name,k,path_in="baskets/",path_out="output/sequences/",params=list(support=0.3, mingap=1, maxgap=1, maxlen=2, maxsize=5)) {
+cspade_k_fold <- function(name,k,path_in="baskets/",path_out="/opt/adri/r-output/sequences/",params=list(support=0.3, mingap=1, maxgap=1, maxlen=2, maxsize=5)) {
   cat("EXECUTING CSPADE\n")
   path_in <- paste(path_in,name,"/",sep="")
   dir.create(path_out, showWarnings = FALSE)

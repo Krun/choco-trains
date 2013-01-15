@@ -1,27 +1,32 @@
-antequera$DVNI_INSTALLATIONCODE <- NULL
-antequera$DVNS_ERRORTIME <- NULL
-antequera$DVNI_ERRORCATEGORY <- NULL
-antequera$ADDITIONAL_INFOS <- NULL
+antequera_reltypes$DVNI_INSTALLATIONCODE <- NULL
+antequera_reltypes$DVNS_ERRORTIME <- NULL
+antequera_reltypes$DVNI_ERRORCATEGORY <- NULL
+antequera_reltypes$ADDITIONAL_INFOS <- NULL
 
-antequera <- antequera[!duplicated(antequera),]
+antequera_reltypes <- antequera_reltypes[!duplicated(antequera_reltypes),]
 
-segovia$DVNI_INSTALLATIONCODE <- NULL
-segovia$DVNS_ERRORTIME <- NULL
-segovia$DVNI_ERRORCATEGORY <- NULL
-segovia$ADDITIONAL_INFOS <- NULL
+segovia_reltypes$DVNI_INSTALLATIONCODE <- NULL
+segovia_reltypes$DVNS_ERRORTIME <- NULL
+segovia_reltypes$DVNI_ERRORCATEGORY <- NULL
+segovia_reltypes$ADDITIONAL_INFOS <- NULL
 
-segovia <- segovia[!duplicated(segovia),]
+segovia_reltypes <- segovia_reltypes[!duplicated(segovia_reltypes),]
 
-albacete$DVNI_INSTALLATIONCODE <-NULL
-albacete$DVNS_ERRORTIME <-NULL
-albacete$DVNI_ERRORCATEGORY <-NULL
-albacete$ADDITIONAL_INFOS <-NULL
+albacete_reltypes$DVNI_INSTALLATIONCODE <-NULL
+albacete_reltypes$DVNS_ERRORTIME <-NULL
+albacete_reltypes$DVNI_ERRORCATEGORY <-NULL
+albacete_reltypes$ADDITIONAL_INFOS <-NULL
 
-albacete <- albacete[!duplicated(albacete),]
+albacete_reltypes <- albacete_reltypes[!duplicated(albacete_reltypes),]
 
-sevilla$DVNI_INSTALLATIONCODE <-NULL
-sevilla$DVNS_ERRORTIME <-NULL
-sevilla$DVNI_ERRORCATEGORY <-NULL
-sevilla$ADDITIONAL_INFOS <-NULL
+sevilla_reltypes$DVNI_INSTALLATIONCODE <-NULL
+sevilla_reltypes$DVNS_ERRORTIME <-NULL
+sevilla_reltypes$DVNI_ERRORCATEGORY <-NULL
+sevilla_reltypes$ADDITIONAL_INFOS <-NULL
 
-sevilla <- sevilla[!duplicated(sevilla),]
+sevilla_reltypes <- sevilla_reltypes[!duplicated(sevilla_reltypes),]
+
+write.csv(albacete, file="eventtypes/albacete.txt")
+write.csv(sevilla, file="eventtypes/sevilla.txt")
+write.csv(segovia, file="eventtypes/segovia.txt")
+write.csv(antequera, file="eventtypes/antequera.txt")

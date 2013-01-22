@@ -1,0 +1,7 @@
+"","rule","precision","recall"
+"1","<{saml.status.connection_operator_connected},{saml.status.printer_inactive}>",0.68084416,0.117644742
+"2","<{saml.status.printer_inactive},{saml.status.printer_inactive}>",0.62763338,0.62763338
+"3","<{saml.status.connection_operator_connected,saml.status.printer_inactive},{saml.status.printer_inactive}>",0.61338384,0.104814759
+"4","<{saml.status.connection_operator_connected},{saml.status.connection_operator_connected}>",0.07611111,0.07611111
+"5","<{saml.status.connection_operator_connected,saml.status.printer_inactive},{saml.status.connection_operator_connected}>",0.07472222,0.06777778
+"6","<{saml.status.printer_inactive},{saml.status.connection_operator_connected}>",0.04356589,0.17287878

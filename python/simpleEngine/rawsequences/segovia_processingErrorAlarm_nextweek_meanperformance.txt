@@ -1,0 +1,4 @@
+"","rule","precision","recall"
+"1","<{node.node_DOWN},{node.node_DOWN}>",0.54758301,0.54758301
+"2","<{node.unit.unit_DOWN},{node.node_DOWN}>",0.1,0.004347826
+"3","<{node.node_DOWN,node.unit.unit_DOWN},{node.node_DOWN}>",0.1,0.004347826

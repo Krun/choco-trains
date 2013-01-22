@@ -1,0 +1,6 @@
+"","rule","precision","recall"
+"1","<{node.unit.monitor_detected_unit_DOWN},{node.unit.monitor_detected_unit_DOWN}>",0.2880948,0.2880948
+"2","<{clc.IM_CLC_connection_status_DOWN},{clc.IM_CLC_connection_status_DOWN}>",0.10362506,0.10362506
+"3","<{clc.SAMCLC_CLC_connection_status_DOWN},{clc.SAMCLC_CLC_connection_status_DOWN}>",0.04506551,0.04506551
+"4","<{clc.IM_CLC_connection_status_DOWN,clc.SAMCLC_CLC_connection_status_DOWN},{clc.IM_CLC_connection_status_DOWN}>",0.025,0.002564103
+"5","<{clc.IM_CLC_connection_status_DOWN,clc.SAMCLC_CLC_connection_status_DOWN},{clc.SAMCLC_CLC_connection_status_DOWN}>",0.01428571,0.001612903

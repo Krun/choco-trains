@@ -1,0 +1,14 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.3950503);
+        resultList.add(p);
+end
+

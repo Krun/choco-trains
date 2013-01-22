@@ -5,8 +5,8 @@ bfile = "baskets/antequera_baskets.txt"
 prep <- data.frame(ERROR = target$ADDITIONAL_TEXT)
 prep$ERROR <- as.factor(prep$ERROR)
 
-prep$sequenceID <- as.factor(antequera$DVNI_INSTALLATIONCODE)
-prep$eventID <- as.factor(antequera$DVNS_ERRORTIME)
+prep$sequenceID <- as.factor(target$DVNI_INSTALLATIONCODE)
+prep$eventID <- as.factor(target$DVNS_ERRORTIME)
 
 prep$eventID <- strptime(prep$eventID, "%Y-%m-%d %H:%M:%S")
 prep$eventID <- as.numeric(prep$eventID)

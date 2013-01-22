@@ -1,0 +1,263 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.43201208);
+        resultList.add(p);
+end
+
+rule "rule1"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.43201208);
+        resultList.add(p);
+end
+
+rule "rule2"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.43201208);
+        resultList.add(p);
+end
+
+rule "rule3"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.48930262);
+        resultList.add(p);
+end
+
+rule "rule4"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.48884612);
+        resultList.add(p);
+end
+
+rule "rule5"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.48783445);
+        resultList.add(p);
+end
+
+rule "rule6"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.48686475);
+        resultList.add(p);
+end
+
+rule "rule7"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.48530262);
+        resultList.add(p);
+end
+
+rule "rule8"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.48431714);
+        resultList.add(p);
+end
+
+rule "rule9"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.48189425);
+        resultList.add(p);
+end
+
+rule "rule10"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.48039557);
+        resultList.add(p);
+end
+
+rule "rule11"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.46611354);
+        resultList.add(p);
+end
+
+rule "rule12"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.46447926);
+        resultList.add(p);
+end
+
+rule "rule13"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.46417334);
+        resultList.add(p);
+end
+
+rule "rule14"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_IM_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.46286658);
+        resultList.add(p);
+end
+
+rule "rule15"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.45608173);
+        resultList.add(p);
+end
+
+rule "rule16"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.44557746);
+        resultList.add(p);
+end
+
+rule "rule17"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.44402316);
+        resultList.add(p);
+end
+
+rule "rule18"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.44079735);
+        resultList.add(p);
+end
+
+rule "rule19"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_A_down","imCpuAndCommunications",iid,0.42867334);
+        resultList.add(p);
+end
+
+rule "rule20"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_B_down","imCpuAndCommunications",iid,0.42840174);
+        resultList.add(p);
+end
+
+rule "rule21"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+        Alarm(installationID == iid, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.37596658);
+        resultList.add(p);
+end
+
+rule "rule22"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_A_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.36810183);
+        resultList.add(p);
+end
+
+rule "rule23"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.channel_B_down");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.channel_IM_down","imCpuAndCommunications",iid,0.36752252);
+        resultList.add(p);
+end
+
+rule "rule24"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+        Alarm(installationID == iid, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.40333334);
+        resultList.add(p);
+end
+
+rule "rule25"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.33261905);
+        resultList.add(p);
+end
+
+rule "rule26"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.25443797);
+        resultList.add(p);
+end
+
+rule "rule27"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.32874863);
+        resultList.add(p);
+end
+
+rule "rule28"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+        Alarm(installationID == iid, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.32147852);
+        resultList.add(p);
+end
+
+rule "rule29"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.26190476);
+        resultList.add(p);
+end
+

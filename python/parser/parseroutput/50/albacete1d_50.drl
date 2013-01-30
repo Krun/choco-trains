@@ -1,0 +1,6 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+

@@ -5,20 +5,28 @@ consequent_type_chart(rules_segovia1day, segovia_reltypes, "segovia1day", "Segov
 consequent_type_chart(rules_segovia2days, segovia_reltypes, "segovia2days", "Segovia (2 days)")
 consequent_type_chart(rules_segovia7days, segovia_reltypes, "segovia7days", "Segovia (7 days)")
 
+antequera_reltypes <- unique(data.frame(ADDITIONAL_TEXT = antequera$ADDITIONAL_TEXT, EVENT_TYPE = antequera$EVENT_TYPE))
+albacete_reltypes <- unique(data.frame(ADDITIONAL_TEXT = albacete$ADDITIONAL_TEXT, EVENT_TYPE = albacete$EVENT_TYPE))
+segovia_reltypes <- unique(data.frame(ADDITIONAL_TEXT = segovia$ADDITIONAL_TEXT, EVENT_TYPE = segovia$EVENT_TYPE))
+sevilla_reltypes <- unique(data.frame(ADDITIONAL_TEXT = sevilla$ADDITIONAL_TEXT, EVENT_TYPE = sevilla$EVENT_TYPE))
+
 consequent_type_chart <- function(ruleset, translationdf, name, title="", path="graphs/consequent_types") {
-  dir.create(path, showWarnings = FALSE)
-  rules <- as.character(ruleset$rule)
-  consequents <- sapply(rules, getconsequent)
-  consequents <- data.frame(consequent = consequents)
-  
-  consequent_types <- merge(consequents,translationdf, by.x = "consequent", by.y ="ADDITIONAL_TEXT")
-  numtypes <- table(consequent_types$EVENT_TYPE)
-  proptypes <- prop.table(numtypes)
-  filename <- paste(path,"/",name,"_conseqtypes.png",sep="")
-  png(filename, res=150, height=1000, width=1000)
-  par(mar=c(16,5,5,5))
-  barplot(numtypes, col=rainbow(length(names(numtypes))), main=paste("Distribution by consequent type for",title), las=3)
-  dev.off()  
+  if (nrow(ruleset) != 0) {
+    ruleset <- ruleset[ruleset$precision > 0.5,]
+    dir.create(path, showWarnings = FALSE)
+    rules <- as.character(ruleset$rule)
+    consequents <- sapply(rules, getconsequent)
+    consequents <- data.frame(consequent = consequents)
+    
+    consequent_types <- merge(consequents,translationdf, by.x = "consequent", by.y ="ADDITIONAL_TEXT")
+    numtypes <- table(consequent_types$EVENT_TYPE)
+    proptypes <- prop.table(numtypes)
+    filename <- paste(path,"/",name,"_conseqtypes.png",sep="")
+    png(filename, res=150, height=1000, width=1000)
+    par(mar=c(16,5,5,5))
+    barplot(numtypes, col=rainbow(length(names(numtypes))), main=paste("Distribution by consequent type for",title), las=3)
+    dev.off()  
+  }
 }
 
 

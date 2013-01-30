@@ -1,0 +1,4 @@
+"","rule","precision","recall"
+"1","<{clc.NCEC_status_NOT_ALIVE_chann_ACTIVE},{clc.BD_status_MISSING}>",0.09856557,0.12269737
+"2","<{clc.BD_status_MISSING},{clc.BD_status_MISSING}>",0.07318182,0.07318182
+"3","<{clc.BD_status_MISSING,clc.NCEC_status_NOT_ALIVE_chann_ACTIVE},{clc.BD_status_MISSING}>",0.05,0.004761905

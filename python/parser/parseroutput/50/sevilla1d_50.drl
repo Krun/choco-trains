@@ -1,0 +1,2465 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","",iid,0.56491228);
+        resultList.add(p);
+end
+
+rule "rule1"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.70116778);
+        resultList.add(p);
+end
+
+rule "rule2"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.70116778);
+        resultList.add(p);
+end
+
+rule "rule3"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.69958883);
+        resultList.add(p);
+end
+
+rule "rule4"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.69958883);
+        resultList.add(p);
+end
+
+rule "rule5"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.69688207);
+        resultList.add(p);
+end
+
+rule "rule6"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.69688207);
+        resultList.add(p);
+end
+
+rule "rule7"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.69530312);
+        resultList.add(p);
+end
+
+rule "rule8"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.69530312);
+        resultList.add(p);
+end
+
+rule "rule9"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.69223921);
+        resultList.add(p);
+end
+
+rule "rule10"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.69066026);
+        resultList.add(p);
+end
+
+rule "rule11"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.68973921);
+        resultList.add(p);
+end
+
+rule "rule12"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.68816026);
+        resultList.add(p);
+end
+
+rule "rule13"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.68609148);
+        resultList.add(p);
+end
+
+rule "rule14"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.68609148);
+        resultList.add(p);
+end
+
+rule "rule15"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.68211642);
+        resultList.add(p);
+end
+
+rule "rule16"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.68211642);
+        resultList.add(p);
+end
+
+rule "rule17"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.68180577);
+        resultList.add(p);
+end
+
+rule "rule18"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.68180577);
+        resultList.add(p);
+end
+
+rule "rule19"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.68121716);
+        resultList.add(p);
+end
+
+rule "rule20"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.67959098);
+        resultList.add(p);
+end
+
+rule "rule21"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67783071);
+        resultList.add(p);
+end
+
+rule "rule22"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67783071);
+        resultList.add(p);
+end
+
+rule "rule23"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.67716291);
+        resultList.add(p);
+end
+
+rule "rule24"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67466291);
+        resultList.add(p);
+end
+
+rule "rule25"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.67318785);
+        resultList.add(p);
+end
+
+rule "rule26"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67303535);
+        resultList.add(p);
+end
+
+rule "rule27"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67140917);
+        resultList.add(p);
+end
+
+rule "rule28"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.67068785);
+        resultList.add(p);
+end
+
+rule "rule29"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.65555167);
+        resultList.add(p);
+end
+
+rule "rule30"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.6545864);
+        resultList.add(p);
+end
+
+rule "rule31"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.6545864);
+        resultList.add(p);
+end
+
+rule "rule32"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.65248114);
+        resultList.add(p);
+end
+
+rule "rule33"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.65248114);
+        resultList.add(p);
+end
+
+rule "rule34"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.64823546);
+        resultList.add(p);
+end
+
+rule "rule35"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.64657606);
+        resultList.add(p);
+end
+
+rule "rule36"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.64565783);
+        resultList.add(p);
+end
+
+rule "rule37"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.64460338);
+        resultList.add(p);
+end
+
+rule "rule38"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.64460338);
+        resultList.add(p);
+end
+
+rule "rule39"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.64355257);
+        resultList.add(p);
+end
+
+rule "rule40"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.64095502);
+        resultList.add(p);
+end
+
+rule "rule41"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.64087255);
+        resultList.add(p);
+end
+
+rule "rule42"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.63907075);
+        resultList.add(p);
+end
+
+rule "rule43"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.63814981);
+        resultList.add(p);
+end
+
+rule "rule44"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.63724775);
+        resultList.add(p);
+end
+
+rule "rule45"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.63710493);
+        resultList.add(p);
+end
+
+rule "rule46"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.63649791);
+        resultList.add(p);
+end
+
+rule "rule47"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.63567481);
+        resultList.add(p);
+end
+
+rule "rule48"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.6355852);
+        resultList.add(p);
+end
+
+rule "rule49"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.63529581);
+        resultList.add(p);
+end
+
+rule "rule50"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.6342426);
+        resultList.add(p);
+end
+
+rule "rule51"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.63394647);
+        resultList.add(p);
+end
+
+rule "rule52"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.63318255);
+        resultList.add(p);
+end
+
+rule "rule53"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.63214669);
+        resultList.add(p);
+end
+
+rule "rule54"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.63065513);
+        resultList.add(p);
+end
+
+rule "rule55"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.63065513);
+        resultList.add(p);
+end
+
+rule "rule56"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.62618408);
+        resultList.add(p);
+end
+
+rule "rule57"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.62444319);
+        resultList.add(p);
+end
+
+rule "rule58"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.6241535);
+        resultList.add(p);
+end
+
+rule "rule59"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.6224941);
+        resultList.add(p);
+end
+
+rule "rule60"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.62172656);
+        resultList.add(p);
+end
+
+rule "rule61"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.61935437);
+        resultList.add(p);
+end
+
+rule "rule62"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.61844528);
+        resultList.add(p);
+end
+
+rule "rule63"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.61832264);
+        resultList.add(p);
+end
+
+rule "rule64"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.61652084);
+        resultList.add(p);
+end
+
+rule "rule65"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.6155999);
+        resultList.add(p);
+end
+
+rule "rule66"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.61547014);
+        resultList.add(p);
+end
+
+rule "rule67"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.61534128);
+        resultList.add(p);
+end
+
+rule "rule68"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.61469784);
+        resultList.add(p);
+end
+
+rule "rule69"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.6127459);
+        resultList.add(p);
+end
+
+rule "rule70"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.61169269);
+        resultList.add(p);
+end
+
+rule "rule71"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.61018642);
+        resultList.add(p);
+end
+
+rule "rule72"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.61018642);
+        resultList.add(p);
+end
+
+rule "rule73"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.60755484);
+        resultList.add(p);
+end
+
+rule "rule74"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.60755484);
+        resultList.add(p);
+end
+
+rule "rule75"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.60704456);
+        resultList.add(p);
+end
+
+rule "rule76"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.60676152);
+        resultList.add(p);
+end
+
+rule "rule77"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.60504456);
+        resultList.add(p);
+end
+
+rule "rule78"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.60125785);
+        resultList.add(p);
+end
+
+rule "rule79"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.59862627);
+        resultList.add(p);
+end
+
+rule "rule80"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.59786786);
+        resultList.add(p);
+end
+
+rule "rule81"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.59786786);
+        resultList.add(p);
+end
+
+rule "rule82"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.59745093);
+        resultList.add(p);
+end
+
+rule "rule83"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.5913357);
+        resultList.add(p);
+end
+
+rule "rule84"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.59035527);
+        resultList.add(p);
+end
+
+rule "rule85"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.59035527);
+        resultList.add(p);
+end
+
+rule "rule86"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.58893929);
+        resultList.add(p);
+end
+
+rule "rule87"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.58807335);
+        resultList.add(p);
+end
+
+rule "rule88"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.587611);
+        resultList.add(p);
+end
+
+rule "rule89"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.58699106);
+        resultList.add(p);
+end
+
+rule "rule90"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.58639861);
+        resultList.add(p);
+end
+
+rule "rule91"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.58571578);
+        resultList.add(p);
+end
+
+rule "rule92"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.58535874);
+        resultList.add(p);
+end
+
+rule "rule93"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.58533319);
+        resultList.add(p);
+end
+
+rule "rule94"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.58517814);
+        resultList.add(p);
+end
+
+rule "rule95"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.58485546);
+        resultList.add(p);
+end
+
+rule "rule96"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.58440554);
+        resultList.add(p);
+end
+
+rule "rule97"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.58404836);
+        resultList.add(p);
+end
+
+rule "rule98"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.58377958);
+        resultList.add(p);
+end
+
+rule "rule99"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.58310078);
+        resultList.add(p);
+end
+
+rule "rule100"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.58276728);
+        resultList.add(p);
+end
+
+rule "rule101"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.58178225);
+        resultList.add(p);
+end
+
+rule "rule102"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.5814267);
+        resultList.add(p);
+end
+
+rule "rule103"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.58015935);
+        resultList.add(p);
+end
+
+rule "rule104"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57928562);
+        resultList.add(p);
+end
+
+rule "rule105"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.57880571);
+        resultList.add(p);
+end
+
+rule "rule106"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57775695);
+        resultList.add(p);
+end
+
+rule "rule107"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57702904);
+        resultList.add(p);
+end
+
+rule "rule108"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57453518);
+        resultList.add(p);
+end
+
+rule "rule109"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.57444445);
+        resultList.add(p);
+end
+
+rule "rule110"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.57444445);
+        resultList.add(p);
+end
+
+rule "rule111"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57312655);
+        resultList.add(p);
+end
+
+rule "rule112"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.57238863);
+        resultList.add(p);
+end
+
+rule "rule113"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.56859558);
+        resultList.add(p);
+end
+
+rule "rule114"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56805167);
+        resultList.add(p);
+end
+
+rule "rule115"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56777778);
+        resultList.add(p);
+end
+
+rule "rule116"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56777778);
+        resultList.add(p);
+end
+
+rule "rule117"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56555555);
+        resultList.add(p);
+end
+
+rule "rule118"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56555555);
+        resultList.add(p);
+end
+
+rule "rule119"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.56551588);
+        resultList.add(p);
+end
+
+rule "rule120"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.56447443);
+        resultList.add(p);
+end
+
+rule "rule121"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.56383089);
+        resultList.add(p);
+end
+
+rule "rule122"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.56383089);
+        resultList.add(p);
+end
+
+rule "rule123"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5615873);
+        resultList.add(p);
+end
+
+rule "rule124"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5615873);
+        resultList.add(p);
+end
+
+rule "rule125"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.56015874);
+        resultList.add(p);
+end
+
+rule "rule126"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.56015874);
+        resultList.add(p);
+end
+
+rule "rule127"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.5601381);
+        resultList.add(p);
+end
+
+rule "rule128"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55888888);
+        resultList.add(p);
+end
+
+rule "rule129"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55888888);
+        resultList.add(p);
+end
+
+rule "rule130"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55884921);
+        resultList.add(p);
+end
+
+rule "rule131"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55668803);
+        resultList.add(p);
+end
+
+rule "rule132"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55662698);
+        resultList.add(p);
+end
+
+rule "rule133"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.55559055);
+        resultList.add(p);
+end
+
+rule "rule134"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55551588);
+        resultList.add(p);
+end
+
+rule "rule135"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.55516954);
+        resultList.add(p);
+end
+
+rule "rule136"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55444444);
+        resultList.add(p);
+end
+
+rule "rule137"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55386002);
+        resultList.add(p);
+end
+
+rule "rule138"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55386002);
+        resultList.add(p);
+end
+
+rule "rule139"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55349207);
+        resultList.add(p);
+end
+
+rule "rule140"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55349207);
+        resultList.add(p);
+end
+
+rule "rule141"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.55333829);
+        resultList.add(p);
+end
+
+rule "rule142"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.55329365);
+        resultList.add(p);
+end
+
+rule "rule143"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55301588);
+        resultList.add(p);
+end
+
+rule "rule144"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.55238509);
+        resultList.add(p);
+end
+
+rule "rule145"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5515873);
+        resultList.add(p);
+end
+
+rule "rule146"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5515873);
+        resultList.add(p);
+end
+
+rule "rule147"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55126984);
+        resultList.add(p);
+end
+
+rule "rule148"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.55126984);
+        resultList.add(p);
+end
+
+rule "rule149"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.55073294);
+        resultList.add(p);
+end
+
+rule "rule150"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.55057126);
+        resultList.add(p);
+end
+
+rule "rule151"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.55057126);
+        resultList.add(p);
+end
+
+rule "rule152"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.54996031);
+        resultList.add(p);
+end
+
+rule "rule153"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.548466);
+        resultList.add(p);
+end
+
+rule "rule154"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.548466);
+        resultList.add(p);
+end
+
+rule "rule155"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.54833054);
+        resultList.add(p);
+end
+
+rule "rule156"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.54760263);
+        resultList.add(p);
+end
+
+rule "rule157"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.54707749);
+        resultList.add(p);
+end
+
+rule "rule158"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.54707749);
+        resultList.add(p);
+end
+
+rule "rule159"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54694444);
+        resultList.add(p);
+end
+
+rule "rule160"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54671716);
+        resultList.add(p);
+end
+
+rule "rule161"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.54662698);
+        resultList.add(p);
+end
+
+rule "rule162"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54634921);
+        resultList.add(p);
+end
+
+rule "rule163"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54460317);
+        resultList.add(p);
+end
+
+rule "rule164"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54460317);
+        resultList.add(p);
+end
+
+rule "rule165"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.54456568);
+        resultList.add(p);
+end
+
+rule "rule166"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54444444);
+        resultList.add(p);
+end
+
+rule "rule167"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.54440475);
+        resultList.add(p);
+end
+
+rule "rule168"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54412698);
+        resultList.add(p);
+end
+
+rule "rule169"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54301588);
+        resultList.add(p);
+end
+
+rule "rule170"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54255049);
+        resultList.add(p);
+end
+
+rule "rule171"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.54164269);
+        resultList.add(p);
+end
+
+rule "rule172"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54079365);
+        resultList.add(p);
+end
+
+rule "rule173"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_66");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.54027777);
+        resultList.add(p);
+end
+
+rule "rule174"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.54020512);
+        resultList.add(p);
+end
+
+rule "rule175"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.53953743);
+        resultList.add(p);
+end
+
+rule "rule176"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.53838154);
+        resultList.add(p);
+end
+
+rule "rule177"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.53838154);
+        resultList.add(p);
+end
+
+rule "rule178"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53823233);
+        resultList.add(p);
+end
+
+rule "rule179"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53823233);
+        resultList.add(p);
+end
+
+rule "rule180"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.53814892);
+        resultList.add(p);
+end
+
+rule "rule181"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.53746031);
+        resultList.add(p);
+end
+
+rule "rule182"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.5373278);
+        resultList.add(p);
+end
+
+rule "rule183"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.5360101);
+        resultList.add(p);
+end
+
+rule "rule184"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.5360101);
+        resultList.add(p);
+end
+
+rule "rule185"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53547238);
+        resultList.add(p);
+end
+
+rule "rule186"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53537519);
+        resultList.add(p);
+end
+
+rule "rule187"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53537519);
+        resultList.add(p);
+end
+
+rule "rule188"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53444445);
+        resultList.add(p);
+end
+
+rule "rule189"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.53412698);
+        resultList.add(p);
+end
+
+rule "rule190"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53222222);
+        resultList.add(p);
+end
+
+rule "rule191"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.53190475);
+        resultList.add(p);
+end
+
+rule "rule192"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.53158731);
+        resultList.add(p);
+end
+
+rule "rule193"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.53073536);
+        resultList.add(p);
+end
+
+rule "rule194"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.52945297);
+        resultList.add(p);
+end
+
+rule "rule195"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52934343);
+        resultList.add(p);
+end
+
+rule "rule196"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52934343);
+        resultList.add(p);
+end
+
+rule "rule197"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52914142);
+        resultList.add(p);
+end
+
+rule "rule198"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52914142);
+        resultList.add(p);
+end
+
+rule "rule199"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52888889);
+        resultList.add(p);
+end
+
+rule "rule200"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52691919);
+        resultList.add(p);
+end
+
+rule "rule201"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52691919);
+        resultList.add(p);
+end
+
+rule "rule202"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52628428);
+        resultList.add(p);
+end
+
+rule "rule203"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52628428);
+        resultList.add(p);
+end
+
+rule "rule204"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52611111);
+        resultList.add(p);
+end
+
+rule "rule205"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52555555);
+        resultList.add(p);
+end
+
+rule "rule206"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52388888);
+        resultList.add(p);
+end
+
+rule "rule207"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52325397);
+        resultList.add(p);
+end
+
+rule "rule208"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.52255827);
+        resultList.add(p);
+end
+
+rule "rule209"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52222222);
+        resultList.add(p);
+end
+
+rule "rule210"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.52196741);
+        resultList.add(p);
+end
+
+rule "rule211"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.52158731);
+        resultList.add(p);
+end
+
+rule "rule212"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52055555);
+        resultList.add(p);
+end
+
+rule "rule213"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52025252);
+        resultList.add(p);
+end
+
+rule "rule214"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.52025252);
+        resultList.add(p);
+end
+
+rule "rule215"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.51999999);
+        resultList.add(p);
+end
+
+rule "rule216"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51996031);
+        resultList.add(p);
+end
+
+rule "rule217"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_21","",iid,0.5199187);
+        resultList.add(p);
+end
+
+rule "rule218"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.51872089);
+        resultList.add(p);
+end
+
+rule "rule219"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.5177381);
+        resultList.add(p);
+end
+
+rule "rule220"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.51722221);
+        resultList.add(p);
+end
+
+rule "rule221"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51638888);
+        resultList.add(p);
+end
+
+rule "rule222"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51638888);
+        resultList.add(p);
+end
+
+rule "rule223"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.51613519);
+        resultList.add(p);
+end
+
+rule "rule224"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.51559177);
+        resultList.add(p);
+end
+
+rule "rule225"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51416667);
+        resultList.add(p);
+end
+
+rule "rule226"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51416667);
+        resultList.add(p);
+end
+
+rule "rule227"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_66");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.51411764);
+        resultList.add(p);
+end
+
+rule "rule228"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.51388888);
+        resultList.add(p);
+end
+
+rule "rule229"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.51377129);
+        resultList.add(p);
+end
+
+rule "rule230"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.51325397);
+        resultList.add(p);
+end
+
+rule "rule231"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.51166665);
+        resultList.add(p);
+end
+
+rule "rule232"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50746031);
+        resultList.add(p);
+end
+
+rule "rule233"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50638888);
+        resultList.add(p);
+end
+
+rule "rule234"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50638888);
+        resultList.add(p);
+end
+
+rule "rule235"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.5052381);
+        resultList.add(p);
+end
+
+rule "rule236"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50440475);
+        resultList.add(p);
+end
+
+rule "rule237"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50416667);
+        resultList.add(p);
+end
+
+rule "rule238"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50416667);
+        resultList.add(p);
+end
+
+rule "rule239"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50388888);
+        resultList.add(p);
+end
+
+rule "rule240"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_67","",iid,0.50225698);
+        resultList.add(p);
+end
+
+rule "rule241"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_21");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_22");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_68","",iid,0.50218254);
+        resultList.add(p);
+end
+
+rule "rule242"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_81");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5);
+        resultList.add(p);
+end
+
+rule "rule243"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_81");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.5);
+        resultList.add(p);
+end
+
+rule "rule244"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_81");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_69","",iid,0.5);
+        resultList.add(p);
+end
+
+rule "rule245"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_81");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_21");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.5);
+        resultList.add(p);
+end
+

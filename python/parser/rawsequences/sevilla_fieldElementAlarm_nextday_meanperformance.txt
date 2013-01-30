@@ -1,0 +1,15 @@
+"","rule","precision","recall"
+"1","<{saml.status.DS_6_0},{saml.status.DS_6_0}>",0.22386705,0.22386705
+"2","<{saml.status.DS_10_24},{saml.status.DS_6_0}>",0.1,0.003571429
+"3","<{saml.status.DS_6_0},{saml.status.DS_10_56}>",0.06522129,0.25
+"4","<{saml.status.DS_6_0},{saml.status.DS_10_60}>",0.04078947,0.18
+"5","<{saml.status.DS_6_0},{saml.status.DS_10_52}>",0.04078947,0.2
+"6","<{saml.status.DS_10_56},{saml.status.DS_6_0}>",0.01666667,0.00625
+"7","<{saml.status.DS_10_56},{saml.status.DS_10_60}>",0.01666667,0.02
+"8","<{saml.status.DS_10_56},{saml.status.DS_10_56}>",0.01666667,0.01666667
+"9","<{saml.status.DS_10_56},{saml.status.DS_10_52}>",0.01666667,0.025
+"10","<{saml.status.DS_10_56,saml.status.DS_6_0},{saml.status.DS_6_0}>",0.01666667,0.00625
+"11","<{saml.status.DS_10_56,saml.status.DS_6_0},{saml.status.DS_10_60}>",0.01666667,0.02
+"12","<{saml.status.DS_10_56,saml.status.DS_6_0},{saml.status.DS_10_56}>",0.01666667,0.01666667
+"13","<{saml.status.DS_10_56,saml.status.DS_6_0},{saml.status.DS_10_52}>",0.01666667,0.025
+"14","<{saml.status.DS_6_0},{saml.status.DS_10_24}>",0.01052632,0.1

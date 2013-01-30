@@ -1,0 +1,12 @@
+"","rule","precision","recall"
+"1","<{saml.status.MS_alarm_SE_white_lamp_fused},{saml.status.MS_alarm_SE_blue_lamp_fused}>",0.1,0.02
+"2","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2,saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_yellow_lamp_fused_2}>",0.0952381,0.05079365
+"3","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2,saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_red_lamp_fused_1}>",0.0952381,0.05833333
+"4","<{saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_yellow_lamp_fused_2}>",0.05833333,0.05079365
+"5","<{saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_red_lamp_fused_1}>",0.05833333,0.05833333
+"6","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2},{saml.status.MS_alarm_SE_yellow_lamp_fused_2}>",0.05079365,0.05079365
+"7","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2},{saml.status.MS_alarm_SE_red_lamp_fused_1}>",0.05079365,0.05833333
+"8","<{saml.status.MS_alarm_SE_blue_lamp_fused},{saml.status.MS_alarm_SE_blue_lamp_fused}>",0.03333334,0.03333334
+"9","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2,saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_blue_lamp_fused}>",0.03333333,0.02
+"10","<{saml.status.MS_alarm_SE_yellow_lamp_fused_2},{saml.status.MS_alarm_SE_blue_lamp_fused}>",0.03111111,0.05333334
+"11","<{saml.status.MS_alarm_SE_red_lamp_fused_1},{saml.status.MS_alarm_SE_blue_lamp_fused}>",0.01666667,0.02

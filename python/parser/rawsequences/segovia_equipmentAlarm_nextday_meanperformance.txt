@@ -1,0 +1,5 @@
+"","rule","precision","recall"
+"1","<{clc.CPU_status_DOWN},{clc.BD_incorrect_version_telegram_channel}>",0.25833333,0.108809513
+"2","<{clc.BD_incorrect_version_telegram_channel,clc.CPU_status_DOWN},{clc.BD_incorrect_version_telegram_channel}>",0.25,0.046904753
+"3","<{clc.BD_incorrect_version_telegram_channel},{clc.BD_incorrect_version_telegram_channel}>",0.16103175,0.16103175
+"4","<{clc.CPU_status_DOWN},{clc.CPU_status_DOWN}>",0.01666667,0.01666667

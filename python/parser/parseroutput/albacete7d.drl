@@ -1,0 +1,80 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.6254677);
+        resultList.add(p);
+end
+
+rule "rule1"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.6254677);
+        resultList.add(p);
+end
+
+rule "rule2"
+    when 
+        Alarm(iid : installationID, alarmCode == "SAMEL_CM_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("SAMEL_CM_communication_DOWN","communicationsAlarm",iid,0.6254677);
+        resultList.add(p);
+end
+
+rule "rule3"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.63150795);
+        resultList.add(p);
+end
+
+rule "rule4"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+        Alarm(installationID == iid, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.62936509);
+        resultList.add(p);
+end
+
+rule "rule5"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.58824375);
+        resultList.add(p);
+end
+
+rule "rule6"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.68084416);
+        resultList.add(p);
+end
+
+rule "rule7"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.62763338);
+        resultList.add(p);
+end
+
+rule "rule8"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.connection_operator_connected");
+        Alarm(installationID == iid, alarmCode == "saml.status.printer_inactive");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.printer_inactive","internalDiagnosis",iid,0.61338384);
+        resultList.add(p);
+end
+

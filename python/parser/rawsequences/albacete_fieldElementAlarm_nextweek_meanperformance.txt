@@ -1,0 +1,7 @@
+"","rule","precision","recall"
+"1","<{saml.status.alarm_EL_breakdown,saml.status.alarm_EL_failure},{saml.status.alarm_EL_failure}>",0.09995837,0.030507127
+"2","<{saml.status.alarm_EL_breakdown,saml.status.alarm_EL_failure},{saml.status.alarm_EL_breakdown}>",0.08557692,0.032063484
+"3","<{saml.status.alarm_EL_breakdown},{saml.status.alarm_EL_breakdown}>",0.06118629,0.06118629
+"4","<{saml.status.alarm_EL_breakdown},{saml.status.alarm_EL_failure}>",0.03333333,0.025968705
+"5","<{saml.status.alarm_EL_failure},{saml.status.alarm_EL_breakdown}>",0.02286957,0.022948715
+"6","<{saml.status.alarm_EL_failure},{saml.status.alarm_EL_failure}>",0.01219512,0.01219512

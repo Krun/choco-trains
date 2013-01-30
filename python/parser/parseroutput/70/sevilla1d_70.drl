@@ -1,0 +1,27 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.70116778);
+        resultList.add(p);
+end
+
+rule "rule1"
+    when 
+        Alarm(iid : installationID, alarmCode == "saml.status.DS_7_69");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_20");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_67");
+        Alarm(installationID == iid, alarmCode == "saml.status.DS_7_68");
+    then 
+        PossibleEvent p = new PossibleEvent("saml.status.DS_7_20","",iid,0.70116778);
+        resultList.add(p);
+end
+

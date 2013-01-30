@@ -1,0 +1,2 @@
+"","rule","precision","recall"
+"1","<{ence.status.PCE_ENCE_communication_DOWN},{ence.status.PCE_ENCE_communication_DOWN}>",0.68526639,0.68526639

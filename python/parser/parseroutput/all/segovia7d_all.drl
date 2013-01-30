@@ -1,0 +1,1200 @@
+package es.upm.dit.gsi.trainmining;
+
+import es.upm.dit.gsi.trainmining.model.Alarm;
+import es.upm.dit.gsi.trainmining.model.PossibleEvent;
+global java.util.List resultList;
+
+rule "rule0"
+    when 
+        Alarm(iid : installationID, alarmCode == "ence.status.PCE_ENCE_communication_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("ence.status.PCE_ENCE_communication_DOWN","CommProblem",iid,0.68526639);
+        resultList.add(p);
+end
+
+rule "rule1"
+    when 
+        Alarm(iid : installationID, alarmCode == "node.unit.monitor_detected_unit_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("node.unit.monitor_detected_unit_DOWN","communicationsAlarm",iid,0.5515264);
+        resultList.add(p);
+end
+
+rule "rule2"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.IM_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.IM_CLC_connection_status_DOWN","communicationsAlarm",iid,0.41728969);
+        resultList.add(p);
+end
+
+rule "rule3"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.SAMCLC_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.SAMCLC_CLC_connection_status_DOWN","communicationsAlarm",iid,0.41099065);
+        resultList.add(p);
+end
+
+rule "rule4"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.IM_CLC_connection_status_DOWN");
+        Alarm(installationID == iid, alarmCode == "clc.SAMCLC_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.SAMCLC_CLC_connection_status_DOWN","communicationsAlarm",iid,0.40115865);
+        resultList.add(p);
+end
+
+rule "rule5"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.IM_CLC_connection_status_DOWN");
+        Alarm(installationID == iid, alarmCode == "clc.SAMCLC_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.IM_CLC_connection_status_DOWN","communicationsAlarm",iid,0.20459002);
+        resultList.add(p);
+end
+
+rule "rule6"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.IM_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.SAMCLC_CLC_connection_status_DOWN","communicationsAlarm",iid,0.15888423);
+        resultList.add(p);
+end
+
+rule "rule7"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.SAMCLC_CLC_connection_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.IM_CLC_connection_status_DOWN","communicationsAlarm",iid,0.10028059);
+        resultList.add(p);
+end
+
+rule "rule8"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.90311625);
+        resultList.add(p);
+end
+
+rule "rule9"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.90311625);
+        resultList.add(p);
+end
+
+rule "rule10"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.90281383);
+        resultList.add(p);
+end
+
+rule "rule11"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.90281383);
+        resultList.add(p);
+end
+
+rule "rule12"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.89899642);
+        resultList.add(p);
+end
+
+rule "rule13"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.898694);
+        resultList.add(p);
+end
+
+rule "rule14"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.89588915);
+        resultList.add(p);
+end
+
+rule "rule15"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.89549203);
+        resultList.add(p);
+end
+
+rule "rule16"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.89158789);
+        resultList.add(p);
+end
+
+rule "rule17"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.89158789);
+        resultList.add(p);
+end
+
+rule "rule18"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.89118466);
+        resultList.add(p);
+end
+
+rule "rule19"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.89118466);
+        resultList.add(p);
+end
+
+rule "rule20"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.88508279);
+        resultList.add(p);
+end
+
+rule "rule21"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.88467956);
+        resultList.add(p);
+end
+
+rule "rule22"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.88316599);
+        resultList.add(p);
+end
+
+rule "rule23"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.88235852);
+        resultList.add(p);
+end
+
+rule "rule24"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.88197552);
+        resultList.add(p);
+end
+
+rule "rule25"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.88181739);
+        resultList.add(p);
+end
+
+rule "rule26"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.88147759);
+        resultList.add(p);
+end
+
+rule "rule27"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.88105827);
+        resultList.add(p);
+end
+
+rule "rule28"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.87425175);
+        resultList.add(p);
+end
+
+rule "rule29"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.87156308);
+        resultList.add(p);
+end
+
+rule "rule30"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.86792392);
+        resultList.add(p);
+end
+
+rule "rule31"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.86511942);
+        resultList.add(p);
+end
+
+rule "rule32"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.8001828);
+        resultList.add(p);
+end
+
+rule "rule33"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.79523375);
+        resultList.add(p);
+end
+
+rule "rule34"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO","environmentAlarm",iid,0.78961581);
+        resultList.add(p);
+end
+
+rule "rule35"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.78902397);
+        resultList.add(p);
+end
+
+rule "rule36"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.78055866);
+        resultList.add(p);
+end
+
+rule "rule37"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP","environmentAlarm",iid,0.76943982);
+        resultList.add(p);
+end
+
+rule "rule38"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.62177256);
+        resultList.add(p);
+end
+
+rule "rule39"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.62149345);
+        resultList.add(p);
+end
+
+rule "rule40"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.62071322);
+        resultList.add(p);
+end
+
+rule "rule41"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.62062681);
+        resultList.add(p);
+end
+
+rule "rule42"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.57970937);
+        resultList.add(p);
+end
+
+rule "rule43"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.57970937);
+        resultList.add(p);
+end
+
+rule "rule44"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.5786005);
+        resultList.add(p);
+end
+
+rule "rule45"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.5786005);
+        resultList.add(p);
+end
+
+rule "rule46"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.57158994);
+        resultList.add(p);
+end
+
+rule "rule47"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.57090747);
+        resultList.add(p);
+end
+
+rule "rule48"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.57048107);
+        resultList.add(p);
+end
+
+rule "rule49"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.56981494);
+        resultList.add(p);
+end
+
+rule "rule50"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.56875693);
+        resultList.add(p);
+end
+
+rule "rule51"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.56633622);
+        resultList.add(p);
+end
+
+rule "rule52"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO","environmentAlarm",iid,0.55688718);
+        resultList.add(p);
+end
+
+rule "rule53"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.4774279);
+        resultList.add(p);
+end
+
+rule "rule54"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.4774279);
+        resultList.add(p);
+end
+
+rule "rule55"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.47601661);
+        resultList.add(p);
+end
+
+rule "rule56"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.47601661);
+        resultList.add(p);
+end
+
+rule "rule57"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.46964807);
+        resultList.add(p);
+end
+
+rule "rule58"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.46952445);
+        resultList.add(p);
+end
+
+rule "rule59"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.46823678);
+        resultList.add(p);
+end
+
+rule "rule60"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.4668821);
+        resultList.add(p);
+end
+
+rule "rule61"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.41000403);
+        resultList.add(p);
+end
+
+rule "rule62"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.40598281);
+        resultList.add(p);
+end
+
+rule "rule63"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.40477491);
+        resultList.add(p);
+end
+
+rule "rule64"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_DIS_chann0_DO_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.40111921);
+        resultList.add(p);
+end
+
+rule "rule65"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.39710638);
+        resultList.add(p);
+end
+
+rule "rule66"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_DO_chann1_UP");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.39387793);
+        resultList.add(p);
+end
+
+rule "rule67"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_OCS_state_CON_chann0_UP_chann1_DO");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_OCS_state_CON_chann0_DO_chann1_DO","environmentAlarm",iid,0.38181139);
+        resultList.add(p);
+end
+
+rule "rule68"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_incorrect_version_telegram_channel");
+        Alarm(installationID == iid, alarmCode == "clc.CPU_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_incorrect_version_telegram_channel","equipmentAlarm",iid,0.35);
+        resultList.add(p);
+end
+
+rule "rule69"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.CPU_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_incorrect_version_telegram_channel","equipmentAlarm",iid,0.29999999);
+        resultList.add(p);
+end
+
+rule "rule70"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_incorrect_version_telegram_channel");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_incorrect_version_telegram_channel","equipmentAlarm",iid,0.14972222);
+        resultList.add(p);
+end
+
+rule "rule71"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.CPU_status_DOWN");
+        Alarm(installationID == iid, alarmCode == "clc.Fatal_error_system_down");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_incorrect_version_telegram_channel","equipmentAlarm",iid,0.1);
+        resultList.add(p);
+end
+
+rule "rule72"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.Fatal_error_system_down");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_incorrect_version_telegram_channel","equipmentAlarm",iid,0.06666666);
+        resultList.add(p);
+end
+
+rule "rule73"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_incorrect_version_telegram_channel");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.Fatal_error_system_down","equipmentAlarm",iid,0.03888889);
+        resultList.add(p);
+end
+
+rule "rule74"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.CPU_status_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.CPU_status_DOWN","equipmentAlarm",iid,0.025);
+        resultList.add(p);
+end
+
+rule "rule75"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_incorrect_version_telegram_channel");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.CPU_status_DOWN","equipmentAlarm",iid,0.01428571);
+        resultList.add(p);
+end
+
+rule "rule76"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.48);
+        resultList.add(p);
+end
+
+rule "rule77"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.35666667);
+        resultList.add(p);
+end
+
+rule "rule78"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.35);
+        resultList.add(p);
+end
+
+rule "rule79"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.35);
+        resultList.add(p);
+end
+
+rule "rule80"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.35);
+        resultList.add(p);
+end
+
+rule "rule81"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.35);
+        resultList.add(p);
+end
+
+rule "rule82"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.31805063);
+        resultList.add(p);
+end
+
+rule "rule83"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.31666667);
+        resultList.add(p);
+end
+
+rule "rule84"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.28666667);
+        resultList.add(p);
+end
+
+rule "rule85"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule86"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule87"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule88"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule89"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule90"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule91"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule92"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule93"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule94"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule95"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule96"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule97"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule98"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.2);
+        resultList.add(p);
+end
+
+rule "rule99"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.19964285);
+        resultList.add(p);
+end
+
+rule "rule100"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.19821428);
+        resultList.add(p);
+end
+
+rule "rule101"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.19821428);
+        resultList.add(p);
+end
+
+rule "rule102"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.19119047);
+        resultList.add(p);
+end
+
+rule "rule103"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.18968253);
+        resultList.add(p);
+end
+
+rule "rule104"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.18412697);
+        resultList.add(p);
+end
+
+rule "rule105"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.17861111);
+        resultList.add(p);
+end
+
+rule "rule106"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.17615079);
+        resultList.add(p);
+end
+
+rule "rule107"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.17472222);
+        resultList.add(p);
+end
+
+rule "rule108"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.17103175);
+        resultList.add(p);
+end
+
+rule "rule109"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.17);
+        resultList.add(p);
+end
+
+rule "rule110"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.16174603);
+        resultList.add(p);
+end
+
+rule "rule111"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.15654761);
+        resultList.add(p);
+end
+
+rule "rule112"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.15654761);
+        resultList.add(p);
+end
+
+rule "rule113"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.15329365);
+        resultList.add(p);
+end
+
+rule "rule114"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.14980158);
+        resultList.add(p);
+end
+
+rule "rule115"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.14563491);
+        resultList.add(p);
+end
+
+rule "rule116"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.14226189);
+        resultList.add(p);
+end
+
+rule "rule117"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.14226189);
+        resultList.add(p);
+end
+
+rule "rule118"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.14075396);
+        resultList.add(p);
+end
+
+rule "rule119"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.13551586);
+        resultList.add(p);
+end
+
+rule "rule120"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.13230158);
+        resultList.add(p);
+end
+
+rule "rule121"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.13134919);
+        resultList.add(p);
+end
+
+rule "rule122"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.11547618);
+        resultList.add(p);
+end
+
+rule "rule123"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.11547618);
+        resultList.add(p);
+end
+
+rule "rule124"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+        Alarm(installationID == iid, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.11190475);
+        resultList.add(p);
+end
+
+rule "rule125"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_ALIVE_chann_BROKEN");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.10912697);
+        resultList.add(p);
+end
+
+rule "rule126"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.NCEC_status_NOT_ALIVE_chann_ACTIVE");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.BD_status_MISSING","information",iid,0.09972222);
+        resultList.add(p);
+end
+
+rule "rule127"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_ACTIVE","information",iid,0.05814933);
+        resultList.add(p);
+end
+
+rule "rule128"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_NOT_ALIVE_chann_BROKEN","information",iid,0.02176471);
+        resultList.add(p);
+end
+
+rule "rule129"
+    when 
+        Alarm(iid : installationID, alarmCode == "clc.BD_status_MISSING");
+    then 
+        PossibleEvent p = new PossibleEvent("clc.NCEC_status_ALIVE_chann_BROKEN","information",iid,0.01);
+        resultList.add(p);
+end
+
+rule "rule130"
+    when 
+        Alarm(iid : installationID, alarmCode == "node.node_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("node.node_DOWN","processingErrorAlarm",iid,0.54758301);
+        resultList.add(p);
+end
+
+rule "rule131"
+    when 
+        Alarm(iid : installationID, alarmCode == "node.unit.unit_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("node.node_DOWN","processingErrorAlarm",iid,0.1);
+        resultList.add(p);
+end
+
+rule "rule132"
+    when 
+        Alarm(iid : installationID, alarmCode == "node.node_DOWN");
+        Alarm(installationID == iid, alarmCode == "node.unit.unit_DOWN");
+    then 
+        PossibleEvent p = new PossibleEvent("node.node_DOWN","processingErrorAlarm",iid,0.1);
+        resultList.add(p);
+end
+

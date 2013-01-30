@@ -1,0 +1,8 @@
+"","rule","precision","recall"
+"1","<{node.unit.monitor_detected_unit_DOWN},{node.unit.monitor_detected_unit_DOWN}>",0.5515264,0.5515264
+"2","<{clc.IM_CLC_connection_status_DOWN},{clc.IM_CLC_connection_status_DOWN}>",0.41728969,0.41728969
+"3","<{clc.SAMCLC_CLC_connection_status_DOWN},{clc.SAMCLC_CLC_connection_status_DOWN}>",0.41099065,0.41099065
+"4","<{clc.IM_CLC_connection_status_DOWN,clc.SAMCLC_CLC_connection_status_DOWN},{clc.SAMCLC_CLC_connection_status_DOWN}>",0.40115865,0.073741513
+"5","<{clc.IM_CLC_connection_status_DOWN,clc.SAMCLC_CLC_connection_status_DOWN},{clc.IM_CLC_connection_status_DOWN}>",0.20459002,0.058016648
+"6","<{clc.IM_CLC_connection_status_DOWN},{clc.SAMCLC_CLC_connection_status_DOWN}>",0.15888423,0.136063016
+"7","<{clc.SAMCLC_CLC_connection_status_DOWN},{clc.IM_CLC_connection_status_DOWN}>",0.10028059,0.102982159

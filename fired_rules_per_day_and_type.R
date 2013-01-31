@@ -1,7 +1,6 @@
-antequera_fired <- read.csv("fired_rules/antequera_timeline_out.txt", header= TRUE, sep=" ")
+antequera_fired <- read.csv("fired_rules/antequera_timeline_out_80.txt", header= TRUE, sep=" ")
 antequera_fired$accum <- antequera_fired$valid + antequera_fired$invalid
 
-data <- antequera_fired[antequera_fired$alarm_type == "fieldElementFailure", ]
 data <- antequera_fired[antequera_fired$time < 50,]
 data <- data[with(data, order(time)), ]
 
@@ -12,6 +11,7 @@ days_types_plot <- function(data, name, title="Valid vs invalid predictions", pa
   types = levels(as.factor(data$alarm_type))
   numtyp = length(types)
   height = 1/numtyp
+  alldays = data.frame(time = min(data$time):max(data$time))
   png(filename, width=1000, height=300*numtyp, res=100)
   plot.new()
   #ord = 2*1:numtyp
@@ -23,17 +23,20 @@ days_types_plot <- function(data, name, title="Valid vs invalid predictions", pa
   for(i in 1:numtyp) {
     stacks = NULL
     ns = data[data$alarm_type == types[i],]
+    ns <- merge(ns,alldays,by="time", all.y = TRUE)
     rownames(ns) <- ns$time
     day = factor(ns$time)
     stacks = rbind(stacks,ns$valid)
     stacks = rbind(stacks,ns$invalid)
     rownames(stacks) <- c("valid","invalid")
     colnames(stacks) <- ns$time
-    barplot(stacks,col=c("lawngreen","tomato"), main=paste(name,title,types[i],sep=" - "), beside=besid)
+    barplot(stacks,col=c("lawngreen","tomato"), main=paste(name,title,types[i],sep=" - "), xlab="Day", ylab="Raised predictions", beside=besid)
     legend(60,15, c("right","wrong"), fill=c("lawngreen","tomato"), xpd=NA)
   }
   dev.off()
 }
+
+days_types_plot(data,"Antequera 0.80")
 
 days_types_pred_fract <- function(data, name, title="Predicted vs not predicted events", path="graphs/fired_timelines", besid=FALSE) {
   dir.create(path, showWarnings = FALSE)
@@ -59,7 +62,7 @@ days_types_pred_fract <- function(data, name, title="Predicted vs not predicted 
     stacks = rbind(stacks,ns$nonpred)
     rownames(stacks) <- c("predicted","non predicted")
     colnames(stacks) <- ns$time
-    barplot(stacks,col=c("lawngreen","orange"), main=paste(name,title,types[i],sep=" - "), beside=besid)
+    barplot(stacks,col=c("lawngreen","orange"), main=paste(name,title,types[i],sep=" - "), xlab="Day", ylab="Events", beside=besid)
     legend(58,60, c("predicted","not predicted"), fill=c("lawngreen","tomato"), xpd=NA)
   }
   dev.off()
@@ -87,7 +90,7 @@ pred_per_day_type <- function(data, name, title="Predicted alarms per type", pat
   }
   rownames(stacks) <- types
   colnames(stacks) <- alldays$time
-  barplot(stacks,col=rainbow(numtyp), main=paste(name,title,sep=" - "), beside=besid)
+  barplot(stacks,col=rainbow(numtyp), main=paste(name,title,sep=" - "), beside=besid, xlab="Day", ylab="Raised predictions")
   legend(0,-5, types, fill=rainbow(numtyp), xpd=NA)
   dev.off()
 }

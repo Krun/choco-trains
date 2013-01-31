@@ -117,14 +117,14 @@ def loadTypeDic(dictfile):
         dicc[key] = value
     __TYPEDIC__ = dicc
 
-def fireRulesFromFiles(rulefile,dicfile,basketfile,repeat=False):
-    rules = parseRules(rulefile,dicfile)
+def fireRulesFromFiles(rulefile,dicfile,basketfile,repeat=False, minconfidence=0.5):
+    rules = parseRules(rulefile,dicfile,minconfidence)
     baskets = parseBaskets(basketfile)
     valid = fireRules(rules,baskets,repeat)
     return valid
 
-def writeResultsFromFiles(rulefile,dicfile,basketfile,outputfile,repeat=False):
-    res = fireRulesFromFiles(rulefile,dicfile,basketfile,repeat)
+def writeResultsFromFiles(rulefile,dicfile,basketfile,outputfile,repeat=False, minconfidence=0.5):
+    res = fireRulesFromFiles(rulefile,dicfile,basketfile,repeat,minconfidence)
     baskets = parseBaskets(basketfile)
     totals = countBaskets(baskets)
     fout = open(outputfile, "w")

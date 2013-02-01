@@ -26,11 +26,11 @@ barplot(tabla<-prop.table(table(antequera$DVNI_ERRORCATEGORY)),col=rainbow(lengt
 #pie3D(tabla<-table(antequera$INVOKE_TYPE), explode=0.1, main="antequera - Invoke Type")
 dev.off()
 
-png("camas_graph.png", width=1500, height=700, res=200)
+png("albacete_graph.png", width=1500, height=700, res=200)
 par(mfrow=c(1,3), mar=c(16,2,2,2))
-barplot(tabla<-prop.table(table(camas$EVENT_TYPE)), col=rainbow(length(names(tabla))), main="camas - Event type", las=3)
-barplot(tabla<-prop.table(table(camas$INVOKE_TYPE)), col=rainbow(length(names(tabla))), main="camas - Invoke type")
-barplot(tabla<-prop.table(table(camas$DVNI_ERRORCATEGORY)),col=rainbow(length(names(tabla))), main="camas - Error category")
+barplot(tabla<-prop.table(table(albacete$EVENT_TYPE)), col=rainbow(length(names(tabla))), main="albacete - Event type", las=3)
+barplot(tabla<-prop.table(table(albacete$INVOKE_TYPE)), col=rainbow(length(names(tabla))), main="albacete - Invoke type")
+barplot(tabla<-prop.table(table(albacete$DVNI_ERRORCATEGORY)),col=rainbow(length(names(tabla))), main="albacete - Error category")
 #pie3D(tabla<-table(camas$INVOKE_TYPE), explode=0.1, main="camas - Invoke Type")
 dev.off()
 

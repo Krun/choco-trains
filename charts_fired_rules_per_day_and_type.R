@@ -1,4 +1,4 @@
-antequera_fired <- read.csv("fired_rules/antequera_timeline_out_80.txt", header= TRUE, sep=" ")
+antequera_fired <- read.csv("fired_rules/antequera_timeline_out_70.txt", header= TRUE, sep=" ")
 antequera_fired$accum <- antequera_fired$valid + antequera_fired$invalid
 
 data <- antequera_fired[antequera_fired$time < 50,]
@@ -36,7 +36,7 @@ days_types_plot <- function(data, name, title="Valid vs invalid predictions", pa
   dev.off()
 }
 
-days_types_plot(data,"Antequera 0.80")
+days_types_plot(data,"Antequera 0.70")
 
 days_types_pred_fract <- function(data, name, title="Predicted vs not predicted events", path="graphs/fired_timelines", besid=FALSE) {
   dir.create(path, showWarnings = FALSE)

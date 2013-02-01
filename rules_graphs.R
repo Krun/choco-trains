@@ -14,6 +14,17 @@ rules_antequera1day <- rbind(rules1,rules2)
 precision_graphs(rules_antequera1day,"Antequera (1 day)", minimum = 0)
 
 ##########################################################
+
+
+name="antequera_general"
+filename <- paste(path,name,"_meanperformance.txt",sep="")
+rules2 <- read.csv(filename, header = TRUE)
+
+rules_antequera_nc <- rules2
+
+precision_compare_graphs(rules_antequera1day, rules_antequera_nc,"Antequera (compared precision)", minimum = 0.5)
+
+##########################################################
 ##########################################################
 ##########################################################
 ##########################################################
@@ -188,6 +199,39 @@ precision_graphs <- function(rules_s,name,path="graphs/precision", minimum=0.50)
     dev.off()
   } 
 }
+
+precision_compare_graphs <- function(rules_s, rules_2 ,name,path="graphs/precision", minimum=0.50){
+  if (minimum < 0.05) {
+    minimum <- 0.05
+  }
+  rules_s <- rules_s[rules_s$precision >= minimum, ]
+  rules_2 <- rules_2[rules_2$precision >= minimum, ]
+  minimum = 100*minimum
+  if (nrow(rules_s) > 0) {
+    dir.create(path, showWarnings = FALSE)
+    # levels <- 5*0:20
+    lmax1 <- max(rules_s$precision)
+    lmax2 <- max(rules_2$precision)
+    lmax <- max(c(lmax1,lmax2))
+    lmax <- floor(lmax*100/5)
+    lmin <- floor(minimum/5)
+    levels <- 5*lmin:lmax
+    counts <- sapply(levels, pcount, rules=rules_s)
+    counts2 <- sapply(levels, pcount, rules=rules_2)
+    stacks <- rbind(counts,counts2)
+    
+    filename <- paste(path,"/",name,"compared_precision_accum.png",sep="")
+    png(filename, res=100, height=800, width=1000)
+    par(mar=c(5,5,6,5))
+    bp <- barplot(stacks, main=paste("Precision comparison",name), beside=TRUE, names.arg=levels, col=c("dodgerblue","lightblue"), xlab="Precision threshold", ylab="Number of rules")
+    labels <- rbind(counts,counts2)
+    text(x=bp,y=labels,labels=labels, cex=0.8,pos=3,xpd=TRUE)
+    legend("topright", c("Grouping by element","No grouping"), fill=c("dodgerblue","lightblue"), xpd=NA)
+    dev.off()
+  } 
+}
+
+precision_compare_graphs(rules_antequera1day, rules_antequera_nc,"Antequera (compared precision)", minimum = 0.5)
 
 pcount <- function (p,rules_s) {
   prec <- p/100
